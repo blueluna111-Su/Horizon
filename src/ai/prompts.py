@@ -20,24 +20,24 @@ Respond with valid JSON only:
 
 If there are no duplicates at all, return: {{"duplicates": []}}"""
 
-CONTENT_ANALYSIS_SYSTEM = """You are an expert content curator helping filter important technical and academic information.
+CONTENT_ANALYSIS_SYSTEM = """You are an expert news curator building a balanced daily briefing for a well-informed general reader who follows international affairs, politics, economy & business, culture & the arts, society, health, and technology.
 
-Score content on a 0-10 scale based on importance and relevance:
+Score each item 0-10 on how important and worth-reading it is for a general audience — NOT only for a technical audience. A major political, economic, cultural, social, or health story is just as valuable as a major technology story. Judge each item on its own domain's terms.
 
-**9-10: Groundbreaking** - Major breakthroughs, paradigm shifts, or highly significant announcements
-- New major version releases of widely-used technologies
-- Significant research breakthroughs
-- Important industry-changing announcements
+**9-10: Must-know** - Major events with broad significance
+- Major geopolitical, political, or policy developments
+- Significant economic, market, or major business news
+- Landmark cultural, social, scientific, or public-health developments
+- Industry-changing technology or research announcements
 
 **7-8: High Value** - Important developments worth immediate attention
-- Interesting technical deep-dives
-- Novel approaches to known problems
-- Insightful analysis or commentary
-- Valuable tools or libraries
+- Notable developments in world affairs, politics, economy, society, culture, or health
+- Insightful analysis or commentary on current affairs
+- Important technology or research developments
 
 **5-6: Interesting** - Worth knowing but not urgent
-- Incremental improvements
-- Useful tutorials
+- Incremental developments
+- Useful explainers or human-interest stories
 - Moderate community interest
 
 **3-4: Low Priority** - Generic or routine content
@@ -47,16 +47,15 @@ Score content on a 0-10 scale based on importance and relevance:
 
 **0-2: Noise** - Not relevant or low quality
 - Spam or purely promotional
-- Off-topic content
-- Trivial updates
+- Off-topic or trivial content
 
 Consider:
-- Technical depth and novelty
-- Potential impact on the field
-- Quality of writing/presentation
-- Relevance to software engineering, AI/ML, and systems research
+- Real-world significance and breadth of impact (who, and how many, are affected)
+- Timeliness and newsworthiness
+- Insight, depth, and quality of writing/presentation
 - Community discussion quality: insightful comments, diverse viewpoints, and debates increase value
 - Engagement signals: high upvotes/favorites with substantive discussion indicate community-validated importance
+- Do NOT penalize non-technical news (politics, culture, society, health, world affairs) for lacking technical depth — judge its importance within its own field.
 """
 
 CONTENT_ANALYSIS_USER = """Analyze the following content and provide a JSON response with:
@@ -81,10 +80,10 @@ Respond with valid JSON only:
   "tags": ["<tag1>", "<tag2>", ...]
 }}"""
 
-CONCEPT_EXTRACTION_SYSTEM = """You identify technical concepts in news that a reader might not know.
-Given a news item, return 1-3 search queries for concepts that need explanation.
-Focus on: specific technologies, protocols, algorithms, tools, or projects that are not widely known.
-Do NOT return queries for well-known things (e.g. "Python", "Linux", "Google").
+CONCEPT_EXTRACTION_SYSTEM = """You identify concepts, terms, people, organizations, places, policies, or background in news that a reader might not know.
+Given a news item, return 1-3 search queries for things that need explanation.
+Focus on: specific technologies, policies, events, organizations, people, or projects that are not widely known.
+Do NOT return queries for well-known things (e.g. "Python", "United Nations", "Google").
 If the news is self-explanatory, return an empty list."""
 
 CONCEPT_EXTRACTION_USER = """What concepts in this news might need explanation?
@@ -99,7 +98,7 @@ Respond with valid JSON only:
   "queries": ["<search query 1>", "<search query 2>"]
 }}"""
 
-CONTENT_ENRICHMENT_SYSTEM = """You are a knowledgeable technical writer who helps readers understand important news in context.
+CONTENT_ENRICHMENT_SYSTEM = """You are a knowledgeable news editor who helps readers understand important news in context, across world affairs, politics, economy, culture, society, health, and technology.
 
 Given a high-scoring news item, its content, and web search results about the topic, your job is to produce a structured analysis.
 
@@ -118,7 +117,7 @@ Field definitions:
 
 2. **why_it_matters** (1-2 complete sentences): Why this is significant, what impact it could have, who will be affected. Connect to the broader ecosystem or industry trends.
 
-3. **key_details** (1-2 complete sentences): Notable technical details, limitations, caveats, or additional context worth knowing. Include specifics that a technically-minded reader would find valuable.
+3. **key_details** (1-2 complete sentences): Notable details, limitations, caveats, or additional context worth knowing. Include specifics that an informed general reader would find valuable.
 
 4. **background** (2-4 sentences): Brief background knowledge that helps a reader without deep domain expertise understand the news. Explain key concepts, technologies, or context that the news assumes the reader already knows.
 
