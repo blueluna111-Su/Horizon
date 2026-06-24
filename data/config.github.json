@@ -11,30 +11,47 @@
   "sources": {
     "hackernews": {
       "enabled": true,
-      "fetch_top_stories": 20,
-      "min_score": 100
+      "fetch_top_stories": 15,
+      "min_score": 150
     },
     "rss": [
-      { "name": "BBC 中文 (國際)",         "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",       "enabled": true, "category": "world" },
-      { "name": "科技新報 TechNews (科技)", "url": "https://technews.tw/feed/",                            "enabled": true, "category": "tech" },
-      { "name": "鉅亨網 (財經)",            "url": "https://news.cnyes.com/rss/v1/news/category/headline", "enabled": true, "category": "finance" },
-      { "name": "紐約時報 NYT (美國/國際)",  "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "enabled": true, "category": "world" },
-      { "name": "NPR (美國/綜合)",          "url": "https://feeds.npr.org/1001/rss.xml",                       "enabled": true, "category": "world" },
-      { "name": "The Verge (美國科技)",     "url": "https://www.theverge.com/rss/index.xml",                   "enabled": true, "category": "tech" },
-      { "name": "TechCrunch (美國科技)",    "url": "https://techcrunch.com/feed/",                             "enabled": true, "category": "tech" }
+      { "name": "BBC 中文 (國際)",        "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",            "enabled": true, "category": "world" },
+      { "name": "紐約時報 國際",          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",     "enabled": true, "category": "world" },
+      { "name": "NPR 綜合 (美國)",        "url": "https://feeds.npr.org/1001/rss.xml",                        "enabled": true, "category": "world" },
+      { "name": "紐約時報 政治",          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",  "enabled": true, "category": "politics" },
+      { "name": "衛報 政治",              "url": "https://www.theguardian.com/politics/rss",                  "enabled": true, "category": "politics" },
+      { "name": "鉅亨網 (財經)",          "url": "https://news.cnyes.com/rss/v1/news/category/headline",       "enabled": true, "category": "economy" },
+      { "name": "紐約時報 商業經濟",      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",  "enabled": true, "category": "economy" },
+      { "name": "衛報 商業",              "url": "https://www.theguardian.com/business/rss",                  "enabled": true, "category": "economy" },
+      { "name": "紐約時報 文化藝術",      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",      "enabled": true, "category": "culture" },
+      { "name": "衛報 文化",              "url": "https://www.theguardian.com/culture/rss",                   "enabled": true, "category": "culture" },
+      { "name": "衛報 社會",              "url": "https://www.theguardian.com/society/rss",                   "enabled": true, "category": "society" },
+      { "name": "紐約時報 健康",          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",    "enabled": true, "category": "health" },
+      { "name": "科技新報 TechNews",      "url": "https://technews.tw/feed/",                                 "enabled": true, "category": "tech" }
     ],
     "ossinsight": {
       "enabled": true,
       "period": "past_24_hours",
       "languages": ["All", "Python", "TypeScript"],
       "keywords": [],
-      "min_stars": 10,
-      "max_items": 20
+      "min_stars": 50,
+      "max_items": 10
     }
   },
   "filtering": {
-    "ai_score_threshold": 6.0,
+    "ai_score_threshold": 5.5,
     "time_window_hours": 24,
-    "max_items": 20
+    "max_items": 30,
+    "category_groups": {
+      "world":    { "name": "國際",     "limit": 6, "categories": ["world"] },
+      "politics": { "name": "政治",     "limit": 4, "categories": ["politics"] },
+      "economy":  { "name": "經濟財經", "limit": 4, "categories": ["economy"] },
+      "culture":  { "name": "文化藝術", "limit": 3, "categories": ["culture"] },
+      "society":  { "name": "社會",     "limit": 3, "categories": ["society"] },
+      "health":   { "name": "健康",     "limit": 3, "categories": ["health"] },
+      "tech":     { "name": "科技",     "limit": 3, "categories": ["tech"] }
+    },
+    "default_group": "other",
+    "default_group_limit": 3
   }
 }
