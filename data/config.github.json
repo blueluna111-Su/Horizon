@@ -14,9 +14,9 @@
       "min_score": 100
     },
     "rss": [
-      { "name": "BBC ä¸­æ (åé)",         "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",       "enabled": true, "category": "world" },
-      { "name": "ç§ææ°å ± TechNews (ç§æ)", "url": "https://technews.tw/feed/",                            "enabled": true, "category": "tech" },
-      { "name": "éäº¨ç¶² (è²¡ç¶)",            "url": "https://news.cnyes.com/rss/v1/news/category/headline", "enabled": true, "category": "finance" }
+      { "name": "BBC 中文 (國際)",         "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",       "enabled": true, "category": "world" },
+      { "name": "科技新報 TechNews (科技)", "url": "https://technews.tw/feed/",                            "enabled": true, "category": "tech" },
+      { "name": "鉅亨網 (財經)",            "url": "https://news.cnyes.com/rss/v1/news/category/headline", "enabled": true, "category": "finance" }
     ]
   },
   "filtering": {
