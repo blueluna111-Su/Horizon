@@ -17,8 +17,20 @@
     "rss": [
       { "name": "BBC 中文 (國際)",         "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",       "enabled": true, "category": "world" },
       { "name": "科技新報 TechNews (科技)", "url": "https://technews.tw/feed/",                            "enabled": true, "category": "tech" },
-      { "name": "鉅亨網 (財經)",            "url": "https://news.cnyes.com/rss/v1/news/category/headline", "enabled": true, "category": "finance" }
-    ]
+      { "name": "鉅亨網 (財經)",            "url": "https://news.cnyes.com/rss/v1/news/category/headline", "enabled": true, "category": "finance" },
+      { "name": "紐約時報 NYT (美國/國際)",  "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "enabled": true, "category": "world" },
+      { "name": "NPR (美國/綜合)",          "url": "https://feeds.npr.org/1001/rss.xml",                       "enabled": true, "category": "world" },
+      { "name": "The Verge (美國科技)",     "url": "https://www.theverge.com/rss/index.xml",                   "enabled": true, "category": "tech" },
+      { "name": "TechCrunch (美國科技)",    "url": "https://techcrunch.com/feed/",                             "enabled": true, "category": "tech" }
+    ],
+    "ossinsight": {
+      "enabled": true,
+      "period": "past_24_hours",
+      "languages": ["All", "Python", "TypeScript"],
+      "keywords": [],
+      "min_stars": 10,
+      "max_items": 20
+    }
   },
   "filtering": {
     "ai_score_threshold": 6.0,

@@ -2,7 +2,7 @@ name: Daily Horizon Summary
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # 每天 00:00 UTC = 台北早上 08:00
+    - cron: '0 23 * * *'   # 每天 23:00 UTC = 台北早上 07:00（提早跑，8點前生好）
   workflow_dispatch:        # Allow manual trigger
 
 jobs:
