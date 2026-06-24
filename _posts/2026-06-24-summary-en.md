@@ -5,410 +5,389 @@ date: 2026-06-24
 lang: en
 ---
 
-> From 162 items, 20 important content pieces were selected
+> From 244 items, 20 important content pieces were selected
 
 ---
 
-1. [Qwen-AgentWorld: Language World Models for General Agents](#item-1) ⭐️ 9.0/10
-2. [AI Transforms China's Short Drama Industry, Displacing Human Actors](#item-2) ⭐️ 9.0/10
-3. [Gravitational Lensing Reveals New Sources for High-Energy Cosmic Neutrinos](#item-3) ⭐️ 9.0/10
-4. [Google DeepMind Invests $75M in A24 for AI Film and TV Tech Development](#item-4) ⭐️ 9.0/10
-5. [Qualcomm Acquires Modular for $3.9 Billion to Boost AI Software and Data Center Ambitions](#item-5) ⭐️ 9.0/10
-6. [OpenAI Partners Broadcom for Custom AI Chip, Aims to Halve Costs](#item-6) ⭐️ 9.0/10
-7. [Agility Robotics to Go Public on Nasdaq via SPAC Merger](#item-7) ⭐️ 9.0/10
-8. [China Issues First National AI + Consumption Policy with Subsidies](#item-8) ⭐️ 9.0/10
-9. [SK Hynix HBM4 Slowdown Rumors Trigger Memory Stock Crash, Raise AI Demand Concerns](#item-9) ⭐️ 9.0/10
-10. [Trump Signs Quantum Computing Executive Orders; Kinpo Stock Surges](#item-10) ⭐️ 9.0/10
-11. [Bunny.net Makes DNS Service Free, Offering EU-Based Alternative](#item-11) ⭐️ 8.0/10
-12. [Krea AI Releases Krea 2 Text-to-Image Model with Technical Report](#item-12) ⭐️ 8.0/10
-13. [German Company Formation: High Costs, Bureaucracy, and Delays](#item-13) ⭐️ 8.0/10
-14. [Decline in Vulnerability Report Effectiveness Due to Overwhelming Low-Quality Submissions](#item-14) ⭐️ 8.0/10
-15. [Raspberry Pi Pico W as USB Wi-Fi Adapter](#item-15) ⭐️ 8.0/10
-16. [Tribute to the Creator of Red and Green Spell-Check Squiggles](#item-16) ⭐️ 8.0/10
-17. [FUTO Swipe Introduces New, Improved Swipe Typing Model](#item-17) ⭐️ 8.0/10
-18. [Unconventional Fix for MacBook Cursor Lag by Recording a Single Pixel](#item-18) ⭐️ 8.0/10
-19. [Romanian Hospitals Use Paper Records After Cyberattack Paralyzes Systems](#item-19) ⭐️ 8.0/10
-20. [Social Media Fails to Address Image Abuse Beyond Nudity](#item-20) ⭐️ 8.0/10
+1. [Krea Releases Krea 2 Text-to-Image Model with Open Weights and Detailed Technical Report](#item-1) ⭐️ 9.0/10
+2. [OpenAI Unveils "Jalapeño" Custom AI Inference Chip with Broadcom and TSMC](#item-2) ⭐️ 9.0/10
+3. [Trump Boosts Quantum Cybersecurity Strategy as Tongbao QB7 Achieves NIST CAVP Validation](#item-3) ⭐️ 9.0/10
+4. [US Warns of Action Against China's Robotics Subsidies](#item-4) ⭐️ 9.0/10
+5. [Qualcomm Acquires Modular for $3.9B to Boost AI Software and Data Center Presence](#item-5) ⭐️ 9.0/10
+6. [China's 8 Ministries Launch First National AI + Consumption Policy with Subsidies](#item-6) ⭐️ 9.0/10
+7. [OpenMontage: First Open-Source Agentic AI Video Production System](#item-7) ⭐️ 9.0/10
+8. [Founding a Company in Germany: Bureaucracy, Costs, and Hurdles](#item-8) ⭐️ 8.0/10
+9. [Raspberry Pi Pico W Functions as USB Wi-Fi Ethernet Adapter](#item-9) ⭐️ 8.0/10
+10. [Software Vulnerability Reporting System Overwhelmed and Broken](#item-10) ⭐️ 8.0/10
+11. [China's Short Drama Industry Sees 40% of Popular Content Produced by AI, Displacing Human Actors](#item-11) ⭐️ 8.0/10
+12. [China's Short Drama Industry Faces Mass Layoffs Due to AI Adoption](#item-12) ⭐️ 8.0/10
+13. [Romanian Hospitals Resist Cyberattack with Manual Operations](#item-13) ⭐️ 8.0/10
+14. [Gravitational Lensing Uncovers New Sources of Cosmic High-Energy Neutrinos](#item-14) ⭐️ 8.0/10
+15. [James Webb Telescope Discovers Salt Clouds on Exoplanet GJ 504 b](#item-15) ⭐️ 8.0/10
+16. [Google DeepMind Invests $75M in A24 for AI Film and TV Tech Development](#item-16) ⭐️ 8.0/10
+17. [IRENA Warns 2,500GW Renewable Energy Gridlock Due to Insufficient Grid Infrastructure](#item-17) ⭐️ 8.0/10
+18. [ByteDance Reportedly Seeks $20 Billion Offshore Loan for AI Investment](#item-18) ⭐️ 8.0/10
+19. [Meta CEO Directs Development of New Prediction Market Platform](#item-19) ⭐️ 8.0/10
+20. [Agility Robotics Reportedly Plans SPAC Listing with $2.5 Billion Valuation](#item-20) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) ⭐️ 9.0/10
+## [Krea Releases Krea 2 Text-to-Image Model with Open Weights and Detailed Technical Report](https://www.krea.ai/blog/krea-2-technical-report) ⭐️ 9.0/10
 
-Qwen-AgentWorld introduces the first language world models, Qwen-AgentWorld-35B-A3B and Qwen-AgentWorld-397B-A17B, which are capable of simulating agentic environments across seven domains via long chain-of-thought reasoning. Unlike prior approaches that treat world modeling as a post-hoc add-on, Qwen-AgentWorld is a native world model, with environment modeling as its training objective from the CPT stage onward. This development addresses a fundamental limitation of current LLM-based agents, which often lack understanding of action consequences and future states. By enabling agents to better predict environmental changes and simulate scenarios, Qwen-AgentWorld could significantly enhance their planning, decision-making, and overall autonomy in complex tasks. Qwen-AgentWorld models are trained using a three-stage pipeline—CPT for environment knowledge injection, SFT for next-state-prediction reasoning, and RL for simulation fidelity—on over 10 million real-world interaction trajectories. These models are designed to predict the next environment state given an agent's action, covering seven distinct agent interaction domains within a single model.
+Krea has officially released Krea 2, a new text-to-image model, accompanied by its open weights and a comprehensive technical report detailing its architecture, data curation, RL pipelines, and infrastructure. The release includes Krea 2 Turbo, which is optimized for faster inference through guidance- and timestep-distillation. This release is significant as Krea 2's open weights and detailed technical report foster transparency and collaborative development in the generative AI community, allowing researchers and developers to inspect, modify, and build upon the model. The immediate community adoption and porting demonstrate its practical utility and potential to advance text-to-image generation. The comprehensive technical report delves into critical aspects such as data curation, model architecture, post-training, and reinforcement learning (RL) pipelines, offering valuable insights into their training methodology and infrastructure. Notably, Krea released two sets of weights, including Krea 2 Turbo, which is optimized for faster inference through guidance- and timestep-distillation, and has already seen community porting to GGUF format.
 
-hackernews · ilreb · Jun 24, 02:21 · [Discussion](https://news.ycombinator.com/item?id=48654351)
+hackernews · mattnewton · Jun 23, 15:31 · [Discussion](https://news.ycombinator.com/item?id=48646659)
 
-**Background**: Large Language Models (LLMs) are powerful AI models that excel at language-oriented tasks but often lack an inherent understanding of physical or environmental dynamics. World models, in artificial intelligence, are systems that learn a predictive model of the environment, allowing an agent to simulate future states and consequences of its actions without direct interaction. Qwen-AgentWorld integrates these concepts by creating a "language world model" that uses language to represent and predict environmental changes for AI agents, thereby bridging the gap between linguistic prowess and environmental awareness.
+**Background**: An "open-weights model" refers to a machine learning model, such as a text-to-image model, whose trained parameters (weights) are made publicly available, allowing others to inspect, use, and modify the model. Reinforcement Learning (RL) pipelines involve using reinforcement learning techniques to optimize various aspects of a generative AI model, often to improve its output quality or align it better with human preferences.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2606.24597">[2606.24597] Qwen-AgentWorld: Language World Models for General Agents</a></li>
-<li><a href="https://github.com/QwenLM/Qwen-AgentWorld">GitHub - QwenLM/Qwen-AgentWorld: Qwen-AgentWorld: Language World Models for General Agents · GitHub</a></li>
-<li><a href="https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B">Qwen/Qwen-AgentWorld-35B-A3B · Hugging Face</a></li>
-<li><a href="https://en.wikipedia.org/wiki/World_model_(artificial_intelligence)">World model (artificial intelligence) - Wikipedia</a></li>
+<li><a href="https://www.ai21.com/glossary/foundational-llm/open-weights-model/">What is an Open-Weights Model? | AI21</a></li>
+<li><a href="https://arxiv.org/html/2308.00031v3">Reinforcement Learning for Generative AI: State of the Art ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community views Qwen-AgentWorld as a potentially significant advancement, highlighting its role in improving agent planning and high-level state tracking, especially for smaller models. Users discussed its potential for open-ended simulation, verification of agent execution paths against hard constraints, and its fit into existing LLM-agent workflows, suggesting it could act as a "bolt-on" for consequence awareness.
+**Discussion**: The community discussion is highly positive, with Krea's co-founders actively engaging to highlight the depth of their technical report, especially regarding training and data infrastructure. Users expressed immediate enthusiasm for Krea 2, noting its practical utility in replacing stock photo subscriptions and demonstrating rapid adoption by porting the Turbo version to GGUF format shortly after release.
 
-**Tags**: `#AI Agents`, `#Large Language Models`, `#World Models`, `#AI Research`, `#Machine Learning`
+**Tags**: `#AI/ML`, `#Text-to-Image`, `#Generative AI`, `#Model Training`, `#Open Source`
 
 ---
 
 <a id="item-2"></a>
-## [AI Transforms China's Short Drama Industry, Displacing Human Actors](https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [OpenAI Unveils "Jalapeño" Custom AI Inference Chip with Broadcom and TSMC](https://technews.tw/2026/06/24/openai-and-broadcom-unveil-llm-optimized-inference-chip/) ⭐️ 9.0/10
 
-China's short drama industry has seen a dramatic shift within a year, with AI-produced content now making up 40% of the most popular short dramas and production volume growing geometrically, leading to the rapid displacement of human actors. This development signifies a major real-world impact of AI on creative industries and labor markets, showcasing how generative AI can rapidly automate content creation and displace traditional human roles on a large scale. The shift has compressed the production pipeline from several months to less than a month, with full-stack AI tools reducing manual steps from 11 to 3, enabling non-professional teams to produce broadcast-quality micro-dramas at scale. This rapid automation has led to thousands of actors, directors, and production staff losing their jobs within months.
+OpenAI announced on June 24th that its first custom AI inference chip, named "Jalapeño," designed in collaboration with Broadcom and to be produced by TSMC, has completed initial sample manufacturing and testing. This marks OpenAI's official entry into developing its own AI hardware. This move signifies OpenAI's strategic shift towards vertical integration in the AI hardware space, aiming to reduce its reliance on external GPU providers like Nvidia and potentially lower the cost and improve the performance of large-scale AI deployments. The "Jalapeño" chip is an Application-Specific Integrated Circuit (ASIC) specifically engineered and optimized for AI inference, designed to power current and future large language models.
 
-rss · BBC 中文 (國際) · Jun 23, 23:25
+rss · 科技新報 TechNews (科技) · Jun 24, 15:34
 
-**Background**: Short dramas are brief, episodic video series, often optimized for mobile viewing and social media platforms. The "AI production pipeline" refers to the integration of artificial intelligence tools throughout the content creation process, from script generation to video rendering. Text-to-video models are a key component, allowing users to generate video clips from written prompts, significantly streamlining the visual production aspect.
+**Background**: AI inference is the process where a trained artificial intelligence model generates outputs or makes predictions on new data in real-time. An Application-Specific Integrated Circuit (ASIC) is a type of integrated circuit designed for a dedicated function or application, in contrast to general-purpose processors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/">How Chinese short dramas became AI content machines | MIT Technology Review</a></li>
-<li><a href="https://vitrina.ai/blog/ai-generated-short-drama-production-companies/">AI Generated Short Drama Production Companies: 12 | Vitrina</a></li>
-<li><a href="https://huggingface.co/blog/text-to-video">A Dive into Text-to-Video Models - Hugging Face</a></li>
+<li><a href="https://www.ibm.com/think/topics/ai-inference">What is AI Inference? | IBM</a></li>
+<li><a href="https://grokipedia.com/page/Inference_artificial_intelligence">Inference (artificial intelligence)</a></li>
+<li><a href="https://grokipedia.com/page/Application-specific_integrated_circuit">Application-specific integrated circuit (ASIC)</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI in Media`, `#Generative AI`, `#Creative Industries`, `#Automation`, `#Labor Market Impact`
+**Tags**: `#AI Hardware`, `#Custom Silicon`, `#OpenAI`, `#AI Inference`, `#Semiconductor Industry`
 
 ---
 
 <a id="item-3"></a>
-## [Gravitational Lensing Reveals New Sources for High-Energy Cosmic Neutrinos](https://technews.tw/2026/06/24/unveiling-new-sources-cosmic-high-energy-neutrinos/) ⭐️ 9.0/10
+## [Trump Boosts Quantum Cybersecurity Strategy as Tongbao QB7 Achieves NIST CAVP Validation](https://finance.technews.tw/2026/06/24/post/) ⭐️ 9.0/10
 
-Scientists have potentially identified new sources for high-energy cosmic neutrinos, often called "ghost particles," by utilizing gravitational lensing. This discovery helps to solve a long-standing mystery about their origins. This breakthrough in astrophysics addresses a fundamental mystery in particle astrophysics and has major implications for understanding extreme cosmic phenomena. Identifying these sources could shed light on the most energetic processes in the universe. The use of gravitational lensing is crucial, as it magnifies light from distant sources, allowing for the detection of faint neutrino sources that would otherwise be undetectable. This method offers a novel approach to pinpointing the origins of these elusive particles.
+US President Donald Trump has signed two executive orders to accelerate quantum computing development, aiming for commercial quantum computers by 2028, while Tongbao Semiconductor's QB7 product has simultaneously achieved the crucial US NIST CAVP validation. This signifies a significant step in the national strategy for quantum computing and next-generation cybersecurity. This initiative by President Trump underscores a significant national strategic push towards post-quantum cryptography, essential for safeguarding sensitive data against future quantum computing threats. Tongbao's QB7 validation represents a practical advancement in deploying quantum-resistant cybersecurity solutions, with implications for government, financial, and healthcare industries. The NIST CAVP validation for Tongbao's QB7 is a crucial prerequisite for the broader Cryptographic Module Validation Program (CMVP), ensuring its cryptographic algorithms meet stringent US government and regulated industry standards. Additionally, Jinbao Group, Tongbao's parent company, has invested in US quantum hardware manufacturer SEEQC, indicating a broader strategic commitment to quantum technology.
 
-rss · 科技新報 TechNews (科技) · Jun 24, 13:58
+rss · 科技新報 TechNews (科技) · Jun 24, 08:28
 
-**Background**: High-energy cosmic neutrinos are elusive subatomic particles, often called "ghost particles," that are electrically neutral and interact only weakly, allowing them to travel vast cosmic distances without deflection. Gravitational lensing is an astrophysical phenomenon where massive objects, such as galaxy clusters, warp spacetime and bend light from distant sources, effectively acting as a natural magnifying glass.
+**Background**: The NIST Cryptographic Algorithm Validation Program (CAVP) is a U.S. government program that validates cryptographic algorithms to ensure they meet federal security standards, serving as a prerequisite for the Cryptographic Module Validation Program (CMVP). Post-quantum cryptography (PQC) involves developing new cryptographic algorithms that are resistant to attacks by future quantum computers, which pose a significant threat to current widely used public-key encryption methods. The global effort to transition to PQC aims to secure sensitive data before quantum computers become powerful enough to break existing encryption, a scenario often referred to as "Q-Day."
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/">Hubble Gravitational Lenses - NASA Science What is gravitational lensing? | Space Gravitational Lensing - Definition & Detailed Explanation ... What Is Gravitational Lensing and How Does It Work? What Is Gravitational Lensing? A Clear Guide to How Gravity ... Gravitational Lensing Explained: Types, Physics, and Uses -</a></li>
-<li><a href="https://neutrinos.fnal.gov/mysteries/high-energy-sources/">Where do the most energetic neutrinos come from? | All Things Neutrino</a></li>
+<li><a href="https://en.wikipedia.org/wiki/NIST_CAVP">NIST CAVP</a></li>
+<li><a href="https://csrc.nist.gov/projects/cryptographic-algorithm-validation-program">Cryptographic Algorithm Validation Program - NIST CSRC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Post-quantum_cryptography">Post-quantum cryptography</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Astrophysics`, `#Neutrinos`, `#Gravitational Lensing`, `#Particle Physics`, `#Cosmic Rays`
+**Tags**: `#Quantum Computing`, `#Cybersecurity`, `#Post-Quantum Cryptography`, `#NIST`, `#National Strategy`
 
 ---
 
 <a id="item-4"></a>
-## [Google DeepMind Invests $75M in A24 for AI Film and TV Tech Development](https://finance.technews.tw/2026/06/24/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) ⭐️ 9.0/10
+## [US Warns of Action Against China's Robotics Subsidies](https://technews.tw/2026/06/24/robotics-becomes-new-us-china-tech-battleground/) ⭐️ 9.0/10
 
-Google DeepMind is investing $75 million in the independent film studio A24 to establish a research partnership focused on jointly developing advanced AI technologies for film and television production. This collaboration marks a significant move to integrate AI into creative content creation workflows. This partnership is significant as it represents a groundbreaking push for AI in creative fields, potentially transforming film and television production workflows from pre-production to post-production and influencing the broader entertainment industry. It could set a precedent for how AI is adopted by major creative studios globally. The investment specifically targets the joint development of advanced AI technologies, indicating a focus on practical applications within the film and television production pipeline rather than just theoretical research. A24 is known for critically acclaimed films like "Everything Everywhere All at Once" and "The Whale," which have garnered numerous awards.
+US Commerce Secretary Howard Lutnick has warned business executives that the Commerce Department is scrutinizing Chinese government subsidies in the robotics sector, indicating potential future actions. This development marks robotics as a new battleground in the ongoing US-China technology competition. This warning signifies a major escalation in the US-China technology rivalry, with potential implications for global robotics development, supply chains, and international trade policies. It could lead to new tariffs or restrictions affecting companies operating in the robotics sector. The warning was delivered by US Commerce Secretary Howard Lutnick during a closed-door meeting with business executives, though specific actions or their timeline have not yet been publicly detailed. The focus is on Chinese government subsidies, which the US views as distorting market competition.
 
-rss · 科技新報 TechNews (科技) · Jun 24, 09:29
+rss · 科技新報 TechNews (科技) · Jun 24, 06:00
 
-**Background**: A24 is a prominent independent film studio recognized for producing critically acclaimed and award-winning films, often pushing creative boundaries in cinema. Google DeepMind is a world-leading artificial intelligence research laboratory, known for its advancements in AI and machine learning across various domains.
-
-**Tags**: `#AI in Film`, `#AI Applications`, `#DeepMind`, `#Industry Partnership`, `#Creative AI`
+**Tags**: `#US-China Relations`, `#Robotics`, `#Trade Policy`, `#Geopolitics`, `#Technology Competition`
 
 ---
 
 <a id="item-5"></a>
-## [Qualcomm Acquires Modular for $3.9 Billion to Boost AI Software and Data Center Ambitions](https://news.cnyes.com/news/id/6511045) ⭐️ 9.0/10
+## [Qualcomm Acquires Modular for $3.9B to Boost AI Software and Data Center Presence](https://news.cnyes.com/news/id/6511045) ⭐️ 9.0/10
 
-Qualcomm announced on Wednesday, May 24, that it will acquire AI software startup Modular in an all-stock transaction valued at approximately $3.9 billion. This acquisition aims to strengthen Qualcomm's artificial intelligence software capabilities and accelerate its expansion into the data center market. This significant acquisition positions Qualcomm to directly challenge Nvidia's leading position in AI chips and data center solutions, potentially reshaping the competitive landscape of the AI industry. It underscores Qualcomm's strategic commitment to expanding beyond its traditional mobile chip dominance into the burgeoning AI and data center sectors. The acquisition is an all-stock transaction, valuing Modular at approximately $3.9 billion, indicating Qualcomm's substantial investment in AI software infrastructure. Modular is known for its work on the Mojo programming language, which aims to combine Python's usability with system-level performance for AI workloads.
+Qualcomm announced on Wednesday, October 24th, that it will acquire AI software startup Modular, known for the Mojo programming language, for approximately $3.9 billion in an all-stock transaction. This acquisition is intended to enhance Qualcomm's AI software capabilities and accelerate its entry into the data center market. This acquisition is a significant strategic move by Qualcomm to directly challenge Nvidia's dominance in the crucial AI chip and data center market. It signals Qualcomm's serious intent to become a major player in AI software and hardware for data centers, potentially diversifying the competitive landscape. The acquisition is an all-stock transaction valued at approximately $3.9 billion, and Modular is notably the company behind the Mojo programming language. Mojo is designed for high-performance AI infrastructure, aiming to combine Python's usability with the performance of system programming languages like C++ for various hardware, including CPUs, GPUs, and ASICs.
 
 rss · 鉅亨網 (財經) · Jun 24, 14:00
 
-**Background**: Modular is the company behind the Mojo programming language, which is designed for high-performance AI infrastructure and aims to combine Python's ease of use with the speed of languages like C++ or Rust. Mojo leverages the Multi-Level Intermediate Representation (MLIR) compiler framework, allowing it to target various hardware like CPUs, GPUs, TPUs, and ASICs efficiently for AI applications. This makes Modular a strategic asset for companies looking to optimize AI software across diverse hardware.
+**Background**: Modular is the company behind the Mojo programming language, an in-development proprietary language based on Python designed for high-performance AI infrastructure. Mojo aims to combine the usability of Python with the performance of system programming languages like C++ or Rust, specifically for AI applications and heterogeneous hardware environments. It leverages the Multi-Level Intermediate Representation (MLIR) compiler framework to target various processors, including CPUs, GPUs, and ASICs, making it highly optimized for AI workloads.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Mojo_(programming_language)">Mojo (programming language)</a></li>
+<li><a href="https://mojolang.org/">Mojo</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Software`, `#Acquisition`, `#Qualcomm`, `#Data Center`, `#AI Industry`
+**Tags**: `#AI`, `#Acquisitions`, `#Data Centers`, `#Qualcomm`, `#Modular`
 
 ---
 
 <a id="item-6"></a>
-## [OpenAI Partners Broadcom for Custom AI Chip, Aims to Halve Costs](https://news.cnyes.com/news/id/6511073) ⭐️ 9.0/10
+## [China's 8 Ministries Launch First National AI + Consumption Policy with Subsidies](https://news.cnyes.com/news/id/6510173) ⭐️ 9.0/10
 
-OpenAI announced on Wednesday that its first custom artificial intelligence (AI) chip, developed in partnership with Broadcom, has completed initial sample manufacturing and begun testing. This marks a significant step for the ChatGPT developer into self-designed AI chips. This strategic move aims to significantly reduce OpenAI's reliance on Nvidia's GPUs and potentially cut AI infrastructure costs by 50%, signaling a major shift in the AI hardware landscape and potentially impacting the broader industry. The initial samples of the custom AI chip are currently undergoing testing, with the primary goal of reducing operational costs for AI models by up to 50%.
+Eight Chinese government departments, including the Ministry of Commerce, jointly issued the "Implementation Opinions on Accelerating the Development of 'AI + Consumption'" on Thursday, April 18th, marking China's first national-level policy to systematically integrate AI with consumer markets. This new policy aims to promote AI products into households and businesses through financial subsidies, trade-in programs, and national AI industry funds. This is a significant development as it represents China's first national-level strategy to systematically integrate AI into consumer markets, backed by substantial financial incentives. The policy could profoundly accelerate AI adoption across various consumer products and services, potentially boosting related industries and shaping future economic growth. The "Implementation Opinions" specifically outline financial incentives such as fiscal interest subsidies, trade-in subsidies, and support from national AI industry funds to encourage the adoption of AI-powered products. The policy aims to drive AI integration into both individual households and commercial establishments across the country.
 
-rss · 鉅亨網 (財經) · Jun 24, 13:30
+rss · 鉅亨網 (財經) · Jun 24, 06:50
 
-**Background**: Custom AI chips, often referred to as Application-Specific Integrated Circuits (ASICs), are hardware designed specifically for AI workloads, offering high performance and low latency for tasks like AI inference. Companies are increasingly adopting custom ASICs to optimize performance and reduce costs for their specific AI applications, moving away from more general-purpose GPUs like those offered by Nvidia.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia">The custom AI ASIC state of play (May 2026) - Tom's Hardware</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Hardware`, `#OpenAI`, `#Broadcom`, `#Semiconductors`, `#AI Infrastructure`
+**Tags**: `#AI Policy`, `#China`, `#Consumer Technology`, `#Economic Incentives`, `#Technology Adoption`
 
 ---
 
 <a id="item-7"></a>
-## [Agility Robotics to Go Public on Nasdaq via SPAC Merger](https://news.cnyes.com/news/id/6510688) ⭐️ 9.0/10
+## [OpenMontage: First Open-Source Agentic AI Video Production System](https://github.com/calesthio/OpenMontage) ⭐️ 9.0/10
 
-Agility Robotics, a leading humanoid robot company, announced on June 24 its plan to go public on Nasdaq via a SPAC merger under the ticker AGLT, with a target listing in September. This move follows a similar public listing by China's Unitree Robotics. This potential listing signifies growing investor confidence and market maturity in the advanced robotics sector, particularly for humanoid robots, indicating a potentially industry-changing shift. It could pave the way for more robotics companies to seek public funding and accelerate innovation in the field. Agility Robotics specializes in developing humanoid robots for factory and logistics warehouse applications, and its listing will be conducted through a Special Purpose Acquisition Company (SPAC) merger. The target ticker symbol for the listing is AGLT, with an anticipated trading start in September.
+calesthio/OpenMontage has launched as the world's first open-source, agentic video production system, designed to transform AI coding assistants into full video production studios. It features 12 pipelines, 52 tools, and over 500 agent skills for managing complex video creation workflows. This project marks a significant step in AI-driven content creation by offering an autonomous system for video production, potentially democratizing access to professional-grade video tools and accelerating creative workflows. Its rapid adoption on GitHub highlights strong community interest and the growing demand for agentic AI solutions in creative industries. OpenMontage is built in Python and integrates 12 distinct pipelines, 52 specialized tools, and over 500 agent skills, allowing AI coding assistants to manage end-to-end video production. The system's modular design suggests flexibility in adapting to various video creation tasks.
 
-rss · 鉅亨網 (財經) · Jun 24, 10:11
+ossinsight · calesthio · Jun 24, 16:17
 
-**Background**: A Special Purpose Acquisition Company (SPAC) is a shell corporation listed on a stock exchange with the purpose of acquiring or merging with a private company, thereby taking it public. This method often requires fewer regulatory filings and has fewer safeguards for investors compared to a traditional Initial Public Offering (IPO).
+**Background**: Agentic AI refers to artificial intelligence systems that can autonomously pursue goals, utilize tools, and take actions with limited human supervision. These systems, often called AI agents, mimic human decision-making by perceiving, reasoning, and acting to solve problems in real-time. This approach represents an evolution from traditional generative AI, enabling more complex and independent task execution.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/SPAC_(merger)">SPAC (merger)</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Special-purpose_acquisition_company">Special-purpose acquisition company - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AI_agent">AI agent - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/think/topics/agentic-ai">What is Agentic AI? | IBM</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Robotics`, `#Humanoid Robots`, `#IPO`, `#Industry News`, `#AI`
+**Tags**: `#AI`, `#Video Production`, `#Agentic Systems`, `#Open Source`, `#Machine Learning`
 
 ---
 
 <a id="item-8"></a>
-## [China Issues First National AI + Consumption Policy with Subsidies](https://news.cnyes.com/news/id/6510173) ⭐️ 9.0/10
+## [Founding a Company in Germany: Bureaucracy, Costs, and Hurdles](https://paolino.me/founding-a-company-in-germany/) ⭐️ 8.0/10
 
-Eight Chinese government departments, including the Ministry of Commerce, jointly issued the "Implementation Opinions on Accelerating the Development of 'AI + Consumption'" on Thursday, April 18th, marking China's first national-level policy to systematically integrate AI with consumer markets. This policy aims to promote AI products into households and businesses through financial interest subsidies, trade-in subsidies, and a national AI industry fund. This policy signifies China's major strategic shift to deeply integrate AI into daily consumption, potentially accelerating AI product adoption across households and businesses. The substantial financial incentives could stimulate innovation and growth within the AI and consumer electronics sectors, impacting the broader economy. The policy specifically outlines financial interest subsidies, trade-in subsidies, and the utilization of a national AI industry fund to encourage the widespread adoption of AI-powered products. Its goal is to integrate AI into "thousands of households and thousands of businesses," indicating a broad scope for implementation.
+A personal account details the significant time (152 days), cost (€9600), and bureaucratic hurdles involved in founding a company in Germany, highlighting the challenges faced by entrepreneurs before even being able to send an invoice. This account is significant for entrepreneurs considering Germany, as it exposes the complex bureaucratic environment and high initial costs, potentially impacting the country's appeal as a startup hub and sparking discussions on legal structures and taxation. The author's experience highlights issues like the €25,000 capital requirement for a GmbH, the perceived lack of seriousness for a UG, and confusion surrounding double taxation and unusual company structures like UG/GmbH + KG.
 
-rss · 鉅亨網 (財經) · Jun 24, 06:50
+hackernews · earcar · Jun 24, 12:31 · [Discussion](https://news.ycombinator.com/item?id=48658718)
 
-**Tags**: `#AI Policy`, `#Consumer AI`, `#China Tech`, `#Government Incentives`, `#Market Strategy`
+**Background**: In Germany, common legal forms for companies include the GmbH (Gesellschaft mit beschränkter Haftung), a limited liability company requiring a minimum share capital, and the UG (Unternehmergesellschaft), a 'mini-GmbH' with lower capital requirements designed for easier startup. A KG (Kommanditgesellschaft) is a limited partnership often combined with a GmbH for specific liability structures.
+
+**Discussion**: Community comments clarify misconceptions about double taxation for salaries and the unusual nature of the UG/GmbH + KG structure, while also debating the necessity of the €25,000 capital requirement for GmbHs. Some users also noted that founding a company in other European countries like the Netherlands and Sweden can be much simpler, contrasting with Germany's bureaucratic reputation.
+
+**Tags**: `#Entrepreneurship`, `#Germany`, `#Startup Ecosystem`, `#Bureaucracy`, `#Business Law`
 
 ---
 
 <a id="item-9"></a>
-## [SK Hynix HBM4 Slowdown Rumors Trigger Memory Stock Crash, Raise AI Demand Concerns](https://news.cnyes.com/news/id/6509568) ⭐️ 9.0/10
+## [Raspberry Pi Pico W Functions as USB Wi-Fi Ethernet Adapter](https://gitlab.com/baiyibai/pico-usb-wifi) ⭐️ 8.0/10
 
-South Korean media reports indicate that SK Hynix is slowing its HBM4 expansion plans and shifting focus towards the DRAM market, which has reportedly caused a significant global memory stock crash. This shift has led to a market downturn, with South Korean stocks plummeting over 10% and triggering circuit breakers, while Micron and Western Digital also saw declines. This development is significant as it signals potential cooling demand in the high-end AI supply chain, impacting major players like Nvidia and raising concerns about the future growth trajectory of AI hardware. The market reaction underscores the sensitivity of the semiconductor industry to shifts in AI component production and demand forecasts. The market's concern is further fueled by rumored downward revisions in production forecasts for Nvidia's upcoming Rubin platform, which relies on advanced memory technologies like HBM4. The reported shift by SK Hynix towards the general DRAM market suggests a re-evaluation of the immediate high-bandwidth memory demand.
+A new open-source project allows the Raspberry Pi Pico W to function as a USB Wi-Fi adapter, presenting itself to the host system as a standard Ethernet device over USB. This innovative solution provides wireless network connectivity through a low-cost microcontroller. This project offers a highly practical and cost-effective way to add Wi-Fi connectivity to various systems, especially those lacking built-in wireless capabilities or needing temporary network access without physical cables. It leverages an inexpensive microcontroller to solve a common connectivity challenge. The core technical detail is that the Pico W emulates an Ethernet adapter using the USB Communications Device Class (CDC) protocol, allowing it to provide network connectivity without requiring specific Wi-Fi drivers on the host. This approach simplifies integration and broadens compatibility across different operating systems.
 
-rss · 鉅亨網 (財經) · Jun 24, 03:40
+hackernews · byb · Jun 24, 03:17 · [Discussion](https://news.ycombinator.com/item?id=48654676)
 
-**Background**: High-Bandwidth Memory (HBM) is an advanced memory interface that stacks multiple DRAM dies vertically, offering significantly higher bandwidth and lower power consumption compared to traditional DRAM, making it crucial for AI and high-performance computing applications. HBM4 is the next generation of this technology, designed to meet the increasing demands for data capacity and fast access in AI workloads. Nvidia's Rubin platform is an upcoming microarchitecture for GPUs, designed for agentic AI and reasoning, which will integrate AI execution with high-bandwidth data movement and orchestration, likely utilizing HBM4 memory.
+**Background**: USB CDC Ethernet refers to a standard way for USB devices to present themselves as network adapters, allowing computers to communicate with them as if they were connected via an Ethernet cable. This is achieved through the USB Communications Device Class (CDC) protocols, which enable the transmission of standard Ethernet frames over a USB connection, making it widely compatible with existing operating systems without special drivers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.micron.com/products/memory/hbm/hbm4">HBM4 | Micron Technology Inc.</a></li>
-<li><a href="https://semiconductor.samsung.com/dram/hbm/hbm4/">HBM4 | DRAM | Samsung Semiconductor Global</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Rubin_(microarchitecture)">Rubin (microarchitecture) - Wikipedia</a></li>
-<li><a href="https://www.nvidia.com/en-us/data-center/technologies/rubin/">Infrastructure for Scalable AI Reasoning | NVIDIA Vera Rubin ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/USB_communications_device_class">USB communications device class - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ethernet_over_USB">Ethernet over USB - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Semiconductor Industry`, `#AI Hardware`, `#HBM`, `#Market Impact`, `#Supply Chain`
+**Discussion**: The community highly praised the project's utility, particularly its ability to provide "magic Ethernet" connectivity for air-gapped systems or temporary network needs, with one user even posting a comment using the adapter. Discussions also touched upon similar transparent Ethernet bridge projects, the surprising infeasibility assessment by AI, and inquiries into the author's development process and use of AI tools.
+
+**Tags**: `#Embedded Systems`, `#Networking`, `#Raspberry Pi Pico W`, `#USB Devices`, `#DIY Hardware`
 
 ---
 
 <a id="item-10"></a>
-## [Trump Signs Quantum Computing Executive Orders; Kinpo Stock Surges](https://news.cnyes.com/news/id/6507060) ⭐️ 9.0/10
+## [Software Vulnerability Reporting System Overwhelmed and Broken](https://words.filippo.io/vuln-reports/) ⭐️ 8.0/10
 
-US President Donald Trump signed two executive orders to accelerate the development of quantum computing, aiming to build commercial-grade quantum computers by 2028. This announcement led to a significant surge in Kinpo's stock, as the company has invested in the American quantum hardware manufacturer SEEQC. This policy development signals a major government investment and strategic focus on quantum computing, a cutting-edge technology crucial for national security and economic competitiveness. It could significantly impact the global tech landscape and intensify the US-China tech race. Kinpo's investment is in SEEQC, a US quantum hardware manufacturer known for its innovative approach of integrating all core quantum computer functions onto a digital chip. SEEQC aims to create scalable, energy-efficient, and commercially viable quantum systems by using a System-on-Chip architecture that combines classical control logic with quantum circuits on the same cryogenic platform.
+The current system for reporting and receiving software vulnerabilities is dysfunctional, characterized by an overwhelming volume of low-quality submissions and poor communication between reporters and recipients. This breakdown often results in legitimate security issues being overlooked and necessitates fundamental changes in software security practices. This situation is critical because it undermines the effective disclosure and remediation of genuine security flaws, posing significant risks to software integrity and user safety across the entire industry. It highlights a systemic failure that impacts both security researchers and organizations trying to secure their products. Key issues include the proliferation of spam and low-quality reports, often generated by LLMs, which overwhelm recipients and lead to legitimate, well-researched vulnerabilities being ignored or "ghosted." This necessitates an overhaul of software practices, including adopting memory-safe languages and improving checks for common vulnerability classes.
 
-rss · 鉅亨網 (財經) · Jun 24, 02:25
+hackernews · goranmoomin · Jun 23, 23:42 · [Discussion](https://news.ycombinator.com/item?id=48653216)
 
-**Background**: Quantum computing is an emerging technology that harnesses the principles of quantum mechanics to perform calculations far beyond the capabilities of classical computers. It holds immense potential for breakthroughs in fields like cryptography, materials science, and drug discovery. The US government's strategic focus on quantum computing is part of a broader effort to maintain technological leadership amid increasing global competition.
+**Background**: Vulnerability Disclosure Programs (VDPs) are established processes that allow security researchers to report vulnerabilities to organizations, aiming for responsible disclosure and remediation. When a vulnerability is publicly known and assigned a unique identifier, it often receives a Common Vulnerabilities and Exposures (CVE) ID, managed by CVE Numbering Authorities (CNAs), to standardize tracking.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://seeqc.com/">Digital Quantum Computing | Chip Foundry & Fabrication | SEEQC</a></li>
-<li><a href="https://seeqc.com/technology">Quantum Computing Technology | SEEQC SEEQC Awarded Participation in U.S. CHIPS Act–Backed ... SEEQC's Quantum Computing Breakthroughs: The Future of Chip ... Booz Allen and SEEQC Expand Partnership to Accelerate Quantum ... $300mm Wafers to Host SEEQC’s Next-Generation Qubit Materials Quantum computers the size of your fingernail are being built ...</a></li>
-<li><a href="https://www.businesswire.com/news/home/20260616113027/en/SEEQC-Awarded-Participation-in-U.S.-CHIPS-ActBacked-Microelectronics-Commons-NORDTECH-Quantum-RD-Program">SEEQC Awarded Participation in U.S. CHIPS Act–Backed ...</a></li>
+<li><a href="https://www.upguard.com/blog/vulnerability-disclosure-programs">What are Vulnerability Disclosure Programs ? | UpGuard</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures">Common Vulnerabilities and Exposures - Wikipedia</a></li>
+<li><a href="https://inventivehq.com/blog/what-are-cve-numbering-authorities-cnas-and-how-do-they-work">What are CVE Numbering Authorities ( CNAs ) and how do they work?</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Quantum Computing`, `#Government Policy`, `#Technology Strategy`, `#Hardware`, `#Investment`
+**Discussion**: The community largely agrees that the vulnerability reporting system is a "mess," overwhelmed by spam and low-quality reports, often generated by LLMs. Many researchers express frustration over being "ghosted" on legitimate, well-researched vulnerabilities, while companies struggle to filter out noise, leading to calls for fundamental changes in software engineering practices, including adopting memory-safe languages.
+
+**Tags**: `#Cybersecurity`, `#Vulnerability Management`, `#Software Engineering`, `#Security Disclosure`, `#Community Discussion`
 
 ---
 
 <a id="item-11"></a>
-## [Bunny.net Makes DNS Service Free, Offering EU-Based Alternative](https://bunny.net/blog/were-making-bunny-dns-free/) ⭐️ 8.0/10
+## [China's Short Drama Industry Sees 40% of Popular Content Produced by AI, Displacing Human Actors](https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
 
-Bunny.net has announced that its DNS service is now entirely free, eliminating DNS query fees and including free DNS hosting for up to 500 domains per account with no query limits or per-request billing. This move significantly increases competition in the internet infrastructure market, providing a robust, often EU-based, alternative to larger providers and potentially influencing pricing models across the industry. The free offering includes DNS hosting for up to 500 domains, eliminates all DNS query fees, and provides advanced features like smart records and health monitoring without enterprise plan restrictions.
+China's short drama industry has undergone a dramatic transformation within a year, with AI-produced content now making up 40% of the most popular short dramas and experiencing exponential growth in production, leading to the rapid displacement of human actors. This development is significant as it demonstrates a rapid and substantial real-world impact of AI on a creative industry, showcasing how automation can quickly transform content production workflows and displace human labor. It underscores a major trend in AI adoption within media and entertainment, potentially setting a precedent for other creative sectors worldwide. The rapid shift indicates that advanced generative AI models are being utilized for various aspects of short drama production, likely including video generation, virtual actors, and potentially scriptwriting and voiceovers. This high level of AI integration suggests significant efficiency and cost-effectiveness, enabling the exponential growth in content volume.
 
-hackernews · dabinat · Jun 24, 08:50 · [Discussion](https://news.ycombinator.com/item?id=48657030)
+rss · BBC 中文 (國際) · Jun 23, 23:25
 
-**Background**: DNS (Domain Name System) acts as the internet's phonebook, translating human-readable domain names (like google.com) into machine-readable IP addresses, which is crucial for navigating the web. A reliable and fast DNS service is fundamental for website accessibility and performance.
+**Background**: Short dramas are typically brief, episodic video content, often optimized for mobile viewing and social media platforms, gaining immense popularity in recent years. Generative AI for video production involves using AI models to create video content from text, scripts, or images, often incorporating AI voiceovers and virtual avatars. AI virtual actors are digitally created entities that can perform roles, generated using advanced techniques like deep learning, CGI, and motion capture, allowing for rapid content creation with reduced reliance on traditional production methods and human talent.
 
-**Discussion**: The community expressed appreciation for an EU-based alternative, citing geopolitical reasons, but also raised concerns about Bunny.net's business model and potential unexpected charges for other services like CDN, noting a desire for consistent billing policies across all products. Some also highlighted Bunny.net's organic growth strategy as a positive.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.synthesia.io/">Synthesia: #1 AI Video Platform for Business</a></li>
+<li><a href="https://chesa.com/ai-virtual-actors-revolutionizing-hollywood-and-resurrecting-legends/">AI Virtual Actors: Revolutionizing Hollywood and Resurrecting Legends – CHESA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Virtual_actor">Virtual actor - Wikipedia</a></li>
 
-**Tags**: `#DNS`, `#Internet Infrastructure`, `#Cloud Services`, `#Business Strategy`, `#Pricing Model`
+</ul>
+</details>
+
+**Tags**: `#AI Impact`, `#Media Production`, `#Content Creation`, `#Automation`, `#China Tech`
 
 ---
 
 <a id="item-12"></a>
-## [Krea AI Releases Krea 2 Text-to-Image Model with Technical Report](https://www.krea.ai/blog/krea-2-technical-report) ⭐️ 8.0/10
+## [China's Short Drama Industry Faces Mass Layoffs Due to AI Adoption](https://www.bbc.com/zhongwen/articles/cvgdqjvzv9go/trad?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
 
-Krea AI has released Krea 2, a new text-to-image model, along with its weights and a detailed technical report explaining its training and data infrastructure. This release offers an in-depth look into the model's development process. This release is significant for the AI/ML community as it provides not only a new high-scoring model but also transparent insights into its training methodology and infrastructure, fostering further research and practical applications. The availability of weights encourages broader adoption and experimentation, as seen with immediate GGUF conversions. The technical report specifically details the actual training and data infrastructure, aspects often not extensively documented, which is of particular interest to the technical community. Notably, the community has already converted the Krea 2 Turbo model to GGUF format, though one user expressed disappointment regarding the use of the Qwen VAE.
+The rapid integration of AI technology into China's short drama industry has resulted in tens of thousands of actors, directors, and production staff losing their jobs within a few months. This swift job displacement highlights AI's immediate and significant impact on creative sectors. This development is significant as it serves as a real-world case study of AI's disruptive economic and societal impact on creative sectors, demonstrating how quickly technology can displace human labor on a large scale. It underscores the urgent need for discussions on job security and adaptation strategies in the face of advancing AI. The job losses occurred within a very short timeframe, often just one or two months, for individuals who were previously earning substantial incomes in the burgeoning short drama market. This rapid transition from prosperity to unemployment underscores the speed and intensity of AI's economic disruption.
 
-hackernews · mattnewton · Jun 23, 15:31 · [Discussion](https://news.ycombinator.com/item?id=48646659)
+rss · BBC 中文 (國際) · Jun 23, 02:42
 
-**Background**: Model weights are the numerical parameters within an artificial neural network that determine the strength of connections between neurons and define an AI's intelligence. They are learned during training by adjusting values to reduce prediction error, and releasing them allows others to use and fine-tune the trained model. Machine learning training infrastructure refers to the underlying systems and resources required to train deep learning models, including compute resources like GPUs, storage systems, orchestration platforms, and monitoring tools. This infrastructure is crucial for efficiently handling the vast amounts of data and computational power needed for modern AI model development.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.articsledge.com/post/model-weights">What Are Model Weights and Why Do They Matter in 2026?</a></li>
-<li><a href="https://northflank.com/blog/what-is-machine-learning-infrastructure">What is machine learning infrastructure? | Blog — Northflank</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community expresses strong interest in Krea 2, with the developer highlighting the report's depth on training and data infrastructure. Users are eager to experiment with the model, noting its potential to replace stock photo subscriptions, and have already initiated GGUF conversions for practical use, though there's a minor concern about the Qwen VAE.
-
-**Tags**: `#AI/ML`, `#Text-to-Image`, `#Deep Learning`, `#Model Training`, `#ML Infrastructure`
+**Tags**: `#AI Impact`, `#Job Displacement`, `#Creative Industries`, `#Economic Impact`, `#China`
 
 ---
 
 <a id="item-13"></a>
-## [German Company Formation: High Costs, Bureaucracy, and Delays](https://paolino.me/founding-a-company-in-germany/) ⭐️ 8.0/10
+## [Romanian Hospitals Resist Cyberattack with Manual Operations](https://www.bbc.com/zhongwen/articles/c5yzl50kkj4o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
 
-An entrepreneur documented spending €9600 and 152 days to establish a company in Germany, encountering significant bureaucratic obstacles that prevented them from even issuing an invoice. This personal account highlights the substantial bureaucratic and financial hurdles for entrepreneurs in Germany, which could deter new businesses and impact the country's startup ecosystem. The entrepreneur faced a €25,000 capital requirement for a GmbH, opted for a complex UG/GmbH + KG structure, and struggled with bank account setup, notary appointments, and tax office registration.
+Dozens of Romanian hospitals were forced to revert to manual, paper-based operations for four days after a nationwide cyberattack paralyzed their digital systems. This low-tech approach allowed them to continue providing services while cybersecurity experts worked to defeat the hackers. This incident highlights the critical importance of operational resilience and low-tech backup strategies for essential services like healthcare, demonstrating that even advanced digital infrastructures require contingency plans for severe cyber disruptions. It underscores the vulnerability of critical infrastructure to sophisticated cyber threats and the need for robust disaster recovery protocols. The cyberattack specifically targeted dozens of hospitals across Romania, rendering their digital systems inoperable for a period of four days. During this time, the hospitals successfully maintained operations by switching to manual, paper-based record-keeping and procedures.
 
-hackernews · earcar · Jun 24, 12:31 · [Discussion](https://news.ycombinator.com/item?id=48658718)
+rss · BBC 中文 (國際) · Jun 23, 06:40
 
-**Background**: In Germany, a GmbH (Gesellschaft mit beschränkter Haftung) is a common limited liability company requiring €25,000 in share capital, while an UG (Unternehmergesellschaft) is a simpler alternative with lower capital requirements. The process typically involves notary services, bank account setup, and registration with various government bodies like the tax office.
-
-**Discussion**: Community members debated the €25,000 GmbH capital requirement, citing it as a liability safeguard versus an unnecessary state toll, and noted that UG structures are often perceived as less serious. Some clarified that double taxation can be avoided by paying a salary and questioned the unusual UG/GmbH + KG setup, while others compared Germany's bureaucracy unfavorably to countries like the Netherlands and Sweden.
-
-**Tags**: `#Startup`, `#Entrepreneurship`, `#Germany`, `#Bureaucracy`, `#Business Formation`
+**Tags**: `#Cybersecurity`, `#Healthcare IT`, `#Disaster Recovery`, `#Operational Resilience`, `#Critical Infrastructure`
 
 ---
 
 <a id="item-14"></a>
-## [Decline in Vulnerability Report Effectiveness Due to Overwhelming Low-Quality Submissions](https://words.filippo.io/vuln-reports/) ⭐️ 8.0/10
+## [Gravitational Lensing Uncovers New Sources of Cosmic High-Energy Neutrinos](https://technews.tw/2026/06/24/unveiling-new-sources-cosmic-high-energy-neutrinos/) ⭐️ 8.0/10
 
-The article highlights a significant decline in the effectiveness and recognition of vulnerability reports, primarily due to an overwhelming volume of low-quality submissions and a subsequent breakdown in communication between security researchers and companies. This decline signifies a critical and systemic breakdown in the vulnerability disclosure process, impacting both security researchers who invest time in finding serious flaws and companies struggling to differentiate genuine threats from noise. It poses a significant challenge to overall cybersecurity posture across the industry. The issue is exacerbated by security engineers' reports of being ignored even for critical vulnerabilities like RCEs and cluster takeovers, while companies are inundated with "spam" reports, often generated by LLMs, identifying minor issues or appearing as extortion attempts. This creates a trust deficit and makes it difficult for legitimate, high-impact findings to receive attention.
+Researchers have potentially identified new sources of cosmic high-energy neutrinos by utilizing gravitational lensing, which helps to unravel a long-standing mystery about the origins of these elusive 'ghost particles'. This discovery is significant as it advances our understanding of the universe's most energetic phenomena and the origins of cosmic rays, potentially opening new avenues for neutrino astronomy and multi-messenger astrophysics. The research specifically leveraged gravitational lensing, a phenomenon where massive objects bend light, to pinpoint distant sources of high-energy neutrinos, which are elementary particles interacting weakly with matter.
 
-hackernews · goranmoomin · Jun 23, 23:42 · [Discussion](https://news.ycombinator.com/item?id=48653216)
+rss · 科技新報 TechNews (科技) · Jun 24, 13:58
 
-**Background**: Vulnerability disclosure is the process by which security researchers identify software flaws and report them to vendors or developers, allowing them to patch the issues before they can be exploited by malicious actors. Traditionally, these reports were highly valued as they helped improve software security.
+**Background**: Gravitational lensing occurs when a massive object, like a galaxy cluster, warps space-time, causing light from a distant source to bend and magnify as it passes around the massive object. High-energy cosmic neutrinos are elementary particles that are electrically neutral and interact very weakly with matter, making them difficult to detect and trace back to their origins.
 
-**Discussion**: The community discussion reveals widespread frustration from both security engineers, who report being ignored for critical vulnerabilities, and company owners, who are overwhelmed by low-quality, often LLM-generated, "spam" reports. While some see it as a fundamental engineering problem requiring new software practices like memory-safe languages, others optimistically believe LLMs will eventually reduce the volume of bugs and improve pre-shipping detection, making vulnerability reports "special" again.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Gravitational_lens">Gravitational lens - Wikipedia</a></li>
+<li><a href="https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/">Hubble Gravitational Lenses - NASA Science</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Neutrino">Neutrino - Wikipedia</a></li>
 
-**Tags**: `#Cybersecurity`, `#Vulnerability Disclosure`, `#Security Research`, `#Software Engineering`, `#Industry Trends`
+</ul>
+</details>
+
+**Tags**: `#Astrophysics`, `#Neutrinos`, `#Gravitational Lensing`, `#Cosmic Rays`, `#Scientific Discovery`
 
 ---
 
 <a id="item-15"></a>
-## [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi) ⭐️ 8.0/10
+## [James Webb Telescope Discovers Salt Clouds on Exoplanet GJ 504 b](https://technews.tw/2026/06/24/gj-504-b-exoplanet-puffy-pink-planet/) ⭐️ 8.0/10
 
-A new project demonstrates how to configure a low-cost Raspberry Pi Pico W microcontroller to function as a USB Wi-Fi adapter, allowing a host device to connect to Wi-Fi networks. This project offers a practical and cost-effective solution for devices that lack built-in Wi-Fi or require a specialized adapter, leveraging the capabilities of an affordable microcontroller in a novel way. The implementation leverages the Raspberry Pi Pico W's integrated 2.4GHz Wi-Fi (802.11n) and its USB capabilities to emulate an Ethernet device, allowing the host to treat the Pico W as a network interface.
+The James Webb Space Telescope has provided the first direct evidence of salt clouds in the atmosphere of the exoplanet GJ 504 b, located approximately 57 light-years from Earth. This groundbreaking observation reveals the planet's atmosphere is "salty" despite its "sweet" pink appearance. This discovery is highly significant for astrophysics and planetary science, as it provides concrete evidence of complex atmospheric chemistry on exoplanets, enhancing our understanding of their formation and evolution. It also demonstrates the advanced capabilities of the James Webb Space Telescope in characterizing exoplanet atmospheres, paving the way for future detailed studies. GJ 504 b is described as a "puffy pink planet" located 57 light-years from Earth, and the discovery of salt clouds in its atmosphere highlights the diverse and complex atmospheric chemistry possible on exoplanets. Previous research on other exoplanets suggests that such salt clouds can involve compounds like potassium chloride and sodium chloride, which condense and rain down before evaporating and rising again.
 
-hackernews · byb · Jun 24, 03:17 · [Discussion](https://news.ycombinator.com/item?id=48654676)
+rss · 科技新報 TechNews (科技) · Jun 24, 09:45
 
-**Background**: The Raspberry Pi Pico W is a low-cost microcontroller board featuring the RP2040 chip and integrated 2.4GHz Wi-Fi, designed for embedded applications rather than running a full operating system. Unlike a standard Raspberry Pi computer, it's more akin to an Arduino or ESP32, and its USB port can often be configured to emulate various USB devices.
+**Background**: Exoplanets are planets that orbit stars outside our solar system, and studying their atmospheres is crucial for understanding their composition, potential for life, and formation conditions. The James Webb Space Telescope (JWST) is a cutting-edge space observatory designed to detect and characterize distant celestial bodies, including exoplanets, with high sensitivity in infrared light.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html">Pico microcontroller boards - Raspberry Pi Documentation</a></li>
-<li><a href="https://randomnerdtutorials.com/getting-started-raspberry-pi-pico-w/">Getting Started with Raspberry Pi Pico (and Pico W) Getting Started with Raspberry Pi Pico W: Complete Beginner's ... Raspberry Pi Pico W : Adafruit Industries, Unique & fun DIY ... Raspberry Pi Pico W; RP2040 32-bit Cortex M0+ Dual Core ... Raspberry Pi Pico and Pico W Projects, Tutorials and Guides</a></li>
+<li><a href="https://cen.acs.org/physical-chemistry/astrochemistry/pink-planet-salt-atmosphere-astrochemistry/104/web/2026/06">Scientists peek into the Pink Planet’s atmosphere</a></li>
+<li><a href="https://eos.org/articles/an-exoplanet-with-evolving-clouds-of-salts">An Exoplanet with Evolving Clouds of Salts - Eos.org</a></li>
+<li><a href="https://science.nasa.gov/universe/exoplanets/cloudy-with-a-chance-of-salt-clouds/">Cloudy with a chance of salt clouds - NASA Science</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion shows high engagement, with users expressing interest in similar projects like USB over Wi-Fi, and noting existing open-source implementations of Pico W as a transparent Ethernet bridge for various emulated devices. There's also interest in a Bluetooth variant for HID devices and mentions of other Pico W applications like DualSense dongles.
-
-**Tags**: `#Raspberry Pi Pico W`, `#USB`, `#Wi-Fi`, `#Embedded Systems`, `#Networking`
+**Tags**: `#Exoplanets`, `#Astrophysics`, `#James Webb Space Telescope`, `#Planetary Science`, `#Atmospheric Composition`
 
 ---
 
 <a id="item-16"></a>
-## [Tribute to the Creator of Red and Green Spell-Check Squiggles](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451) ⭐️ 8.0/10
+## [Google DeepMind Invests $75M in A24 for AI Film and TV Tech Development](https://finance.technews.tw/2026/06/24/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) ⭐️ 8.0/10
 
-This news item serves as a tribute to the individual who created the ubiquitous red and green squiggles used for spell and grammar checking in software, commemorating their significant, often uncredited, contribution to user interface design. This tribute underscores the profound and often unpredictable impact that seemingly minor software features and individual contributions can have on how billions of people interact with technology for decades. It highlights the lasting legacy of foundational UI elements that become standard across various applications. The article itself focuses on the human element and the broad impact of the feature, while community discussions highlight its challenges in multi-language environments and a claim of its independent implementation in KDE for generic text widgets.
+Google DeepMind has invested $75 million in the independent film studio A24 to establish a research partnership aimed at developing AI technology specifically for film and television production. This collaboration, announced on June 24, 2026, marks a significant cross-industry initiative. This partnership is significant as it represents a major cross-industry collaboration between a leading AI research company and a critically acclaimed film studio, potentially revolutionizing creative content production through novel AI applications. It could set a precedent for how AI is integrated into the entertainment industry, impacting everything from pre-production to post-production workflows. The investment specifically targets a research partnership to develop AI technology for film and television, indicating a focus on practical applications within the creative production pipeline rather than just general AI research. A24 is known for acclaimed films such as "Past Lives," "Everything Everywhere All at Once," and "The Whale," suggesting the AI development will be applied to high-quality cinematic content.
 
-hackernews · saikatsg · Jun 23, 18:10 · [Discussion](https://news.ycombinator.com/item?id=48648959)
+rss · 科技新報 TechNews (科技) · Jun 24, 09:29
 
-**Discussion**: The community discussion reflects on the profound, often unpredictable impact of small software features and individual contributions, with some debating the feature's merits versus its broader legacy. Key viewpoints include the challenge of recognition for developers, the utility of squiggles in multi-language contexts, and claims about the feature's independent origins in other environments like KDE.
+**Background**: Google DeepMind is a prominent artificial intelligence research laboratory known for its advancements in various AI fields, including deep learning and reinforcement learning. A24 is an American independent entertainment company specializing in film and television production and distribution, recognized for producing critically acclaimed and often unconventional films.
 
-**Tags**: `#Software Development`, `#User Interface`, `#History of Technology`, `#Developer Culture`, `#UX Design`
+**Tags**: `#AI Applications`, `#Film Industry`, `#Google DeepMind`, `#Strategic Partnership`, `#Creative AI`
 
 ---
 
 <a id="item-17"></a>
-## [FUTO Swipe Introduces New, Improved Swipe Typing Model](https://swipe.futo.tech/) ⭐️ 8.0/10
+## [IRENA Warns 2,500GW Renewable Energy Gridlock Due to Insufficient Grid Infrastructure](https://technews.tw/2026/06/24/grid-need-to-be-stettle-down/) ⭐️ 8.0/10
 
-FUTO Swipe has launched a new swipe typing model, demonstrating notable improvements in accuracy and user experience, which is available in their fully offline Android keyboard app and as open models for developers. This development is significant as it provides a high-quality, privacy-focused, and open-source alternative to often privacy-invasive or proprietary swipe typing solutions, benefiting users and developers seeking secure mobile input technology. The FUTO Swipe model operates entirely offline, ensuring user privacy by providing features like swipe typing, autocorrect, and predictive text without an internet connection, and its open models and algorithms aim to democratize high-quality swipe typing.
+The International Renewable Energy Agency (IRENA) has released a new report highlighting that slow grid infrastructure development is creating a global "gridlock" for 2,500GW of renewable energy projects. This bottleneck threatens to worsen energy curtailment issues worldwide. This is significant because it underscores a critical barrier to the global energy transition, potentially slowing down decarbonization efforts and increasing financial losses for renewable energy producers. The issue affects countries worldwide striving to integrate more clean energy into their power systems. The report specifically identifies 2,500GW of renewable energy capacity currently stalled globally due to inadequate grid infrastructure, indicating a substantial gap between generation capacity and transmission capabilities. This "gridlock" directly contributes to energy curtailment, where generated electricity cannot be delivered to consumers.
 
-hackernews · futohq · Jun 23, 17:50 · [Discussion](https://news.ycombinator.com/item?id=48648619)
+rss · 科技新報 TechNews (科技) · Jun 24, 08:42
 
-**Background**: Swipe typing, also known as gesture typing, is a mobile input method where users drag their finger across the virtual keyboard, connecting letters to form words, with the system predicting the word based on the traced path. This method relies on advanced algorithms and language models to accurately interpret the gestures and suggest the correct words.
+**Background**: Energy curtailment, in the context of electricity grids, refers to the intentional reduction of power generation to maintain the balance between electricity supply and demand. It often occurs when there is an excess of generated electricity that the grid cannot absorb or transmit, leading to a loss of potentially useful energy. This practice is critical for grid stability but can be costly for renewable energy producers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://swipe.futo.tech/">FUTO Swipe</a></li>
-<li><a href="https://keyboard.futo.org/">FUTO Keyboard</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Curtailment_(electricity)">Curtailment (electricity) - Wikipedia</a></li>
+<li><a href="https://warrington.ufl.edu/news/what-is-curtailment-an-electricity-market-expert-explains/">What is curtailment? An electricity market expert explains - UF Warrington College of Business</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion is largely positive, with users commending FUTO Swipe's significant improvements, particularly its ability to rival established keyboards like Gboard, and appreciating its privacy-focused, offline design. Users also discussed technical challenges like word overlap and contextual suggestions, and one user noted contributing to the dataset.
-
-**Tags**: `#Mobile Input`, `#Keyboard Technology`, `#Swipe Typing`, `#User Experience`, `#Natural Language Processing`
+**Tags**: `#Renewable Energy`, `#Energy Grid`, `#Infrastructure`, `#Energy Policy`, `#Sustainability`
 
 ---
 
 <a id="item-18"></a>
-## [Unconventional Fix for MacBook Cursor Lag by Recording a Single Pixel](https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf) ⭐️ 8.0/10
+## [ByteDance Reportedly Seeks $20 Billion Offshore Loan for AI Investment](https://finance.technews.tw/2026/06/24/bytedance-reportedly-seeks-20-billion-offshore-loan/) ⭐️ 8.0/10
 
-An unconventional workaround has been proposed to fix cursor lag on MacBooks by recording a single pixel of the screen every 10 seconds, which forces the macOS system to switch from a hardware cursor to a software cursor. This method aims to address a frustrating user experience issue by altering how the system renders the cursor. This is significant as it provides a practical, albeit unconventional, solution to a persistent and frustrating cursor lag bug affecting some MacBook users, highlighting potential underlying issues within macOS graphics rendering. The workaround also prompts a deeper technical discussion about system internals and the differences between hardware and software cursor handling. The core technical detail is that recording a single pixel every 10 seconds forces the WindowServer to composite the cursor as a software cursor, rather than using a hardware overlay, which is typically faster but can be prone to specific rendering bugs. This change in cursor rendering path seems to bypass the underlying issue causing the lag.
+ByteDance is reportedly in preliminary discussions with banks to secure an offshore loan of approximately $20 billion, aiming to substantially boost its investments in artificial intelligence. This substantial financial move by a major global tech company signals a significant strategic pivot towards AI, which could profoundly impact the competitive landscape and resource allocation within the tech industry. The discussions with banks are currently in preliminary stages, indicating that the terms and finalization of the reported $20 billion offshore loan are still subject to negotiation.
 
-hackernews · retroplasma · Jun 24, 02:38 · [Discussion](https://news.ycombinator.com/item?id=48654465)
+rss · 科技新報 TechNews (科技) · Jun 24, 08:30
 
-**Background**: A hardware cursor is rendered directly by the GPU, offering minimal latency and smoother movement, while a software cursor is drawn by the operating system or application and then composited into the frame buffer, which can introduce slight delays. macOS typically utilizes hardware cursors for optimal performance, but issues can force a switch to software rendering.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.reddit.com/r/witcher/comments/3cwwfm/what_does_the_hardware_cursor_option_on_pc_do/">What does the Hardware Cursor option (on PC) do? : r/witcher</a></li>
-<li><a href="https://hbarvault.net/Others/1028.html">Hardware vs Software Cursors: Impact on Gaming Performance ...</a></li>
-<li><a href="https://steamcommunity.com/app/599140/discussions/0/3196988875697330345/">What is the difference between mouse cursor Software vs Hardware</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community discussion offers a blend of technical insights and amusement, with userbinator suggesting the lag might stem from a stalled transition between hardware and software cursors. While TheTon critiques the workaround as a "terrible fix" for forcing software compositing, exogen points to a simpler, similar fix from the past involving cursor size. elicash humorously expresses hope that the absurdity of the solution will prompt Apple to implement a proper fix.
-
-**Tags**: `#macOS`, `#Bug Fix`, `#Graphics`, `#User Experience`, `#System Internals`
+**Tags**: `#AI Investment`, `#ByteDance`, `#Corporate Strategy`, `#Financial News`, `#Tech Industry`
 
 ---
 
 <a id="item-19"></a>
-## [Romanian Hospitals Use Paper Records After Cyberattack Paralyzes Systems](https://www.bbc.com/zhongwen/articles/c5yzl50kkj4o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
+## [Meta CEO Directs Development of New Prediction Market Platform](https://finance.technews.tw/2026/06/24/meta-is-building-a-prediction-markets-app/) ⭐️ 8.0/10
 
-Dozens of Romanian hospitals were forced to revert to manual, paper-based operations for four days after a nationwide cyberattack paralyzed their digital systems. This incident highlights the critical vulnerability of healthcare IT infrastructure to cyber threats. This event underscores the critical need for robust contingency plans, including low-tech alternatives, to maintain essential healthcare services during cyberattacks. Such incidents can severely disrupt patient care and compromise sensitive health information, impacting millions. For four days, the digital systems of dozens of hospitals were paralyzed, forcing staff to rely entirely on traditional paper and pen methods for patient management and medical records. This manual fallback, while disruptive, proved crucial in sustaining operations and preventing a complete shutdown of services.
+Meta CEO Mark Zuckerberg has reportedly instructed internal teams to develop a new prediction market platform, internally known as "Arena," which will initially operate without real money transactions but may integrate them in the future. This initiative signals a significant new strategic product direction for Meta, potentially expanding its ecosystem beyond traditional social media into information aggregation and event forecasting, which could impact the broader tech and financial prediction industries. The new prediction market application will operate independently of Meta's existing social media offerings, although there is a possibility that these social sites could direct users to engage with the app.
 
-rss · BBC 中文 (國際) · Jun 23, 06:40
+rss · 科技新報 TechNews (科技) · Jun 24, 08:09
 
-**Background**: Cyberattacks, particularly ransomware, have become a growing threat to healthcare systems globally, with incidents more than doubling in recent years. These attacks often encrypt critical data, demanding payment for its release, and can lead to widespread disruptions in patient care and significant financial costs.
+**Background**: Prediction markets are exchange-traded markets where participants buy and sell contracts based on the outcome of future events, such as elections or economic indicators. They function by aggregating the collective beliefs of traders, with market prices indicating the crowd's perceived probability of an event occurring, often using financial incentives.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833984">Ransomware Attacks and Data Breaches in US Health Care Systems</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9856685/">Trends in Ransomware Attacks on US Hospitals, Clinics, and ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Prediction_market">Prediction market</a></li>
+<li><a href="https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html">Meta is building a prediction markets app. These stocks fell - CNBC</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Cybersecurity`, `#Healthcare IT`, `#Disaster Recovery`, `#Operational Resilience`, `#Ransomware`
+**Tags**: `#Meta`, `#Prediction Markets`, `#Product Development`, `#Tech Industry`, `#Strategic Initiatives`
 
 ---
 
 <a id="item-20"></a>
-## [Social Media Fails to Address Image Abuse Beyond Nudity](https://www.bbc.com/zhongwen/articles/c1wy8d9gpdxo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
+## [Agility Robotics Reportedly Plans SPAC Listing with $2.5 Billion Valuation](https://finance.technews.tw/2026/06/24/agility-robotics-reportedly-plans-spac-listing/) ⭐️ 8.0/10
 
-A new report highlights that social media platforms and authorities often mishandle image-based sexual abuse by exclusively focusing on explicit nudity, thereby neglecting the critical aspect of consent. This narrow approach severely harms women, as even non-explicit photos, such as those showing shoulders or Western attire, can ruin lives in conservative societies. This issue is significant because it exposes a critical flaw in current content moderation policies, which prioritize visual explicitness over the nuanced and culturally sensitive concept of consent. It has profound implications for social media platforms, requiring a re-evaluation of their moderation algorithms and a stronger emphasis on digital ethics to protect users, especially women, from severe harm. The core problem lies in platforms' and authorities' singular focus on nudity, which overlooks the fact that image-based sexual abuse is fundamentally about a lack of consent, regardless of the image's explicitness. The report specifically notes that photos showing shoulders or Western clothing can be devastating in conservative communities, demonstrating the need for culturally aware moderation.
+Agility Robotics, a leading developer of humanoid robots for factories and logistics, is reportedly planning to go public on Nasdaq via a SPAC merger, with an estimated valuation of $2.5 billion and a target listing date in September under the ticker AGLT. This potential listing signals strong investor confidence in the practical application and scaling of humanoid robotics in manufacturing and logistics, potentially accelerating the adoption of advanced automation solutions across industries. The company is reportedly pursuing a SPAC merger for its Nasdaq listing under the ticker AGLT, aiming for a $2.5 billion valuation and a September trading debut, following a similar move by China's Unitree Robotics.
 
-rss · BBC 中文 (國際) · Jun 22, 23:00
+rss · 科技新報 TechNews (科技) · Jun 24, 07:30
 
-**Tags**: `#Digital Ethics`, `#Content Moderation`, `#Social Media`, `#Image Abuse`, `#Gender Issues`
+**Background**: Humanoid robots are advanced machines designed to resemble and interact with the human environment, often used for tasks requiring dexterity and navigation in complex spaces like factories and warehouses. A Special Purpose Acquisition Company (SPAC) is a shell corporation listed on a stock exchange with the purpose of acquiring a private company, thereby taking it public without the traditional IPO process.
+
+**Tags**: `#Robotics`, `#Humanoid Robots`, `#Automation`, `#Business News`, `#SPAC`
 
 ---
