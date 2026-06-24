@@ -5,389 +5,395 @@ date: 2026-06-24
 lang: en
 ---
 
-> From 244 items, 20 important content pieces were selected
+> From 384 items, 21 important content pieces were selected
 
 ---
 
-1. [Krea Releases Krea 2 Text-to-Image Model with Open Weights and Detailed Technical Report](#item-1) ⭐️ 9.0/10
-2. [OpenAI Unveils "Jalapeño" Custom AI Inference Chip with Broadcom and TSMC](#item-2) ⭐️ 9.0/10
-3. [Trump Boosts Quantum Cybersecurity Strategy as Tongbao QB7 Achieves NIST CAVP Validation](#item-3) ⭐️ 9.0/10
-4. [US Warns of Action Against China's Robotics Subsidies](#item-4) ⭐️ 9.0/10
-5. [Qualcomm Acquires Modular for $3.9B to Boost AI Software and Data Center Presence](#item-5) ⭐️ 9.0/10
-6. [China's 8 Ministries Launch First National AI + Consumption Policy with Subsidies](#item-6) ⭐️ 9.0/10
-7. [OpenMontage: First Open-Source Agentic AI Video Production System](#item-7) ⭐️ 9.0/10
-8. [Founding a Company in Germany: Bureaucracy, Costs, and Hurdles](#item-8) ⭐️ 8.0/10
-9. [Raspberry Pi Pico W Functions as USB Wi-Fi Ethernet Adapter](#item-9) ⭐️ 8.0/10
-10. [Software Vulnerability Reporting System Overwhelmed and Broken](#item-10) ⭐️ 8.0/10
-11. [China's Short Drama Industry Sees 40% of Popular Content Produced by AI, Displacing Human Actors](#item-11) ⭐️ 8.0/10
-12. [China's Short Drama Industry Faces Mass Layoffs Due to AI Adoption](#item-12) ⭐️ 8.0/10
-13. [Romanian Hospitals Resist Cyberattack with Manual Operations](#item-13) ⭐️ 8.0/10
-14. [Gravitational Lensing Uncovers New Sources of Cosmic High-Energy Neutrinos](#item-14) ⭐️ 8.0/10
-15. [James Webb Telescope Discovers Salt Clouds on Exoplanet GJ 504 b](#item-15) ⭐️ 8.0/10
-16. [Google DeepMind Invests $75M in A24 for AI Film and TV Tech Development](#item-16) ⭐️ 8.0/10
-17. [IRENA Warns 2,500GW Renewable Energy Gridlock Due to Insufficient Grid Infrastructure](#item-17) ⭐️ 8.0/10
-18. [ByteDance Reportedly Seeks $20 Billion Offshore Loan for AI Investment](#item-18) ⭐️ 8.0/10
-19. [Meta CEO Directs Development of New Prediction Market Platform](#item-19) ⭐️ 8.0/10
-20. [Agility Robotics Reportedly Plans SPAC Listing with $2.5 Billion Valuation](#item-20) ⭐️ 8.0/10
+1. [OpenAI Unveils "Jalapeno," Its First Custom AI Inference Chip with Broadcom](#item-1) ⭐️ 9.0/10
+2. [Open Source PR Spam Compared to Early 2000s Email Spam](#item-2) ⭐️ 9.0/10
+3. [AI Drives Rapid Transformation in China's Short Drama Industry, Displacing Human Actors](#item-3) ⭐️ 9.0/10
+4. [China Reclaims Supercomputer Crown from U.S. with CPU-Only Machine](#item-4) ⭐️ 9.0/10
+5. [Qualcomm Acquires Modular for $3.9 Billion to Boost AI Software and Data Center Presence](#item-5) ⭐️ 9.0/10
+6. [U.S. Presses Meta for AI Safety Reviews After Anthropic Model Withdrawal](#item-6) ⭐️ 9.0/10
+7. [Gravitational Lensing Uncovers New Sources for High-Energy Cosmic Neutrinos](#item-7) ⭐️ 9.0/10
+8. [Trump's Quantum Cybersecurity Push: Tongbao QB7 Achieves NIST CAVP Validation](#item-8) ⭐️ 9.0/10
+9. [OpenMontage: World's First Open-Source Agentic AI Video Production System](#item-9) ⭐️ 9.0/10
+10. [Romanian Hospitals Revert to Paper After Cyberattack](#item-10) ⭐️ 8.0/10
+11. [Beyond Nudity: Report Highlights Harm of Image-Based Abuse Focused on Consent, Not Exposure](#item-11) ⭐️ 8.0/10
+12. [Homes to Help Power AI's Growing Energy Demand](#item-12) ⭐️ 8.0/10
+13. [Alphabet Joins Dow Jones Industrial Average, Replacing Verizon](#item-13) ⭐️ 8.0/10
+14. [Microsoft's Quantum Breakthrough Questioned by New Nature Commentary](#item-14) ⭐️ 8.0/10
+15. [AI Michael Caine Narrates Officially Licensed "Odyssey" Audiobook by ElevenLabs](#item-15) ⭐️ 8.0/10
+16. [Generic Cystic Fibrosis Drug Available at Fraction of Price](#item-16) ⭐️ 8.0/10
+17. [AI Data Centers' Noise Pollution Impacts Residents' Health and Homes](#item-17) ⭐️ 8.0/10
+18. [JWST Discovers Salt Clouds on Exoplanet GJ 504 b](#item-18) ⭐️ 8.0/10
+19. [Taiwan's Paradox: World-Class Semiconductor Engineers Despite Lower University Rankings](#item-19) ⭐️ 7.0/10
+20. [South Korea Launches App for Victims to Track Electronically Monitored Stalkers](#item-20) ⭐️ 6.0/10
+21. [Alex Bores's Defeat Highlights AI Industry's Political Influence Challenge](#item-21) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Krea Releases Krea 2 Text-to-Image Model with Open Weights and Detailed Technical Report](https://www.krea.ai/blog/krea-2-technical-report) ⭐️ 9.0/10
+## [OpenAI Unveils "Jalapeno," Its First Custom AI Inference Chip with Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) ⭐️ 9.0/10
 
-Krea has officially released Krea 2, a new text-to-image model, accompanied by its open weights and a comprehensive technical report detailing its architecture, data curation, RL pipelines, and infrastructure. The release includes Krea 2 Turbo, which is optimized for faster inference through guidance- and timestep-distillation. This release is significant as Krea 2's open weights and detailed technical report foster transparency and collaborative development in the generative AI community, allowing researchers and developers to inspect, modify, and build upon the model. The immediate community adoption and porting demonstrate its practical utility and potential to advance text-to-image generation. The comprehensive technical report delves into critical aspects such as data curation, model architecture, post-training, and reinforcement learning (RL) pipelines, offering valuable insights into their training methodology and infrastructure. Notably, Krea released two sets of weights, including Krea 2 Turbo, which is optimized for faster inference through guidance- and timestep-distillation, and has already seen community porting to GGUF format.
+OpenAI has officially unveiled "Jalapeno," its first custom AI inference chip, developed in collaboration with Broadcom and accelerated by OpenAI's own models, completing the process from design to production in nine months. This move signifies OpenAI's strategic push towards vertical integration in AI hardware, aiming to optimize its infrastructure and achieve substantial cost savings, reportedly around 50% compared to typical AI GPUs for inference. The custom chip, code-named "Jalapeno," is an AI inference chip built by Broadcom, with TSMC reportedly handling the manufacturing, and it promises approximately 50% cost savings compared to standard AI GPUs.
 
-hackernews · mattnewton · Jun 23, 15:31 · [Discussion](https://news.ycombinator.com/item?id=48646659)
+hackernews · jamdesk · Jun 24, 17:47 · [Discussion](https://news.ycombinator.com/item?id=48663324)
 
-**Background**: An "open-weights model" refers to a machine learning model, such as a text-to-image model, whose trained parameters (weights) are made publicly available, allowing others to inspect, use, and modify the model. Reinforcement Learning (RL) pipelines involve using reinforcement learning techniques to optimize various aspects of a generative AI model, often to improve its output quality or align it better with human preferences.
+**Background**: AI inference refers to the process where a trained artificial intelligence model applies learned patterns to new data to make predictions or generate outputs. While GPUs have traditionally been used for both AI training and inference, custom-designed Application-Specific Integrated Circuits (ASICs), like OpenAI's new chip, are increasingly developed to offer greater efficiency and lower operational costs specifically for inference tasks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ai21.com/glossary/foundational-llm/open-weights-model/">What is an Open-Weights Model? | AI21</a></li>
-<li><a href="https://arxiv.org/html/2308.00031v3">Reinforcement Learning for Generative AI: State of the Art ...</a></li>
+<li><a href="https://cloud.google.com/discover/what-is-ai-inference">What is AI inference? How it works and examples | Google Cloud</a></li>
+<li><a href="https://www.ibm.com/think/topics/ai-inference">What is AI Inference? - Machine learning</a></li>
+<li><a href="https://ai-stack.ai/en/asic-vs-gpu">What are ASIC Chips? A Detailed Comparison with GPUs and Application ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion is highly positive, with Krea's co-founders actively engaging to highlight the depth of their technical report, especially regarding training and data infrastructure. Users expressed immediate enthusiasm for Krea 2, noting its practical utility in replacing stock photo subscriptions and demonstrating rapid adoption by porting the Turbo version to GGUF format shortly after release.
+**Discussion**: The community expresses excitement about the potential for chip-level efficiency and cost savings, with some users highlighting Broadcom's claim of 50% cost reduction compared to GPUs. However, there's skepticism regarding the vague assertion that OpenAI's models accelerated the chip's design, with calls for more specific details. Additionally, discussions clarify that TSMC is the manufacturer and explore more radical custom chip designs like burning LLM weights directly into silicon.
 
-**Tags**: `#AI/ML`, `#Text-to-Image`, `#Generative AI`, `#Model Training`, `#Open Source`
+**Tags**: `#AI Hardware`, `#Custom Chips`, `#OpenAI`, `#AI Inference`, `#Semiconductors`
 
 ---
 
 <a id="item-2"></a>
-## [OpenAI Unveils "Jalapeño" Custom AI Inference Chip with Broadcom and TSMC](https://technews.tw/2026/06/24/openai-and-broadcom-unveil-llm-optimized-inference-chip/) ⭐️ 9.0/10
+## [Open Source PR Spam Compared to Early 2000s Email Spam](https://www.greptile.com/blog/prs-on-openclaw) ⭐️ 9.0/10
 
-OpenAI announced on June 24th that its first custom AI inference chip, named "Jalapeño," designed in collaboration with Broadcom and to be produced by TSMC, has completed initial sample manufacturing and testing. This marks OpenAI's official entry into developing its own AI hardware. This move signifies OpenAI's strategic shift towards vertical integration in the AI hardware space, aiming to reduce its reliance on external GPU providers like Nvidia and potentially lower the cost and improve the performance of large-scale AI deployments. The "Jalapeño" chip is an Application-Specific Integrated Circuit (ASIC) specifically engineered and optimized for AI inference, designed to power current and future large language models.
+A recent discussion highlights the increasing influx of low-quality pull requests in open-source projects, drawing a parallel to the pervasive email spam issues experienced in the early 2000s. This issue is significant as it poses a growing challenge for open-source maintainers, impacting their ability to manage projects efficiently, review legitimate contributions, and maintain community health. Community members proposed various solutions, including leveraging GitHub's recently added configurable PR limits, requiring new contributors to meet maintainers non-textually, and exploring token-based donation systems for projects.
 
-rss · 科技新報 TechNews (科技) · Jun 24, 15:34
+hackernews · dakshgupta · Jun 24, 14:32 · [Discussion](https://news.ycombinator.com/item?id=48660579)
 
-**Background**: AI inference is the process where a trained artificial intelligence model generates outputs or makes predictions on new data in real-time. An Application-Specific Integrated Circuit (ASIC) is a type of integrated circuit designed for a dedicated function or application, in contrast to general-purpose processors.
+**Background**: In open-source software development, a pull request (PR) is a proposal to merge changes from a contributor's branch into the main codebase of a project. This mechanism allows maintainers to review, discuss, and approve contributions before they become part of the official project.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.ibm.com/think/topics/ai-inference">What is AI Inference? | IBM</a></li>
-<li><a href="https://grokipedia.com/page/Inference_artificial_intelligence">Inference (artificial intelligence)</a></li>
-<li><a href="https://grokipedia.com/page/Application-specific_integrated_circuit">Application-specific integrated circuit (ASIC)</a></li>
+**Discussion**: The discussion revealed diverse viewpoints, noting a key difference in sender reputation between email and PRs, while also highlighting existing tools like GitHub's PR limits and project-specific strategies such as mandatory non-textual meetings for new contributors. Participants also explored historical parallels in fighting spam and suggested innovative ideas like token donations to projects.
 
-</ul>
-</details>
-
-**Tags**: `#AI Hardware`, `#Custom Silicon`, `#OpenAI`, `#AI Inference`, `#Semiconductor Industry`
+**Tags**: `#Open Source`, `#Community Management`, `#Software Development`, `#GitHub`, `#Project Management`
 
 ---
 
 <a id="item-3"></a>
-## [Trump Boosts Quantum Cybersecurity Strategy as Tongbao QB7 Achieves NIST CAVP Validation](https://finance.technews.tw/2026/06/24/post/) ⭐️ 9.0/10
+## [AI Drives Rapid Transformation in China's Short Drama Industry, Displacing Human Actors](https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-US President Donald Trump has signed two executive orders to accelerate quantum computing development, aiming for commercial quantum computers by 2028, while Tongbao Semiconductor's QB7 product has simultaneously achieved the crucial US NIST CAVP validation. This signifies a significant step in the national strategy for quantum computing and next-generation cybersecurity. This initiative by President Trump underscores a significant national strategic push towards post-quantum cryptography, essential for safeguarding sensitive data against future quantum computing threats. Tongbao's QB7 validation represents a practical advancement in deploying quantum-resistant cybersecurity solutions, with implications for government, financial, and healthcare industries. The NIST CAVP validation for Tongbao's QB7 is a crucial prerequisite for the broader Cryptographic Module Validation Program (CMVP), ensuring its cryptographic algorithms meet stringent US government and regulated industry standards. Additionally, Jinbao Group, Tongbao's parent company, has invested in US quantum hardware manufacturer SEEQC, indicating a broader strategic commitment to quantum technology.
+China's short drama industry has undergone a rapid transformation, with AI-produced content now accounting for 40% of popular short dramas and experiencing exponential growth, leading to the swift displacement of human actors. This development signifies a major real-world application and industry-changing impact of AI in the entertainment sector, highlighting its profound societal and economic implications, particularly concerning job displacement. Industry professionals reported that the shift from earning substantial income to unemployment occurred within just one or two months, illustrating the unprecedented speed of AI adoption and its disruptive effect on human roles.
 
-rss · 科技新報 TechNews (科技) · Jun 24, 08:28
+rss · BBC 中文 (國際) · Jun 23, 23:25
 
-**Background**: The NIST Cryptographic Algorithm Validation Program (CAVP) is a U.S. government program that validates cryptographic algorithms to ensure they meet federal security standards, serving as a prerequisite for the Cryptographic Module Validation Program (CMVP). Post-quantum cryptography (PQC) involves developing new cryptographic algorithms that are resistant to attacks by future quantum computers, which pose a significant threat to current widely used public-key encryption methods. The global effort to transition to PQC aims to secure sensitive data before quantum computers become powerful enough to break existing encryption, a scenario often referred to as "Q-Day."
+**Background**: AI short dramas utilize generative AI tools for various aspects of production, including visuals, character creation, scene design, and voice, or even the entire production pipeline. These are typically vertical-format serialized content, with episodes lasting one to five minutes, and are often referred to as vertical micro-dramas.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.real-reel.com/ai-is-rewriting-vertical-drama-microdrama-industry/">AI Is Rewriting the Vertical Short Drama Industry | Real Reel</a></li>
+<li><a href="https://aibit.im/en/article/jellyfish-ai-short-drama-factory-full-production-suite">Jellyfish: AI Short Drama Factory - Full Production Suite</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI applications`, `#Entertainment Tech`, `#Automation`, `#Societal Impact`, `#China Tech`
+
+---
+
+<a id="item-4"></a>
+## [China Reclaims Supercomputer Crown from U.S. with CPU-Only Machine](https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html) ⭐️ 9.0/10
+
+China has reclaimed the title of the world's fastest supercomputer for the first time since 2017 with its new LineShine machine in Shenzhen, which uniquely achieves 2.198 exaflops using only standard microprocessors rather than specialized GPUs. This achievement signifies a major shift in global technological leadership in high-performance computing, demonstrating China's growing self-sufficiency and innovation in developing powerful systems without relying on foreign specialized hardware like GPUs. It could influence future supercomputer architectures and national technology strategies. The new LineShine supercomputer, located in Shenzhen, achieved a performance of 2.198 exaflops on the LINPACK benchmarks, distinguishing itself by exclusively utilizing standard microprocessors (CPUs) for its computational power, a departure from the common trend of GPU-accelerated systems.
+
+rss · 紐約時報 國際 · Jun 23, 09:02
+
+**Background**: Supercomputers are high-performance computing systems designed to perform complex calculations at extremely fast speeds, often used for scientific research, weather forecasting, and simulations. The TOP500 list is a semi-annual ranking of the world's most powerful non-distributed supercomputers, primarily based on their performance in the LINPACK benchmark. Traditionally, supercomputers relied heavily on CPUs, but modern systems increasingly incorporate Graphics Processing Units (GPUs) for their parallel processing capabilities, making China's CPU-only approach particularly notable.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/TOP500_Supercomputer_Sites">TOP500 Supercomputer Sites</a></li>
+<li><a href="https://kantan.news/news/china-places-cpu-only-supercomputer-lineshine-at-the-top">China Places CPU - Only Supercomputer LineShine at... | Kantan.News</a></li>
+<li><a href="https://www.techradar.com/pro/china-unveils-a-cpu-only-supercomputer-capable-of-1-54-exaflops-lineshine-lx2-packs-a-frankly-ridiculous-2-4-million-armv9-cores-from-huawei">China built a giant AI supercomputer without Nvidia... | TechRadar</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Supercomputing`, `#High-Performance Computing`, `#China`, `#Technology Leadership`, `#Microprocessors`
+
+---
+
+<a id="item-5"></a>
+## [Qualcomm Acquires Modular for $3.9 Billion to Boost AI Software and Data Center Presence](https://news.cnyes.com/news/id/6511045) ⭐️ 9.0/10
+
+Qualcomm announced on Wednesday (24th) its acquisition of AI software startup Modular for approximately $3.9 billion in an all-stock transaction. This strategic move aims to significantly strengthen Qualcomm's artificial intelligence software capabilities and accelerate its expansion into the data center market. This acquisition is a major strategic move by Qualcomm to directly challenge Nvidia's dominant position in AI chips and data center solutions, potentially reshaping the competitive landscape of the AI hardware and software industry. By integrating Modular's advanced AI software, Qualcomm aims to offer more comprehensive and competitive solutions across various computing environments. The acquisition is valued at approximately $3.9 billion and will be an all-stock transaction. Modular is known for its Modular AI Engine, which accelerates AI model serving, and the Mojo programming language, designed to combine Python's usability with high-performance system language capabilities for AI workloads.
+
+rss · 鉅亨網 (財經) · Jun 24, 14:00
+
+**Background**: Modular develops the Mojo programming language and the Modular AI Engine. Mojo is a proprietary programming language based on Python, designed for high-performance AI infrastructure and heterogeneous hardware environments, building on the Multi-Level Intermediate Representation (MLIR) compiler framework to target various processors like CPUs, GPUs, and ASICs. The Modular AI Engine provides significant usability, portability, and performance gains for leading AI frameworks such as PyTorch and TensorFlow, delivering world-leading execution performance for cloud-available CPU architectures.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Mojo_(programming_language)">Mojo (programming language)</a></li>
+<li><a href="https://www.modular.com/blog/accelerating-ai-model-serving-with-the-modular-ai-engine">Modular: Accelerating AI model serving with the Modular AI Engine</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Acquisitions`, `#Qualcomm`, `#Data Center`, `#Competition`
+
+---
+
+<a id="item-6"></a>
+## [U.S. Presses Meta for AI Safety Reviews After Anthropic Model Withdrawal](https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html) ⭐️ 9.0/10
+
+Federal officials are urging Meta, identified as the last major tech company holdout, to permit government safety evaluations for its artificial intelligence models. This pressure follows a recent incident where Anthropic was ordered to withdraw its latest AI model. This development signifies a major escalation in government oversight and regulation of the AI industry, potentially setting a precedent for mandatory safety evaluations across all major AI developers. It highlights growing concerns about AI safety and the government's increasing assertiveness in managing potential risks from advanced AI systems. Meta is currently the only major tech company resisting government safety evaluations for its AI models, distinguishing it from other industry leaders who may have already agreed or are in discussions. The specific reasons for Anthropic's model withdrawal were not detailed in the provided content, but it underscores the government's willingness to enforce such directives.
+
+rss · 紐約時報 商業經濟 · Jun 23, 21:45
+
+**Background**: Anthropic is an American artificial intelligence company known for developing large language models like Claude, with a strong focus on AI safety and building reliable, interpretable, and steerable AI systems. The broader context involves increasing global discussions and initiatives around AI regulation, aiming to mitigate risks such as bias, misuse, and autonomous decision-making in powerful AI systems.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
+<li><a href="https://www.anthropic.com/">Home \ Anthropic</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Regulation`, `#AI Safety`, `#Government Policy`, `#Meta`, `#Tech Industry`
+
+---
+
+<a id="item-7"></a>
+## [Gravitational Lensing Uncovers New Sources for High-Energy Cosmic Neutrinos](https://technews.tw/2026/06/24/unveiling-new-sources-cosmic-high-energy-neutrinos/) ⭐️ 9.0/10
+
+A recent study has successfully employed gravitational lensing to pinpoint novel sources of high-energy cosmic neutrinos, offering crucial insights into the origins of these elusive 'ghost particles' whose sources have long remained a mystery. This discovery represents a significant breakthrough in astrophysics and particle physics, potentially ushering in a new era of multi-messenger astronomy by clarifying the origins of some of the universe's most energetic particles. While terrestrial neutrino detectors have long observed high-energy cosmic neutrinos, their precise origins have remained largely unconfirmed until this study, which leveraged the bending of light by massive objects to locate their distant sources.
+
+rss · 科技新報 TechNews · Jun 24, 13:58
+
+**Background**: High-energy cosmic neutrinos are subatomic particles generated by cosmic rays in powerful extragalactic sources, often referred to as 'cosmic accelerators,' and are notoriously difficult to detect due to their weak interaction with matter. Gravitational lensing is an astrophysical phenomenon where a massive object, like a galaxy cluster, warps spacetime, causing light and other radiation from background sources to bend and magnify, allowing astronomers to observe otherwise faint or distant objects.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://neutrinos.fnal.gov/sources/cosmic-neutrinos/">Cosmic neutrinos | All Things Neutrino</a></li>
+<li><a href="https://pweb.cfa.harvard.edu/research/topic/gravitational-lensing">Gravitational Lensing | Center for Astrophysics | Harvard...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gravitational_lens">Gravitational lens - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Astrophysics`, `#Particle Physics`, `#Neutrinos`, `#Gravitational Lensing`, `#Cosmic Discoveries`
+
+---
+
+<a id="item-8"></a>
+## [Trump's Quantum Cybersecurity Push: Tongbao QB7 Achieves NIST CAVP Validation](https://finance.technews.tw/2026/06/24/post/) ⭐️ 9.0/10
+
+Under President Trump's direction, the US is launching a new quantum cybersecurity strategy, highlighted by Tongbao Semiconductor's QB7 chip achieving NIST CAVP validation for its quantum-resistant capabilities. This marks a significant technical milestone in securing national infrastructure against future quantum threats. This development is crucial for national security, as it represents a concrete step in implementing post-quantum cryptography standards to protect sensitive data from future quantum computer attacks. It also underscores the US's strategic focus on next-generation cybersecurity amidst ongoing geopolitical tech competition. Tongbao Semiconductor's QB7 chip has successfully passed the NIST Cryptographic Algorithm Validation Program (CAVP), confirming its algorithms meet the rigorous security standards required for quantum-resistant cryptography. This validation is a prerequisite for broader Cryptographic Module Validation Program (CMVP) certification, essential for government and regulated industry use.
+
+rss · 科技新報 TechNews · Jun 24, 08:28
+
+**Background**: Post-quantum cryptography (PQC) involves developing new cryptographic algorithms designed to withstand attacks from future quantum computers, which could easily break current widely used public-key encryption methods. The NIST Cryptographic Algorithm Validation Program (CAVP) is a U.S. government program that rigorously tests and validates cryptographic algorithms and modules to ensure they meet specific security standards, serving as a prerequisite for broader product certification for sensitive government and industry use.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/NIST_CAVP">NIST CAVP</a></li>
-<li><a href="https://csrc.nist.gov/projects/cryptographic-algorithm-validation-program">Cryptographic Algorithm Validation Program - NIST CSRC</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Post-quantum_cryptography">Post-quantum cryptography</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Quantum Computing`, `#Cybersecurity`, `#Post-Quantum Cryptography`, `#NIST`, `#National Strategy`
-
----
-
-<a id="item-4"></a>
-## [US Warns of Action Against China's Robotics Subsidies](https://technews.tw/2026/06/24/robotics-becomes-new-us-china-tech-battleground/) ⭐️ 9.0/10
-
-US Commerce Secretary Howard Lutnick has warned business executives that the Commerce Department is scrutinizing Chinese government subsidies in the robotics sector, indicating potential future actions. This development marks robotics as a new battleground in the ongoing US-China technology competition. This warning signifies a major escalation in the US-China technology rivalry, with potential implications for global robotics development, supply chains, and international trade policies. It could lead to new tariffs or restrictions affecting companies operating in the robotics sector. The warning was delivered by US Commerce Secretary Howard Lutnick during a closed-door meeting with business executives, though specific actions or their timeline have not yet been publicly detailed. The focus is on Chinese government subsidies, which the US views as distorting market competition.
-
-rss · 科技新報 TechNews (科技) · Jun 24, 06:00
-
-**Tags**: `#US-China Relations`, `#Robotics`, `#Trade Policy`, `#Geopolitics`, `#Technology Competition`
-
----
-
-<a id="item-5"></a>
-## [Qualcomm Acquires Modular for $3.9B to Boost AI Software and Data Center Presence](https://news.cnyes.com/news/id/6511045) ⭐️ 9.0/10
-
-Qualcomm announced on Wednesday, October 24th, that it will acquire AI software startup Modular, known for the Mojo programming language, for approximately $3.9 billion in an all-stock transaction. This acquisition is intended to enhance Qualcomm's AI software capabilities and accelerate its entry into the data center market. This acquisition is a significant strategic move by Qualcomm to directly challenge Nvidia's dominance in the crucial AI chip and data center market. It signals Qualcomm's serious intent to become a major player in AI software and hardware for data centers, potentially diversifying the competitive landscape. The acquisition is an all-stock transaction valued at approximately $3.9 billion, and Modular is notably the company behind the Mojo programming language. Mojo is designed for high-performance AI infrastructure, aiming to combine Python's usability with the performance of system programming languages like C++ for various hardware, including CPUs, GPUs, and ASICs.
-
-rss · 鉅亨網 (財經) · Jun 24, 14:00
-
-**Background**: Modular is the company behind the Mojo programming language, an in-development proprietary language based on Python designed for high-performance AI infrastructure. Mojo aims to combine the usability of Python with the performance of system programming languages like C++ or Rust, specifically for AI applications and heterogeneous hardware environments. It leverages the Multi-Level Intermediate Representation (MLIR) compiler framework to target various processors, including CPUs, GPUs, and ASICs, making it highly optimized for AI workloads.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Mojo_(programming_language)">Mojo (programming language)</a></li>
-<li><a href="https://mojolang.org/">Mojo</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Acquisitions`, `#Data Centers`, `#Qualcomm`, `#Modular`
-
----
-
-<a id="item-6"></a>
-## [China's 8 Ministries Launch First National AI + Consumption Policy with Subsidies](https://news.cnyes.com/news/id/6510173) ⭐️ 9.0/10
-
-Eight Chinese government departments, including the Ministry of Commerce, jointly issued the "Implementation Opinions on Accelerating the Development of 'AI + Consumption'" on Thursday, April 18th, marking China's first national-level policy to systematically integrate AI with consumer markets. This new policy aims to promote AI products into households and businesses through financial subsidies, trade-in programs, and national AI industry funds. This is a significant development as it represents China's first national-level strategy to systematically integrate AI into consumer markets, backed by substantial financial incentives. The policy could profoundly accelerate AI adoption across various consumer products and services, potentially boosting related industries and shaping future economic growth. The "Implementation Opinions" specifically outline financial incentives such as fiscal interest subsidies, trade-in subsidies, and support from national AI industry funds to encourage the adoption of AI-powered products. The policy aims to drive AI integration into both individual households and commercial establishments across the country.
-
-rss · 鉅亨網 (財經) · Jun 24, 06:50
-
-**Tags**: `#AI Policy`, `#China`, `#Consumer Technology`, `#Economic Incentives`, `#Technology Adoption`
-
----
-
-<a id="item-7"></a>
-## [OpenMontage: First Open-Source Agentic AI Video Production System](https://github.com/calesthio/OpenMontage) ⭐️ 9.0/10
-
-calesthio/OpenMontage has launched as the world's first open-source, agentic video production system, designed to transform AI coding assistants into full video production studios. It features 12 pipelines, 52 tools, and over 500 agent skills for managing complex video creation workflows. This project marks a significant step in AI-driven content creation by offering an autonomous system for video production, potentially democratizing access to professional-grade video tools and accelerating creative workflows. Its rapid adoption on GitHub highlights strong community interest and the growing demand for agentic AI solutions in creative industries. OpenMontage is built in Python and integrates 12 distinct pipelines, 52 specialized tools, and over 500 agent skills, allowing AI coding assistants to manage end-to-end video production. The system's modular design suggests flexibility in adapting to various video creation tasks.
-
-ossinsight · calesthio · Jun 24, 16:17
-
-**Background**: Agentic AI refers to artificial intelligence systems that can autonomously pursue goals, utilize tools, and take actions with limited human supervision. These systems, often called AI agents, mimic human decision-making by perceiving, reasoning, and acting to solve problems in real-time. This approach represents an evolution from traditional generative AI, enabling more complex and independent task execution.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/AI_agent">AI agent - Wikipedia</a></li>
-<li><a href="https://www.ibm.com/think/topics/agentic-ai">What is Agentic AI? | IBM</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Video Production`, `#Agentic Systems`, `#Open Source`, `#Machine Learning`
-
----
-
-<a id="item-8"></a>
-## [Founding a Company in Germany: Bureaucracy, Costs, and Hurdles](https://paolino.me/founding-a-company-in-germany/) ⭐️ 8.0/10
-
-A personal account details the significant time (152 days), cost (€9600), and bureaucratic hurdles involved in founding a company in Germany, highlighting the challenges faced by entrepreneurs before even being able to send an invoice. This account is significant for entrepreneurs considering Germany, as it exposes the complex bureaucratic environment and high initial costs, potentially impacting the country's appeal as a startup hub and sparking discussions on legal structures and taxation. The author's experience highlights issues like the €25,000 capital requirement for a GmbH, the perceived lack of seriousness for a UG, and confusion surrounding double taxation and unusual company structures like UG/GmbH + KG.
-
-hackernews · earcar · Jun 24, 12:31 · [Discussion](https://news.ycombinator.com/item?id=48658718)
-
-**Background**: In Germany, common legal forms for companies include the GmbH (Gesellschaft mit beschränkter Haftung), a limited liability company requiring a minimum share capital, and the UG (Unternehmergesellschaft), a 'mini-GmbH' with lower capital requirements designed for easier startup. A KG (Kommanditgesellschaft) is a limited partnership often combined with a GmbH for specific liability structures.
-
-**Discussion**: Community comments clarify misconceptions about double taxation for salaries and the unusual nature of the UG/GmbH + KG structure, while also debating the necessity of the €25,000 capital requirement for GmbHs. Some users also noted that founding a company in other European countries like the Netherlands and Sweden can be much simpler, contrasting with Germany's bureaucratic reputation.
-
-**Tags**: `#Entrepreneurship`, `#Germany`, `#Startup Ecosystem`, `#Bureaucracy`, `#Business Law`
+**Tags**: `#Quantum Security`, `#Post-Quantum Cryptography`, `#Cybersecurity Policy`, `#NIST Validation`, `#Hardware Security`
 
 ---
 
 <a id="item-9"></a>
-## [Raspberry Pi Pico W Functions as USB Wi-Fi Ethernet Adapter](https://gitlab.com/baiyibai/pico-usb-wifi) ⭐️ 8.0/10
+## [OpenMontage: World's First Open-Source Agentic AI Video Production System](https://github.com/calesthio/OpenMontage) ⭐️ 9.0/10
 
-A new open-source project allows the Raspberry Pi Pico W to function as a USB Wi-Fi adapter, presenting itself to the host system as a standard Ethernet device over USB. This innovative solution provides wireless network connectivity through a low-cost microcontroller. This project offers a highly practical and cost-effective way to add Wi-Fi connectivity to various systems, especially those lacking built-in wireless capabilities or needing temporary network access without physical cables. It leverages an inexpensive microcontroller to solve a common connectivity challenge. The core technical detail is that the Pico W emulates an Ethernet adapter using the USB Communications Device Class (CDC) protocol, allowing it to provide network connectivity without requiring specific Wi-Fi drivers on the host. This approach simplifies integration and broadens compatibility across different operating systems.
+Calesthio has launched OpenMontage, presented as the world's first open-source, agentic video production system, which leverages AI agents with extensive tools and skills to automate video creation. This system is significant as it could revolutionize content creation by transforming AI coding assistants into full video production studios, potentially democratizing advanced video production and accelerating creative workflows for individuals and businesses. OpenMontage features a robust architecture comprising 12 distinct pipelines, 52 specialized tools, and over 500 agent skills, all designed to enable comprehensive automation of various video production tasks.
 
-hackernews · byb · Jun 24, 03:17 · [Discussion](https://news.ycombinator.com/item?id=48654676)
+ossinsight · calesthio · Jun 24, 22:54
 
-**Background**: USB CDC Ethernet refers to a standard way for USB devices to present themselves as network adapters, allowing computers to communicate with them as if they were connected via an Ethernet cable. This is achieved through the USB Communications Device Class (CDC) protocols, which enable the transmission of standard Ethernet frames over a USB connection, making it widely compatible with existing operating systems without special drivers.
+**Background**: An 'agentic AI system' refers to an artificial intelligence system composed of AI agents that can pursue goals, use tools, and take actions with varying degrees of autonomy, often mimicking human decision-making to solve problems in real time. These systems typically operate within human-defined objectives and constraints, allowing them to accomplish specific goals with limited supervision.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/USB_communications_device_class">USB communications device class - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Ethernet_over_USB">Ethernet over USB - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AI_agent">AI agent - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/think/topics/agentic-ai">What is agentic AI? - IBM</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community highly praised the project's utility, particularly its ability to provide "magic Ethernet" connectivity for air-gapped systems or temporary network needs, with one user even posting a comment using the adapter. Discussions also touched upon similar transparent Ethernet bridge projects, the surprising infeasibility assessment by AI, and inquiries into the author's development process and use of AI tools.
-
-**Tags**: `#Embedded Systems`, `#Networking`, `#Raspberry Pi Pico W`, `#USB Devices`, `#DIY Hardware`
+**Tags**: `#AI`, `#Machine Learning`, `#Video Production`, `#Open Source`, `#AI Agents`
 
 ---
 
 <a id="item-10"></a>
-## [Software Vulnerability Reporting System Overwhelmed and Broken](https://words.filippo.io/vuln-reports/) ⭐️ 8.0/10
+## [Romanian Hospitals Revert to Paper After Cyberattack](https://www.bbc.com/zhongwen/articles/c5yzl50kkj4o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
 
-The current system for reporting and receiving software vulnerabilities is dysfunctional, characterized by an overwhelming volume of low-quality submissions and poor communication between reporters and recipients. This breakdown often results in legitimate security issues being overlooked and necessitates fundamental changes in software security practices. This situation is critical because it undermines the effective disclosure and remediation of genuine security flaws, posing significant risks to software integrity and user safety across the entire industry. It highlights a systemic failure that impacts both security researchers and organizations trying to secure their products. Key issues include the proliferation of spam and low-quality reports, often generated by LLMs, which overwhelm recipients and lead to legitimate, well-researched vulnerabilities being ignored or "ghosted." This necessitates an overhaul of software practices, including adopting memory-safe languages and improving checks for common vulnerability classes.
+Dozens of Romanian hospitals were forced to revert to manual, paper-based operations for four days after a nationwide cyberattack paralyzed their digital systems. This incident highlights the critical vulnerability of essential services like healthcare to cyberattacks and underscores the unexpected reliance on low-tech resilience for operational continuity during a crisis. For four days, while cybersecurity experts worked to defeat the hackers, these hospitals managed patient care and administrative tasks using traditional pen and paper methods.
 
-hackernews · goranmoomin · Jun 23, 23:42 · [Discussion](https://news.ycombinator.com/item?id=48653216)
+rss · BBC 中文 (國際) · Jun 23, 06:40
 
-**Background**: Vulnerability Disclosure Programs (VDPs) are established processes that allow security researchers to report vulnerabilities to organizations, aiming for responsible disclosure and remediation. When a vulnerability is publicly known and assigned a unique identifier, it often receives a Common Vulnerabilities and Exposures (CVE) ID, managed by CVE Numbering Authorities (CNAs), to standardize tracking.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.upguard.com/blog/vulnerability-disclosure-programs">What are Vulnerability Disclosure Programs ? | UpGuard</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures">Common Vulnerabilities and Exposures - Wikipedia</a></li>
-<li><a href="https://inventivehq.com/blog/what-are-cve-numbering-authorities-cnas-and-how-do-they-work">What are CVE Numbering Authorities ( CNAs ) and how do they work?</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community largely agrees that the vulnerability reporting system is a "mess," overwhelmed by spam and low-quality reports, often generated by LLMs. Many researchers express frustration over being "ghosted" on legitimate, well-researched vulnerabilities, while companies struggle to filter out noise, leading to calls for fundamental changes in software engineering practices, including adopting memory-safe languages.
-
-**Tags**: `#Cybersecurity`, `#Vulnerability Management`, `#Software Engineering`, `#Security Disclosure`, `#Community Discussion`
+**Tags**: `#Cybersecurity`, `#Critical Infrastructure`, `#Disaster Recovery`, `#Healthcare IT`, `#Operational Resilience`
 
 ---
 
 <a id="item-11"></a>
-## [China's Short Drama Industry Sees 40% of Popular Content Produced by AI, Displacing Human Actors](https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
+## [Beyond Nudity: Report Highlights Harm of Image-Based Abuse Focused on Consent, Not Exposure](https://www.bbc.com/zhongwen/articles/c1wy8d9gpdxo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
 
-China's short drama industry has undergone a dramatic transformation within a year, with AI-produced content now making up 40% of the most popular short dramas and experiencing exponential growth in production, leading to the rapid displacement of human actors. This development is significant as it demonstrates a rapid and substantial real-world impact of AI on a creative industry, showcasing how automation can quickly transform content production workflows and displace human labor. It underscores a major trend in AI adoption within media and entertainment, potentially setting a precedent for other creative sectors worldwide. The rapid shift indicates that advanced generative AI models are being utilized for various aspects of short drama production, likely including video generation, virtual actors, and potentially scriptwriting and voiceovers. This high level of AI integration suggests significant efficiency and cost-effectiveness, enabling the exponential growth in content volume.
+A new report reveals that social media platforms and authorities often mishandle image-based sexual abuse by focusing solely on nudity rather than the lack of consent, causing severe harm to women. It highlights that even non-explicit photos, such as those showing shoulders or Western clothing, can ruin lives in conservative societies. This finding is significant because it exposes a critical flaw in current content moderation policies and legal frameworks, which fail to protect victims of image-based abuse adequately. It impacts women globally, particularly those in conservative societies, by highlighting how digital ethics and safety policies need to evolve to prioritize consent over arbitrary definitions of explicit content. The report specifically points out that the harm from image-based abuse is not limited to explicit nudity but extends to images perceived as inappropriate in specific cultural contexts, such as showing shoulders or Western attire. This underscores the need for a more nuanced and culturally sensitive approach to content moderation that considers the societal impact of non-consensual image sharing.
 
-rss · BBC 中文 (國際) · Jun 23, 23:25
+rss · BBC 中文 (國際) · Jun 22, 23:00
 
-**Background**: Short dramas are typically brief, episodic video content, often optimized for mobile viewing and social media platforms, gaining immense popularity in recent years. Generative AI for video production involves using AI models to create video content from text, scripts, or images, often incorporating AI voiceovers and virtual avatars. AI virtual actors are digitally created entities that can perform roles, generated using advanced techniques like deep learning, CGI, and motion capture, allowing for rapid content creation with reduced reliance on traditional production methods and human talent.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.synthesia.io/">Synthesia: #1 AI Video Platform for Business</a></li>
-<li><a href="https://chesa.com/ai-virtual-actors-revolutionizing-hollywood-and-resurrecting-legends/">AI Virtual Actors: Revolutionizing Hollywood and Resurrecting Legends – CHESA</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Virtual_actor">Virtual actor - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Impact`, `#Media Production`, `#Content Creation`, `#Automation`, `#China Tech`
+**Tags**: `#Social Media`, `#Content Moderation`, `#Digital Ethics`, `#Image Abuse`, `#Consent`
 
 ---
 
 <a id="item-12"></a>
-## [China's Short Drama Industry Faces Mass Layoffs Due to AI Adoption](https://www.bbc.com/zhongwen/articles/cvgdqjvzv9go/trad?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
+## [Homes to Help Power AI's Growing Energy Demand](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) ⭐️ 8.0/10
 
-The rapid integration of AI technology into China's short drama industry has resulted in tens of thousands of actors, directors, and production staff losing their jobs within a few months. This swift job displacement highlights AI's immediate and significant impact on creative sectors. This development is significant as it serves as a real-world case study of AI's disruptive economic and societal impact on creative sectors, demonstrating how quickly technology can displace human labor on a large scale. It underscores the urgent need for discussions on job security and adaptation strategies in the face of advancing AI. The job losses occurred within a very short timeframe, often just one or two months, for individuals who were previously earning substantial incomes in the burgeoning short drama market. This rapid transition from prosperity to unemployment underscores the speed and intensity of AI's economic disruption.
+Tesla, Sunrun, and Renew Home are collaborating on a new initiative to leverage residential solar panels, home batteries, and smart devices to address the increasing energy consumption of artificial intelligence. This initiative is significant as it proposes a distributed, renewable energy solution to mitigate the substantial power demands of AI, potentially transforming energy infrastructure and promoting sustainability in the tech sector. The plan involves tapping into millions of existing residential solar panels, batteries, and smart home devices like thermostats, suggesting a large-scale, aggregated approach to energy management for AI data centers.
 
-rss · BBC 中文 (國際) · Jun 23, 02:42
+rss · 紐約時報 政治 · Jun 24, 09:02
 
-**Tags**: `#AI Impact`, `#Job Displacement`, `#Creative Industries`, `#Economic Impact`, `#China`
+**Tags**: `#AI Infrastructure`, `#Renewable Energy`, `#Smart Grid`, `#Energy Management`, `#Sustainability`
 
 ---
 
 <a id="item-13"></a>
-## [Romanian Hospitals Resist Cyberattack with Manual Operations](https://www.bbc.com/zhongwen/articles/c5yzl50kkj4o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
+## [Alphabet Joins Dow Jones Industrial Average, Replacing Verizon](https://news.cnyes.com/news/id/6511221) ⭐️ 8.0/10
 
-Dozens of Romanian hospitals were forced to revert to manual, paper-based operations for four days after a nationwide cyberattack paralyzed their digital systems. This low-tech approach allowed them to continue providing services while cybersecurity experts worked to defeat the hackers. This incident highlights the critical importance of operational resilience and low-tech backup strategies for essential services like healthcare, demonstrating that even advanced digital infrastructures require contingency plans for severe cyber disruptions. It underscores the vulnerability of critical infrastructure to sophisticated cyber threats and the need for robust disaster recovery protocols. The cyberattack specifically targeted dozens of hospitals across Romania, rendering their digital systems inoperable for a period of four days. During this time, the hospitals successfully maintained operations by switching to manual, paper-based record-keeping and procedures.
+Alphabet has officially joined the Dow Jones Industrial Average, replacing Verizon as one of the 30 blue-chip stocks, marking the most significant component change in nearly two years. This move reflects the increasing focus of the US economy on artificial intelligence, cloud computing, and digital services. This inclusion is significant as it validates the growing importance of AI, cloud computing, and digital services in the broader economy, with a tech giant valued over $4 trillion officially joining the century-old blue-chip club. It signals a major economic shift towards these high-growth technology sectors. Alphabet's market capitalization exceeds $4 trillion, and its entry into the Dow Jones Industrial Average highlights the index's adaptation to reflect modern economic drivers like AI and cloud computing. The change specifically involves Alphabet replacing telecommunications giant Verizon.
 
-rss · BBC 中文 (國際) · Jun 23, 06:40
+rss · 鉅亨網 (財經) · Jun 24, 20:37
 
-**Tags**: `#Cybersecurity`, `#Healthcare IT`, `#Disaster Recovery`, `#Operational Resilience`, `#Critical Infrastructure`
+**Background**: The Dow Jones Industrial Average (DJIA) is a stock market index that shows how 30 large, publicly owned companies based in the United States have traded during a standard trading session in the stock market. It is one of the oldest and most commonly used stock market indices in the world, often seen as a barometer for the overall health of the U.S. economy.
+
+**Tags**: `#Financial News`, `#AI Industry`, `#Cloud Computing`, `#Economic Trends`, `#Alphabet`
 
 ---
 
 <a id="item-14"></a>
-## [Gravitational Lensing Uncovers New Sources of Cosmic High-Energy Neutrinos](https://technews.tw/2026/06/24/unveiling-new-sources-cosmic-high-energy-neutrinos/) ⭐️ 8.0/10
+## [Microsoft's Quantum Breakthrough Questioned by New Nature Commentary](https://news.cnyes.com/news/id/6511193) ⭐️ 8.0/10
 
-Researchers have potentially identified new sources of cosmic high-energy neutrinos by utilizing gravitational lensing, which helps to unravel a long-standing mystery about the origins of these elusive 'ghost particles'. This discovery is significant as it advances our understanding of the universe's most energetic phenomena and the origins of cosmic rays, potentially opening new avenues for neutrino astronomy and multi-messenger astrophysics. The research specifically leveraged gravitational lensing, a phenomenon where massive objects bend light, to pinpoint distant sources of high-energy neutrinos, which are elementary particles interacting weakly with matter.
+A new commentary published in the prestigious journal 'Nature' questions the sufficiency of evidence for Microsoft's previously announced quantum computing breakthrough, reigniting skepticism about its research direction and results. This development is significant as it directly impacts the credibility of Microsoft, a major player in the cutting-edge field of quantum computing, and is highly relevant for the scientific and tech communities. The commentary in 'Nature' specifically raises doubts about the evidence supporting Microsoft's claimed breakthrough, which is understood to be related to its efforts in topological quantum computing using Majorana fermions.
 
-rss · 科技新報 TechNews (科技) · Jun 24, 13:58
+rss · 鉅亨網 (財經) · Jun 24, 18:30
 
-**Background**: Gravitational lensing occurs when a massive object, like a galaxy cluster, warps space-time, causing light from a distant source to bend and magnify as it passes around the massive object. High-energy cosmic neutrinos are elementary particles that are electrically neutral and interact very weakly with matter, making them difficult to detect and trace back to their origins.
+**Background**: Topological quantum computing is a type of quantum computing that uses anyons, quasiparticles whose stable topological properties are resistant to local perturbations, offering a potential advantage in error correction. Microsoft has been a prominent proponent of this approach, specifically focusing on realizing topological qubits using Majorana fermions in semiconductor-superconductor heterostructures.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Gravitational_lens">Gravitational lens - Wikipedia</a></li>
-<li><a href="https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/">Hubble Gravitational Lenses - NASA Science</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Neutrino">Neutrino - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Topological_quantum_computing">Topological quantum computing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Majorana_1">Majorana 1 - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Astrophysics`, `#Neutrinos`, `#Gravitational Lensing`, `#Cosmic Rays`, `#Scientific Discovery`
+**Tags**: `#Quantum Computing`, `#Microsoft`, `#Scientific Research`, `#Academic Debate`, `#Research Integrity`
 
 ---
 
 <a id="item-15"></a>
-## [James Webb Telescope Discovers Salt Clouds on Exoplanet GJ 504 b](https://technews.tw/2026/06/24/gj-504-b-exoplanet-puffy-pink-planet/) ⭐️ 8.0/10
+## [AI Michael Caine Narrates Officially Licensed "Odyssey" Audiobook by ElevenLabs](https://www.theguardian.com/film/2026/jun/23/youre-only-supposed-to-blow-the-bloody-hooves-off-ai-michael-caine-narrates-odyssey-audiobook) ⭐️ 8.0/10
 
-The James Webb Space Telescope has provided the first direct evidence of salt clouds in the atmosphere of the exoplanet GJ 504 b, located approximately 57 light-years from Earth. This groundbreaking observation reveals the planet's atmosphere is "salty" despite its "sweet" pink appearance. This discovery is highly significant for astrophysics and planetary science, as it provides concrete evidence of complex atmospheric chemistry on exoplanets, enhancing our understanding of their formation and evolution. It also demonstrates the advanced capabilities of the James Webb Space Telescope in characterizing exoplanet atmospheres, paving the way for future detailed studies. GJ 504 b is described as a "puffy pink planet" located 57 light-years from Earth, and the discovery of salt clouds in its atmosphere highlights the diverse and complex atmospheric chemistry possible on exoplanets. Previous research on other exoplanets suggests that such salt clouds can involve compounds like potassium chloride and sodium chloride, which condense and rain down before evaporating and rising again.
+AI company ElevenLabs has released an officially licensed audiobook of Homer's "Odyssey," narrated by an AI replica of iconic actor Michael Caine's voice. This marks a significant advancement in the commercial application and licensing of celebrity AI voices within the entertainment industry. This development is significant as it demonstrates a new commercial model for AI voice synthesis, potentially impacting intellectual property rights, the future of voice acting, and how celebrity likenesses are utilized in media. It sets a precedent for licensed AI voice replicas in major commercial projects. The audiobook features an AI-generated voice of Michael Caine, a frequent collaborator with director Christopher Nolan, whose own film adaptation of "The Odyssey" is also set to be released. The "officially licensed replica" aspect is crucial, highlighting formal agreements for AI voice usage.
 
-rss · 科技新報 TechNews (科技) · Jun 24, 09:45
+rss · 衛報 文化 · Jun 23, 13:02
 
-**Background**: Exoplanets are planets that orbit stars outside our solar system, and studying their atmospheres is crucial for understanding their composition, potential for life, and formation conditions. The James Webb Space Telescope (JWST) is a cutting-edge space observatory designed to detect and characterize distant celestial bodies, including exoplanets, with high sensitivity in infrared light.
+**Background**: ElevenLabs is an AI company primarily known for its browser-based, AI-assisted text-to-speech software, which can produce lifelike speech by synthesizing vocal emotion and intonation. The company focuses on building foundational models for human-like voice, aiming to make communication and creation with technology seamless.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://cen.acs.org/physical-chemistry/astrochemistry/pink-planet-salt-atmosphere-astrochemistry/104/web/2026/06">Scientists peek into the Pink Planet’s atmosphere</a></li>
-<li><a href="https://eos.org/articles/an-exoplanet-with-evolving-clouds-of-salts">An Exoplanet with Evolving Clouds of Salts - Eos.org</a></li>
-<li><a href="https://science.nasa.gov/universe/exoplanets/cloudy-with-a-chance-of-salt-clouds/">Cloudy with a chance of salt clouds - NASA Science</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ElevenLabs">ElevenLabs - Wikipedia</a></li>
+<li><a href="https://elevenlabs.io/">Free AI Voice Generator & Voice Agents Platform | ElevenLabs</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Exoplanets`, `#Astrophysics`, `#James Webb Space Telescope`, `#Planetary Science`, `#Atmospheric Composition`
+**Tags**: `#AI Voice Synthesis`, `#Entertainment Tech`, `#Intellectual Property`, `#Audiobooks`, `#ElevenLabs`
 
 ---
 
 <a id="item-16"></a>
-## [Google DeepMind Invests $75M in A24 for AI Film and TV Tech Development](https://finance.technews.tw/2026/06/24/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) ⭐️ 8.0/10
+## [Generic Cystic Fibrosis Drug Available at Fraction of Price](https://www.nytimes.com/2026/06/22/health/cystic-fibrosis-drug-triko-trikafta.html) ⭐️ 8.0/10
 
-Google DeepMind has invested $75 million in the independent film studio A24 to establish a research partnership aimed at developing AI technology specifically for film and television production. This collaboration, announced on June 24, 2026, marks a significant cross-industry initiative. This partnership is significant as it represents a major cross-industry collaboration between a leading AI research company and a critically acclaimed film studio, potentially revolutionizing creative content production through novel AI applications. It could set a precedent for how AI is integrated into the entertainment industry, impacting everything from pre-production to post-production workflows. The investment specifically targets a research partnership to develop AI technology for film and television, indicating a focus on practical applications within the creative production pipeline rather than just general AI research. A24 is known for acclaimed films such as "Past Lives," "Everything Everywhere All at Once," and "The Whale," suggesting the AI development will be applied to high-quality cinematic content.
+A generic version of a breakthrough cystic fibrosis drug, manufactured in Bangladesh, is now available at a significantly lower price, offering a crucial lifeline to patients globally. This development significantly improves drug access for cystic fibrosis patients worldwide, especially those in regions where the original drug's high cost made it inaccessible. It represents a major step towards making life-saving treatments more equitable and affordable globally. The generic drug is manufactured in Bangladesh and is available at a fraction of the American price, leveraging a "loophole" to facilitate its production and distribution. This makes the "miracle drug" accessible to more families around the world.
 
-rss · 科技新報 TechNews (科技) · Jun 24, 09:29
+rss · 紐約時報 健康 · Jun 23, 22:24
 
-**Background**: Google DeepMind is a prominent artificial intelligence research laboratory known for its advancements in various AI fields, including deep learning and reinforcement learning. A24 is an American independent entertainment company specializing in film and television production and distribution, recognized for producing critically acclaimed and often unconventional films.
-
-**Tags**: `#AI Applications`, `#Film Industry`, `#Google DeepMind`, `#Strategic Partnership`, `#Creative AI`
+**Tags**: `#Healthcare`, `#Pharmaceuticals`, `#Global Health`, `#Drug Access`, `#Medical Innovation`
 
 ---
 
 <a id="item-17"></a>
-## [IRENA Warns 2,500GW Renewable Energy Gridlock Due to Insufficient Grid Infrastructure](https://technews.tw/2026/06/24/grid-need-to-be-stettle-down/) ⭐️ 8.0/10
+## [AI Data Centers' Noise Pollution Impacts Residents' Health and Homes](https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html) ⭐️ 8.0/10
 
-The International Renewable Energy Agency (IRENA) has released a new report highlighting that slow grid infrastructure development is creating a global "gridlock" for 2,500GW of renewable energy projects. This bottleneck threatens to worsen energy curtailment issues worldwide. This is significant because it underscores a critical barrier to the global energy transition, potentially slowing down decarbonization efforts and increasing financial losses for renewable energy producers. The issue affects countries worldwide striving to integrate more clean energy into their power systems. The report specifically identifies 2,500GW of renewable energy capacity currently stalled globally due to inadequate grid infrastructure, indicating a substantial gap between generation capacity and transmission capabilities. This "gridlock" directly contributes to energy curtailment, where generated electricity cannot be delivered to consumers.
+The rapid expansion of AI data centers by tech giants is generating significant noise pollution and low-frequency vibrations, adversely affecting the health and homes of nearby residents. This issue reveals a previously unseen societal and environmental cost of AI infrastructure development, highlighting the need for the tech industry to address external factors like noise pollution and its impact on communities. The specific issue reported is constant low-frequency vibrations emanating from AI data centers, which residents attribute to health problems and structural damage to their properties.
 
-rss · 科技新報 TechNews (科技) · Jun 24, 08:42
+rss · 紐約時報 健康 · Jun 23, 03:40
 
-**Background**: Energy curtailment, in the context of electricity grids, refers to the intentional reduction of power generation to maintain the balance between electricity supply and demand. It often occurs when there is an excess of generated electricity that the grid cannot absorb or transmit, leading to a loss of potentially useful energy. This practice is critical for grid stability but can be costly for renewable energy producers.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Curtailment_(electricity)">Curtailment (electricity) - Wikipedia</a></li>
-<li><a href="https://warrington.ufl.edu/news/what-is-curtailment-an-electricity-market-expert-explains/">What is curtailment? An electricity market expert explains - UF Warrington College of Business</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Renewable Energy`, `#Energy Grid`, `#Infrastructure`, `#Energy Policy`, `#Sustainability`
+**Tags**: `#AI Infrastructure`, `#Environmental Impact`, `#Data Centers`, `#Social Responsibility`, `#Noise Pollution`
 
 ---
 
 <a id="item-18"></a>
-## [ByteDance Reportedly Seeks $20 Billion Offshore Loan for AI Investment](https://finance.technews.tw/2026/06/24/bytedance-reportedly-seeks-20-billion-offshore-loan/) ⭐️ 8.0/10
+## [JWST Discovers Salt Clouds on Exoplanet GJ 504 b](https://technews.tw/2026/06/24/gj-504-b-exoplanet-puffy-pink-planet/) ⭐️ 8.0/10
 
-ByteDance is reportedly in preliminary discussions with banks to secure an offshore loan of approximately $20 billion, aiming to substantially boost its investments in artificial intelligence. This substantial financial move by a major global tech company signals a significant strategic pivot towards AI, which could profoundly impact the competitive landscape and resource allocation within the tech industry. The discussions with banks are currently in preliminary stages, indicating that the terms and finalization of the reported $20 billion offshore loan are still subject to negotiation.
+The James Webb Space Telescope (JWST) has for the first time provided direct evidence of salt clouds in the atmosphere of the exoplanet GJ 504 b, located approximately 57 light-years from Earth. This groundbreaking observation reveals a "salty" atmospheric composition, contrasting with its previously perceived "puffy pink" appearance. This discovery significantly advances our understanding of exoplanet atmospheric compositions and formation mechanisms, particularly for gas giants, by providing concrete evidence of complex cloud chemistry. It further highlights the James Webb Space Telescope's unparalleled capabilities in characterizing distant exoplanet atmospheres, which is crucial for identifying unique planetary processes. The JWST's spectroscopic data revealed the presence of water vapor, carbon dioxide, methane, and ammonia in GJ 504 b's atmosphere, but standard atmospheric models only fit the observed spectrum after incorporating deep salt clouds. This detailed analysis, which also created a new molecular inventory, helps explain the planet's flat spectrum and provides insights into its formation.
 
-rss · 科技新報 TechNews (科技) · Jun 24, 08:30
+rss · 科技新報 TechNews · Jun 24, 09:45
 
-**Tags**: `#AI Investment`, `#ByteDance`, `#Corporate Strategy`, `#Financial News`, `#Tech Industry`
-
----
-
-<a id="item-19"></a>
-## [Meta CEO Directs Development of New Prediction Market Platform](https://finance.technews.tw/2026/06/24/meta-is-building-a-prediction-markets-app/) ⭐️ 8.0/10
-
-Meta CEO Mark Zuckerberg has reportedly instructed internal teams to develop a new prediction market platform, internally known as "Arena," which will initially operate without real money transactions but may integrate them in the future. This initiative signals a significant new strategic product direction for Meta, potentially expanding its ecosystem beyond traditional social media into information aggregation and event forecasting, which could impact the broader tech and financial prediction industries. The new prediction market application will operate independently of Meta's existing social media offerings, although there is a possibility that these social sites could direct users to engage with the app.
-
-rss · 科技新報 TechNews (科技) · Jun 24, 08:09
-
-**Background**: Prediction markets are exchange-traded markets where participants buy and sell contracts based on the outcome of future events, such as elections or economic indicators. They function by aggregating the collective beliefs of traders, with market prices indicating the crowd's perceived probability of an event occurring, often using financial incentives.
+**Background**: Exoplanets are planets that orbit stars other than our Sun, and studying their atmospheric compositions is crucial for understanding their climate, formation, and potential habitability. Direct imaging spectroscopy, a technique employed by advanced telescopes like JWST, allows astronomers to analyze the light emitted or reflected by an exoplanet's atmosphere to identify specific chemical signatures. GJ 504 b is a gas giant, colloquially known as the "Pink Planet" due to its thermal glow, which was discovered over a decade ago and is relatively young.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Prediction_market">Prediction market</a></li>
-<li><a href="https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html">Meta is building a prediction markets app. These stocks fell - CNBC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets">Methods of detecting exoplanets - Wikipedia</a></li>
+<li><a href="https://www.gadgets360.com/science/news/jwst-reveals-salt-clouds-in-the-atmosphere-of-the-pink-planet-gj-504b-11659418">JWST Reveals Salt Clouds in the Atmosphere of the ‘Pink Planet’ GJ 504b | Technology News</a></li>
+<li><a href="https://cen.acs.org/physical-chemistry/astrochemistry/pink-planet-salt-atmosphere-astrochemistry/104/web/2026/06">Scientists peek into the Pink Planet’s atmosphere</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Meta`, `#Prediction Markets`, `#Product Development`, `#Tech Industry`, `#Strategic Initiatives`
+**Tags**: `#Exoplanets`, `#James Webb Space Telescope`, `#Astrophysics`, `#Planetary Science`, `#Atmospheric Composition`
+
+---
+
+<a id="item-19"></a>
+## [Taiwan's Paradox: World-Class Semiconductor Engineers Despite Lower University Rankings](https://www.bbc.com/zhongwen/articles/c8d215n1z93o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
+
+A recent BBC article explores the intriguing paradox of Taiwan's education system, questioning how the island consistently produces world-class semiconductor engineers despite its universities generally lagging in global rankings such as the QS World University Rankings. This phenomenon is significant as Taiwan plays a critical role in the global semiconductor industry, and understanding its unique approach to talent development could provide valuable insights for other nations aiming to strengthen their tech workforce. The article specifically notes that while Taiwanese universities have shown overall improvement in the QS World University Rankings, they still significantly trail top institutions in regions like Singapore and Hong Kong, underscoring the core paradox it seeks to explain.
+
+rss · BBC 中文 (國際) · Jun 24, 13:11
+
+**Background**: The semiconductor industry is a foundational sector for modern technology, producing the integrated circuits essential for everything from smartphones to AI. Taiwan is a global leader in semiconductor manufacturing, with companies like TSMC being critical suppliers worldwide.
+
+**Tags**: `#Semiconductor Industry`, `#Education System`, `#Talent Development`, `#Taiwan`, `#Global Tech Industry`
 
 ---
 
 <a id="item-20"></a>
-## [Agility Robotics Reportedly Plans SPAC Listing with $2.5 Billion Valuation](https://finance.technews.tw/2026/06/24/agility-robotics-reportedly-plans-spac-listing/) ⭐️ 8.0/10
+## [South Korea Launches App for Victims to Track Electronically Monitored Stalkers](https://www.bbc.com/zhongwen/articles/cz0j880g4xko/trad?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-Agility Robotics, a leading developer of humanoid robots for factories and logistics, is reportedly planning to go public on Nasdaq via a SPAC merger, with an estimated valuation of $2.5 billion and a target listing date in September under the ticker AGLT. This potential listing signals strong investor confidence in the practical application and scaling of humanoid robotics in manufacturing and logistics, potentially accelerating the adoption of advanced automation solutions across industries. The company is reportedly pursuing a SPAC merger for its Nasdaq listing under the ticker AGLT, aiming for a $2.5 billion valuation and a September trading debut, following a similar move by China's Unitree Robotics.
+South Korean authorities have introduced a new mobile application that allows victims to monitor the real-time location of stalkers who are under electronic surveillance. This initiative aims to provide victims with immediate information regarding their stalkers' whereabouts. This initiative aims to enhance public safety by empowering victims with direct information, though its effectiveness is debated by experts who question if it truly improves safety. It represents a novel approach to victim protection, leveraging technology to provide a sense of control and awareness. The app provides real-time tracking capabilities for individuals subject to electronic monitoring, which is a form of surveillance used for offenders. However, experts have raised concerns about whether simply knowing a stalker's location is sufficient to prevent harm or truly enhance victim safety.
 
-rss · 科技新報 TechNews (科技) · Jun 24, 07:30
+rss · BBC 中文 (國際) · Jun 24, 05:48
 
-**Background**: Humanoid robots are advanced machines designed to resemble and interact with the human environment, often used for tasks requiring dexterity and navigation in complex spaces like factories and warehouses. A Special Purpose Acquisition Company (SPAC) is a shell corporation listed on a stock exchange with the purpose of acquiring a private company, thereby taking it public without the traditional IPO process.
+**Background**: Electronic monitoring is a technology used to supervise offenders and ensure their compliance with court orders, such as curfews or home detention. It typically involves devices that track an individual's location or other behaviors, providing authorities with data on their movements. This technology has been available since at least 2018 and is widely used in offender supervision programs to manage compliance and public safety.
 
-**Tags**: `#Robotics`, `#Humanoid Robots`, `#Automation`, `#Business News`, `#SPAC`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ojp.gov/pdffiles1/nij/grants/197102.pdf">Offender Supervision With Electronic Technology : A User's Guide</a></li>
+<li><a href="https://sentencinghub.sentencingacademy.org.uk/effectiveness-bulletin/electronic-monitoring/">Electronic Monitoring - Sentencing Toolkit</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Public Safety`, `#Government Technology`, `#Surveillance`, `#Mobile Applications`, `#South Korea`
+
+---
+
+<a id="item-21"></a>
+## [Alex Bores's Defeat Highlights AI Industry's Political Influence Challenge](https://www.nytimes.com/2026/06/24/us/politics/new-york-primary-bores-lasher-ai.html) ⭐️ 6.0/10
+
+Alex Bores's recent defeat in a New York primary election suggests a new political strategy for Democrats to leverage public disapproval of the AI industry's financial influence. This outcome indicates that candidates attacked by the AI industry might gain political advantage. This event is significant because it highlights the growing political implications and public perception challenges for the AI industry, particularly regarding its financial influence in elections. It could shape future political discourse and regulatory approaches towards AI development and its role in society. The news item specifically points to Alex Bores's "close loss" in a New York primary as the catalyst for this potential shift in political strategy. It suggests that the AI industry is "increasingly unpopular," implying a negative public sentiment that politicians might exploit.
+
+rss · 紐約時報 政治 · Jun 24, 19:57
+
+**Tags**: `#AI Politics`, `#Tech Policy`, `#Political Influence`, `#Public Perception`, `#Industry Regulation`
 
 ---
