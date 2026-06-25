@@ -5,205 +5,196 @@ date: 2026-06-25
 lang: en
 ---
 
-> From 340 items, 26 important content pieces were selected
+> From 380 items, 29 important content pieces were selected
 
 ---
 
-1. [U.N. Report Alleges Israeli Genocide of Gaza Children Post-Truce](#item-1) ⭐️ 10.0/10
-2. [Report Reveals Over 500 Mothers and Babies Harmed in Nottingham NHS Maternity Scandal](#item-2) ⭐️ 10.0/10
-3. [Chemotherapy Drug Shortage Sparks Rationing Fears for Cancer Patients](#item-3) ⭐️ 10.0/10
-4. [OpenAI Unveils Broadcom-Built Custom AI Inference Chip](#item-4) ⭐️ 9.0/10
-5. [China's AI Short Dramas Rapidly Displace Human Actors, Dominating Popular Content](#item-5) ⭐️ 9.0/10
-6. [UN Plans Evacuation of 11,000 Stranded Sailors in Hormuz; Rubio Warns Iran on Fees](#item-6) ⭐️ 9.0/10
-7. [Alibaba Sues US Defense Department Over "Chinese Military Company" Designation](#item-7) ⭐️ 9.0/10
-8. [China's Short Drama Industry Faces Massive Job Losses Due to AI Adoption](#item-8) ⭐️ 9.0/10
-9. [UK Prime Minister Keir Starmer Resigns Less Than Two Years After Election Victory](#item-9) ⭐️ 9.0/10
-10. [New York Elections Show Eroding Support for Israel](#item-10) ⭐️ 9.0/10
-11. [Democratic Base Favors Leftist Candidates Amidst Leadership's Call for Moderation](#item-11) ⭐️ 9.0/10
-12. [Federal Appeals Panel Rejects Trump's Bid for State Voting Data](#item-12) ⭐️ 9.0/10
-13. [Trump Clashes With Senate Republicans Over Iran War Powers](#item-13) ⭐️ 9.0/10
-14. [Micron Reports Record Q3 Earnings, Forecasts HBM Shortage Until 2028](#item-14) ⭐️ 9.0/10
-15. [Nvidia CEO Prioritizes National Security, Warns Against Chip Smuggling](#item-15) ⭐️ 9.0/10
-16. [Strait of Hormuz Reopens, Brent Crude Falls to Pre-Conflict Lows](#item-16) ⭐️ 9.0/10
-17. [Alphabet Joins Dow Jones Industrial Average, Replacing Verizon](#item-17) ⭐️ 9.0/10
-18. [Lin-Manuel Miranda's 'Warriors' Musical to Debut on Broadway Next Spring](#item-18) ⭐️ 9.0/10
-19. [Nottingham NHS Maternity Failings Spark Public Inquiry Calls](#item-19) ⭐️ 9.0/10
-20. [Ockenden Report Reveals 'Toxic' Maternity Care Failures at Nottingham Hospitals](#item-20) ⭐️ 9.0/10
-21. [Scientists Still Seek Bundibugyo Ebola Virus Animal Reservoir](#item-21) ⭐️ 9.0/10
-22. [Milder Ebola Symptoms Pose New Challenges for Disease Control](#item-22) ⭐️ 9.0/10
-23. [John Carmack Reflects on Early id Software Mistakes, Overworking Employees](#item-23) ⭐️ 8.0/10
-24. [Nub: A Bun-like All-in-One Toolkit for Node.js Enhances Developer Experience](#item-24) ⭐️ 8.0/10
-25. [Manhattan Borough President Allocates $50 Million to NYC Arts Groups](#item-25) ⭐️ 8.0/10
-26. [Lin-Manuel Miranda's "The Warriors" Musical Heads to Broadway](#item-26) ⭐️ 8.0/10
+1. [Nottingham NHS Maternity Scandal Prompts Public Inquiry Calls After 520 Harms/Deaths](#item-1) ⭐️ 10.0/10
+2. [Report Reveals Over 500 Mothers and Babies Harmed at Nottingham NHS Trust](#item-2) ⭐️ 10.0/10
+3. [OpenAI Unveils First Custom AI Inference Chip, Developed with Broadcom](#item-3) ⭐️ 9.0/10
+4. [China's AI Short Dramas Dominate Market, Displacing Human Actors](#item-4) ⭐️ 9.0/10
+5. [UN Plans Evacuation of 11,000 Stranded Sailors in Hormuz; Rubio Warns Iran](#item-5) ⭐️ 9.0/10
+6. [UK Sees Sixth Prime Minister Depart in a Decade Amidst Political Instability](#item-6) ⭐️ 9.0/10
+7. [Alibaba Sues US DoD Over "Chinese Military Company" Listing](#item-7) ⭐️ 9.0/10
+8. [AI Triggers Unemployment Wave in China's Short Drama Industry](#item-8) ⭐️ 9.0/10
+9. [UK Prime Minister Keir Starmer Resigns Less Than Two Years After Landslide Victory](#item-9) ⭐️ 9.0/10
+10. [New York Election Results Show Eroding US Support for Israel](#item-10) ⭐️ 9.0/10
+11. [Democratic Leaders Seek Moderation, Base Favors Progressive Stance](#item-11) ⭐️ 9.0/10
+12. [Federal Appeals Panel Rejects Trump's DOJ Effort to Collect State Voting Data](#item-12) ⭐️ 9.0/10
+13. [Trump Clashes with Senate Republicans Over Iran War Powers in Heated Meeting](#item-13) ⭐️ 9.0/10
+14. [Micron Reports Record Earnings, HBM Shortage Expected Until 2028](#item-14) ⭐️ 9.0/10
+15. [NVIDIA CEO Jensen Huang Prioritizes National Security Over Business](#item-15) ⭐️ 9.0/10
+16. [Strait of Hormuz Reopens, Oil Prices Fall to Pre-Conflict Lows, Brent Down Over 4%](#item-16) ⭐️ 9.0/10
+17. [Alphabet Joins Dow Jones Index, Replacing Verizon Amid AI Shift](#item-17) ⭐️ 9.0/10
+18. [Ockenden Report Exposes 'Toxic' Maternity Care Failures at Nottingham NHS Trust](#item-18) ⭐️ 9.0/10
+19. [Scientists Search for Unknown Animal Reservoir of Bundibugyo Ebola Virus](#item-19) ⭐️ 9.0/10
+20. [Milder Ebola Symptoms Pose New Challenge for Disease Containment](#item-20) ⭐️ 9.0/10
+21. [Generic Cystic Fibrosis Drug from Bangladesh Offers Global Lifeline](#item-21) ⭐️ 9.0/10
+22. [Taiwan Housing Market Sees Nine-Year Low in Buyer Activity Amid New Home Surge](#item-22) ⭐️ 9.0/10
+23. [Qualcomm Launches Dragonfly C1000 Data Center CPU, Partners Meta, Acquires Modular AI](#item-23) ⭐️ 9.0/10
+24. [OpenAI Unveils Custom AI Inference Chip 'Jalapeño' with Broadcom and TSMC](#item-24) ⭐️ 9.0/10
+25. [John Carmack Reflects on Past Management Mistakes at id Software](#item-25) ⭐️ 8.0/10
+26. [Sonia Boyce Exhibits Community-Connected Art in New York](#item-26) ⭐️ 8.0/10
+27. [Clive Davis and Whitney Houston: A Story of Success and Tragedy](#item-27) ⭐️ 8.0/10
+28. [Lin-Manuel Miranda's 'Warriors' Musical Set for Broadway Debut Next Spring](#item-28) ⭐️ 8.0/10
+29. [RubyLLM: A Unified Ruby Framework for Major AI Providers](#item-29) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [U.N. Report Alleges Israeli Genocide of Gaza Children Post-Truce](https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html) ⭐️ 10.0/10
+## [Nottingham NHS Maternity Scandal Prompts Public Inquiry Calls After 520 Harms/Deaths](https://www.theguardian.com/society/2026/jun/24/horrific-maternity-care-failings-at-nottingham-nhs-trust-prompt-calls-for-public-inquiry) ⭐️ 10.0/10
 
-A United Nations report has alleged that Israeli killings of children in Gaza following a truce constitute genocide, an accusation that Israel's U.N. mission vehemently rejected as a “libelous sham” and called the investigating commission a “fundamentally flawed mechanism.” This report from a U.N. investigating commission carries immense international significance, potentially impacting international law, human rights, and the ongoing Israeli-Palestinian conflict by increasing pressure on Israel. The commission's findings specifically highlight killings of children post-truce, building on previous reports where it concluded Israel had committed genocide in Gaza and Israeli officials incited these acts, while also finding Hamas committed war crimes.
+A three-year independent review has uncovered the largest childbirth scandal in NHS history at Nottingham University Hospitals, where 520 mothers and babies experienced "potentially avoidable" harm or death due to a "bullying and toxic culture" and disregarded warnings. This damning report has led to widespread calls for a public inquiry into maternity care across England. This scandal highlights severe systemic failures in patient safety and accountability within the NHS, impacting hundreds of families and eroding public trust in critical healthcare services. The calls for a national public inquiry underscore the urgent need to address deep-rooted issues in maternity care and prevent future tragedies across the UK. The review found that 444 women and 76 newborn babies suffered "potentially avoidable" outcomes, attributing these failures to a "bullying and toxic culture," chronic understaffing, and a pattern of senior leaders ignoring repeated warnings. Disturbingly, one baby girl who died early in gestation was inadvertently disposed of as clinical waste, further compounding her parents' distress.
 
-rss · 紐約時報 國際 · Jun 24, 15:35
+rss · 衛報 社會 · Jun 24, 19:18
 
-**Background**: The U.N. investigating commission on Gaza, officially known as the Independent International Commission of Inquiry on the Occupied Palestinian Territory, including East Jerusalem, and Israel, has been examining violations of international law in the region. Prior to this report, the commission had already concluded that Israeli security forces committed crimes against humanity and war crimes in Gaza, and that Hamas and other Palestinian armed groups committed war crimes on October 7, 2023.
+**Background**: The National Health Service (NHS) is the publicly funded healthcare system of the United Kingdom, providing comprehensive medical care to all residents. A public inquiry in the UK is a major investigation convened by a government minister to examine significant accidents, disasters, or scandals, aiming to establish facts and make recommendations for improvement. The Donna Ockenden review is an independent investigation specifically tasked with examining cases of serious concern within the maternity services at Nottingham University Hospitals NHS Trust.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.theguardian.com/world/2026/jun/23/israel-deliberately-targeting-gaza-children-to-commit-genocide-un-inquiry-finds">Israel continues to commit genocide by targeting children in Gaza , UN ...</a></li>
-<li><a href="https://www.bbc.com/news/articles/c8641wv0n4go">Israel has committed genocide in Gaza , UN commission of inquiry says</a></li>
-<li><a href="https://trendsmena.com/geostrategy/un-investigators-say-israel-committing-genocide-in-gaza/">UN investigators : Israel committing genocide in Gaza to 'destroy the...</a></li>
+<li><a href="https://www.ockendenmaternityreview.org.uk/">Ockenden Maternity Review</a></li>
+<li><a href="https://www.gov.uk/government/publications/ockenden-review-into-maternity-services-at-nottingham-university-hospitals-nhs-trust-final-report">Ockenden review into maternity services at Nottingham University ...</a></li>
+<li><a href="https://www.milnerslaw.co.uk/how-does-a-public-inquiry-work/">How does a public inquiry work? - Milners</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#International Affairs`, `#Human Rights`, `#Middle East Conflict`, `#Genocide`, `#United Nations`
+**Tags**: `#Healthcare`, `#NHS`, `#Maternity Care`, `#Public Health`, `#Patient Safety`
 
 ---
 
 <a id="item-2"></a>
-## [Report Reveals Over 500 Mothers and Babies Harmed in Nottingham NHS Maternity Scandal](https://www.theguardian.com/news/audio/2026/jun/24/mothers-babies-died-nottingham-maternity-scandal-ockenden-report-the-latest) ⭐️ 10.0/10
+## [Report Reveals Over 500 Mothers and Babies Harmed at Nottingham NHS Trust](https://www.theguardian.com/news/audio/2026/jun/24/mothers-babies-died-nottingham-maternity-scandal-ockenden-report-the-latest) ⭐️ 10.0/10
 
-A new report led by senior midwife Donna Ockenden has revealed that over 500 mothers and babies died or were harmed due to inadequate care, a toxic culture, staff shortages, and racism at Nottingham University Hospitals NHS Trust. This review is the largest maternity inquiry in the history of the NHS, involving contributions from 2,500 families and over 800 staff members. This scandal highlights systemic failures in patient safety and healthcare governance within the UK's National Health Service, raising critical questions about accountability, staff training, and the impact of institutional culture on vulnerable patients. It underscores the urgent need for comprehensive reforms to prevent similar tragedies and restore public trust in maternity services. The review found a "dismissive attitude" towards women's concerns and a "bullying and toxic culture" that persisted for many years, impeding efforts to improve care at Nottingham University Hospitals NHS Trust. This is not Donna Ockenden's first major maternity review, as she previously chaired an independent review into maternity services at Shrewsbury and Telford Hospital NHS Trust.
+A new report, led by senior midwife Donna Ockenden, has revealed that over 500 mothers and babies died or were harmed due to inadequate care, a toxic culture, and racism at Nottingham University Hospitals NHS Trust. This marks the biggest maternity care scandal in NHS history, highlighting systemic failures within the institution. This scandal is profoundly significant as it erodes public trust in healthcare systems and demands urgent re-evaluation of patient safety protocols and accountability within the NHS. It underscores the critical need for systemic changes to prevent future tragedies and ensure equitable, high-quality maternity care for all. The review specifically identified a dismissive attitude towards women's concerns, severe staff shortages, and a pervasive toxic culture, including instances of racism, as contributing factors to the widespread harm. These issues point to deep-seated organizational problems rather than isolated incidents.
 
 rss · 衛報 社會 · Jun 24, 16:35
 
-**Background**: The National Health Service (NHS) is the publicly funded healthcare system of the United Kingdom, providing comprehensive medical care to all residents. Concerns about the quality and safety of maternity services at Nottingham University Hospitals NHS Trust (NUH) led NHS England to establish the Ockenden Maternity Review in May 2022, replacing a previous regional review. Donna Ockenden is a senior midwife known for leading significant independent reviews into maternity care failures in the UK.
+**Background**: The National Health Service (NHS) is the publicly funded healthcare system of the United Kingdom, providing comprehensive healthcare to all legal residents. Donna Ockenden is a highly respected British midwife and independent reviewer, known for chairing previous investigations into maternity service failures, most notably the Shrewsbury and Telford Hospital NHS Trust review. Her expertise is crucial in uncovering systemic issues within healthcare trusts.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.mirror.co.uk/news/uk-news/ockenden-review-nottingham-nhs-live-37339477">Nottingham NHS scandal updates: Hundreds of mums and babies ...</a></li>
-<li><a href="https://www.theguardian.com/society/live/2026/jun/24/ockenden-maternity-review-nottingham-university-hospitals-trust-nhs-latest-news-updates">Ockenden report, as it happened: families call for public inquiry and say babies treated with ‘absence of dignity’ | NHS | The Guardian</a></li>
-<li><a href="https://www.ockendenmaternityreview.org.uk/">Ockenden Maternity Review - Ockenden Review</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Donna_Ockenden">Donna Ockenden</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nottingham_University_Hospitals_NHS_Trust">Nottingham University Hospitals NHS Trust</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Healthcare`, `#Public Health`, `#Maternity Care`, `#NHS`, `#Scandal`
+**Tags**: `#Public Health`, `#Healthcare Scandal`, `#NHS`, `#Maternity Care`, `#Social Issues`
 
 ---
 
 <a id="item-3"></a>
-## [Chemotherapy Drug Shortage Sparks Rationing Fears for Cancer Patients](https://www.nytimes.com/2026/06/24/health/chemotherapy-drug-shortage.html) ⭐️ 10.0/10
+## [OpenAI Unveils First Custom AI Inference Chip, Developed with Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) ⭐️ 9.0/10
 
-Doctors are currently experiencing severe shortages and unfilled orders for generic chemotherapy infusions, which are crucial for treating a wide range of cancers. This situation is directly leading to fears of treatment rationing for cancer patients. This shortage is highly significant as it directly impacts the ability to provide standard cancer care, potentially forcing doctors to ration treatments or use less effective alternatives, thereby jeopardizing patient outcomes and raising major public health concerns. The affected drugs are primarily older, off-patent generic injectable cancer medications, including backbone chemotherapies like cisplatin, carboplatin, docetaxel, methotrexate, and vinblastine, which are essential for many cancer treatment regimens.
+OpenAI has officially unveiled its first custom AI inference chip, codenamed Jalapeño, which was developed in collaboration with Broadcom to enhance efficiency and reduce reliance on external hardware providers. This move is highly significant as it allows OpenAI to gain greater control over its AI infrastructure, potentially leading to lower operational costs, improved performance for its models like ChatGPT, and reduced dependence on dominant chip manufacturers like Nvidia. The custom chip, an AI inference processor named Jalapeño, was developed from design to production in just nine months, with OpenAI's own models reportedly accelerating parts of the design process, and is being manufactured by TSMC.
 
-rss · 紐約時報 健康 · Jun 24, 20:44
+hackernews · jamdesk · Jun 24, 17:47 · [Discussion](https://news.ycombinator.com/item?id=48663324)
 
-**Background**: Generic chemotherapy drug shortages often stem from their low prices and thin profit margins, which disincentivize manufacturers from producing them, especially older, off-patent versions. The FDA employs strategies like regulatory flexibility, long-term prevention plans, and risk management plan guidance to identify and mitigate these supply disruptions.
+**Background**: An AI inference chip is a specialized processor designed to efficiently run trained artificial intelligence models, delivering fast predictions or decisions on new input data in real-world applications. Unlike training chips, which focus on teaching AI models, inference chips prioritize speed and cost-per-query for practical deployment, making them crucial for scalable AI services like chatbots and recommendation systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://longwayhealth.com/chemotherapy-drug-shortage-impact-on-patient-care">Chemotherapy Drug Shortage Impact on | Longway Health</a></li>
-<li><a href="https://inpracticeoncology.com/insights/oncology-drug-shortages-causes-solutions/">Oncology Drug Shortages : Causes And Solutions</a></li>
-<li><a href="https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages">Drug Shortages | FDA</a></li>
+<li><a href="https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip">OpenAI just announced its first custom chip to help ChatGPT run better | CNN Business</a></li>
+<li><a href="https://www.axios.com/2026/06/24/openai-jalapeno-ai-chip-broadcom-nvidia">OpenAI fires up "Jalapeño," its first homegrown AI chip</a></li>
+<li><a href="https://naddod.medium.com/inference-chip-guide-the-foundation-of-scalable-ai-applications-d18f2c22b36c">Inference Chip Guide: The Foundation of Scalable AI Applications | by NADDOD | Medium</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Health`, `#Cancer`, `#Drug Shortage`, `#Public Health`, `#Healthcare Policy`
+**Discussion**: Community members expressed skepticism regarding OpenAI's claim that its own models accelerated the chip's design, seeking more specific details on this process. There was also confirmation that TSMC is manufacturing the chips, alongside discussions about alternative chip architectures like Taalas and comparisons to Google's long-standing TPU development.
+
+**Tags**: `#AI`, `#Hardware`, `#OpenAI`, `#Semiconductors`, `#Technology`
 
 ---
 
 <a id="item-4"></a>
-## [OpenAI Unveils Broadcom-Built Custom AI Inference Chip](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) ⭐️ 9.0/10
+## [China's AI Short Dramas Dominate Market, Displacing Human Actors](https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-OpenAI, in partnership with Broadcom, has unveiled its first custom AI inference chip, codenamed "Jalapeño," marking a strategic move to optimize performance and reduce reliance on external hardware suppliers. This chip was developed from design to production in just nine months. This development is significant as it allows OpenAI to gain greater control over its hardware stack, potentially leading to substantial cost savings of around 50% and improved efficiency for its large language models, thereby reducing its dependence on external GPU suppliers. This move could reshape the AI hardware landscape and influence other major AI players to pursue similar in-house chip strategies. The Jalapeño chip is specifically designed for LLM inference workloads, such as those powering ChatGPT and OpenAI's API, and early lab samples have met target frequencies. While OpenAI designed the chip, it is being manufactured by TSMC, a detail clarified by community discussion.
+Within just one year, China's short-drama industry has seen a dramatic shift, with AI-generated content now making up 40% of the most popular short dramas and experiencing geometric growth in production speed, leading to the rapid displacement of human actors. This trend signifies a major disruption in the entertainment industry, demonstrating AI's rapid capability to displace human labor in creative fields and setting a precedent for the global impact of AI on employment and content production. AI-generated content now accounts for 40% of the most popular short dramas, with production costs significantly reduced to roughly one-third of traditional methods, enabling a single AI team to produce 20-30 dramas.
 
-hackernews · jamdesk · Jun 24, 17:47 · [Discussion](https://news.ycombinator.com/item?id=48663324)
+rss · BBC 中文 (國際) · Jun 23, 23:25
 
-**Background**: An AI inference chip is a specialized processor designed to execute trained AI models, such as large language models, in real-world applications. Unlike training chips, which are used to teach AI models, inference chips focus on applying that learned knowledge to new data, enabling functions like chatbot responses or personalized recommendations. This specialization allows for greater efficiency and lower operational costs for deploying AI services.
+**Background**: Short dramas are brief, serialized video content, often designed for mobile viewing, that have gained immense popularity in China and are now expanding globally. The industry's rapid production cycles and lack of union protections made it particularly susceptible to AI's cost-cutting and speed advantages.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://naddod.medium.com/inference-chip-guide-the-foundation-of-scalable-ai-applications-d18f2c22b36c">Inference Chip Guide: The Foundation of Scalable AI Applications | by NADDOD | Medium</a></li>
-<li><a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/">OpenAI and Broadcom unveil LLM-optimized inference chip | OpenAI</a></li>
-<li><a href="https://digg.com/tech/60qj05iw">OpenAI announces Jalapeño , a custom LLM inference chip ...</a></li>
+<li><a href="https://hellochinatech.com/p/china-470-ai-dramas-a-day">China ’s AI Drama Boom Is Already Producing the Costs of...</a></li>
+<li><a href="https://vitrina.ai/blog/ai-generated-short-drama-production-companies/">Top AI -Generated Short Drama Production Companies</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community expressed skepticism regarding OpenAI's claim of using its own models to accelerate chip design, seeking more details on this aspect. There was also clarification that TSMC is manufacturing the chips, and discussions comparing OpenAI's approach to Google's TPUs and other "burn-in-silicon" methods like Taalas.
-
-**Tags**: `#AI`, `#Hardware`, `#Semiconductors`, `#OpenAI`, `#Technology`
+**Tags**: `#AI`, `#Entertainment Industry`, `#China`, `#Labor Market`, `#Technology Impact`
 
 ---
 
 <a id="item-5"></a>
-## [China's AI Short Dramas Rapidly Displace Human Actors, Dominating Popular Content](https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [UN Plans Evacuation of 11,000 Stranded Sailors in Hormuz; Rubio Warns Iran](https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-China's short drama industry has seen a dramatic shift within a year, with AI-produced content now making up 40% of the most popular short dramas and experiencing exponential growth in production, leading to the rapid displacement of human actors. This development signifies a major, rapid shift in the entertainment industry due to AI, with profound implications for employment, particularly for actors, and the future of creative work globally. The swift displacement of human talent by AI in a large market like China sets a precedent for other sectors. The rapid rise of AI short dramas has led to a significant decline in demand for human actors, with daily wages plummeting and over 60% of production crews halting work, impacting an estimated two million jobs. While many actors face unemployment, some are seizing new opportunities within this evolving AI-driven entertainment landscape.
+The United Nations' International Maritime Organization (IMO) has announced plans to evacuate over 11,000 sailors currently stranded in the Strait of Hormuz, while US Senator Marco Rubio has warned Iran against charging fees for their release. This situation represents a significant humanitarian crisis for over 11,000 individuals and underscores the geopolitical importance of the Strait of Hormuz, a vital chokepoint for global energy trade. International intervention and warnings to Iran highlight the potential for escalated regional tensions and broader economic disruptions. The specific number of stranded sailors is reported to be over 11,000, and they are located in the vicinity of the Strait of Hormuz, a critical maritime passage. Senator Rubio's warning to Iran implies concerns over potential demands or obstacles from the Iranian side regarding the sailors' release.
 
-rss · BBC 中文 (國際) · Jun 23, 23:25
+rss · BBC 中文 (國際) · Jun 24, 02:56
 
-**Background**: Chinese short dramas, or "duanju," are professionally produced, short-form video series, distinct from user-generated content, typically filmed within two weeks on tight budgets. These dramas often operate on a freemium model, offering initial episodes for free before requiring payment, and have rapidly grown in China due to their low-cost, high-volume production model and ability to navigate traditional content regulations.
+**Background**: The International Maritime Organization (IMO) is a specialized agency of the United Nations responsible for regulating maritime transport, focusing on the safety and security of shipping and the prevention of marine pollution. The Strait of Hormuz is a strategically vital waterway connecting the Persian Gulf to the open ocean, through which a significant portion of the world's oil supply passes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/zh-hant/短剧_(中国)">短劇 (中國) - 維基百科，自由的百科全書</a></li>
-<li><a href="https://www.thenewslens.com/article/262160">中國短劇為何爆發成長？揭秘幕後審核、資本投流與流水線生產 - TNL The News Lens 關鍵評論網</a></li>
+<li><a href="https://en.wikipedia.org/wiki/International_Maritime_Organization">International Maritime Organization - Wikipedia</a></li>
+<li><a href="https://www.imo.org/">International Maritime Organization</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Entertainment Industry`, `#China`, `#Job Displacement`, `#Technology Impact`
+**Tags**: `#International Affairs`, `#Humanitarian Crisis`, `#Geopolitics`, `#Maritime Security`, `#Middle East`
 
 ---
 
 <a id="item-6"></a>
-## [UN Plans Evacuation of 11,000 Stranded Sailors in Hormuz; Rubio Warns Iran on Fees](https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [UK Sees Sixth Prime Minister Depart in a Decade Amidst Political Instability](https://www.bbc.com/zhongwen/articles/c33yrvd53ddo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-The United Nations' International Maritime Organization (IMO) has announced a plan to evacuate over 11,000 sailors currently stranded in the Strait of Hormuz. This initiative comes as Senator Marco Rubio issued a warning to Iran against imposing any fees for the sailors' release. This situation represents a significant humanitarian crisis for thousands of seafarers and underscores the severe geopolitical tensions impacting a vital global shipping chokepoint. The resolution of this issue is crucial for global maritime security, trade stability, and international relations, particularly concerning the ongoing US-Iran conflict. The International Maritime Organization's evacuation operation will be conducted in close cooperation with Iran, Oman, other regional coastal states, the United States, and the broader maritime industry, with necessary safety guarantees already secured. This incident further illustrates how ships and their crews are increasingly becoming pawns in complex geopolitical disputes.
+Sir Keir Starmer has become the sixth UK Prime Minister to depart in the last ten years, prompting BBC International correspondent Rob Watson to analyze the underlying reasons for this political instability. This frequent change in leadership signifies significant political instability within a major G7 nation, potentially impacting domestic policy, international relations, and the UK's economic standing. The article by Rob Watson aims to explain the factors contributing to this trend of rapid prime ministerial turnover, offering insights into the broader political landscape.
 
-rss · BBC 中文 (國際) · Jun 24, 02:56
+rss · BBC 中文 (國際) · Jun 23, 12:29
 
-**Background**: The Strait of Hormuz is a strategically vital chokepoint connecting the Persian Gulf to the open ocean, through which a significant portion of the world's oil supply passes. This region has been a flashpoint for geopolitical tensions, particularly between the United States and Iran, often leading to maritime incidents such as vessel seizures and disruptions. These conflicts frequently involve the use of ships and seafarers as leverage in broader international disputes.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-accounces-evacuation-plan-in-strait-of-hormuz.aspx">IMO announces evacuation plan in the Strait of Hormuz</a></li>
-<li><a href="https://news.un.org/en/story/2026/04/1167383">Chokepoints and conflict: How the Hormuz crisis is exposing ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#International Affairs`, `#Humanitarian Crisis`, `#Maritime Security`, `#Geopolitics`, `#Middle East`
+**Tags**: `#UK Politics`, `#Political Instability`, `#International Affairs`, `#Government`, `#Leadership`
 
 ---
 
 <a id="item-7"></a>
-## [Alibaba Sues US Defense Department Over "Chinese Military Company" Designation](https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [Alibaba Sues US DoD Over "Chinese Military Company" Listing](https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-Alibaba has filed a lawsuit against the U.S. Department of Defense in a California court, challenging its inclusion on a list of companies designated as supporting the Chinese People's Liberation Army, calling the designation "groundless." This lawsuit underscores the escalating geopolitical tensions between the U.S. and China and could significantly impact the operational environment and investment landscape for major Chinese technology companies globally. The e-commerce giant explicitly refutes the U.S. Department of Defense's classification, asserting that the basis for its inclusion on the list is entirely unfounded.
+Alibaba has filed a lawsuit in a California court against the U.S. Department of Defense, challenging its inclusion on a list of companies allegedly supporting the Chinese People's Liberation Army, calling the accusation "groundless." This legal challenge by a major Chinese tech giant against the U.S. government highlights escalating U.S.-China geopolitical tensions and could set a precedent for how companies respond to such designations, impacting international business and investment. Alibaba explicitly refutes the U.S. Department of Defense's claim as "groundless" in its filing to a California court, seeking to be removed from the controversial list.
 
 rss · BBC 中文 (國際) · Jun 24, 03:31
 
-**Background**: The U.S. Department of Defense maintains a list of "Chinese military companies" as mandated by Section 1260H of the National Defense Authorization Act for Fiscal Year 2021. This list identifies companies operating directly or indirectly in the United States that are deemed to support the Chinese military, aiming to inform investors and restrict certain transactions.
+**Background**: The U.S. Department of Defense maintains a list of "Chinese military companies" which it identifies as operating in the United States or supporting China's People's Liberation Army. This list has been expanded over time to include various prominent Chinese entities, such as Tencent and CATL, and can have ancillary supply chain and U.S. government contracting impacts.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.war.gov/News/Releases/Release/Article/4023145/dod-releases-list-of-chinese-military-companies-in-accordance-with-section-1260/">DOD Releases List of Chinese Military Companies in Accordance with ...</a></li>
-<li><a href="https://www.federalregister.gov/documents/2026/06/10/2026-11571/notice-of-availability-of-designation-of-chinese-military-companies">Notice of Availability of Designation of Chinese Military Companies</a></li>
+<li><a href="https://www.crowell.com/en/insights/client-alerts/new-year-updated-list-the-us-department-of-defense-updates-its-list-of-chinese-military-companies-with-ancillary-supply-chain-and-usg-contracting-impacts">New Year, Updated List: The U.S. Department of Defense Updates Its List of Chinese Military Companies with Ancillary Supply Chain and USG Contracting Impacts | Crowell & Moring LLP</a></li>
+<li><a href="https://www.morganlewis.com/pubs/2025/01/dods-expanding-list-of-chinese-military-companies">DOD’s Expanding List of Chinese Military Companies</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Geopolitics`, `#US-China Relations`, `#Business`, `#Lawsuit`, `#Technology`
+**Tags**: `#Geopolitics`, `#US-China Relations`, `#Business Law`, `#Technology`, `#International Affairs`
 
 ---
 
 <a id="item-8"></a>
-## [China's Short Drama Industry Faces Massive Job Losses Due to AI Adoption](https://www.bbc.com/zhongwen/articles/cvgdqjvzv9go/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [AI Triggers Unemployment Wave in China's Short Drama Industry](https://www.bbc.com/zhongwen/articles/cvgdqjvzv9go/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-Tens of thousands of actors, directors, and production staff in China's short drama industry are experiencing rapid job displacement, with some losing their livelihoods within months of entering the booming sector, as AI tools increasingly take over production roles. This situation highlights the immediate and widespread impact of AI on employment within a specific industry, demonstrating how quickly technological advancements can disrupt traditional job markets and affect the livelihoods of a large workforce. It serves as a significant case study for the broader economic and social implications of AI adoption globally. The rapid shift from high earnings to unemployment for many industry professionals, as detailed by personal accounts to the BBC, underscores the speed and scale of AI's integration into content creation. This disruption is occurring in an industry that saw 650 million users in China in 2023, spending an average of 45 minutes daily on mobile platforms.
+AI's rapid integration into China's short drama industry has caused a significant unemployment wave, displacing tens of thousands of actors, directors, and production staff who previously earned substantial incomes. This development is significant as it highlights the rapid and substantial impact of AI on employment within a large industry, affecting tens of thousands of individuals and signaling a broader global trend of AI-driven job displacement. Several industry professionals shared their stories with BBC Chinese, indicating that the transition from high earnings to unemployment occurred within a mere one or two-month period due to AI's rapid adoption.
 
 rss · BBC 中文 (國際) · Jun 23, 02:42
 
-**Background**: China's short drama industry has experienced explosive growth, attracting 650 million users in 2023 who spend significant time daily on mobile platforms, particularly during weekday evenings. This sector involves the production of short, often serialized video content, which has traditionally relied on a large workforce of actors, directors, and production staff. The industry has also seen robust growth in its overseas expansion, with AI playing a role in its development.
+**Background**: China's short drama industry, known as Duanju, is a rapidly growing sector of the entertainment industry, producing an estimated 120,000 bite-sized vertical dramas annually. By 2025, this market was valued at approximately $13.8 billion and had created over 600,000 jobs, becoming a significant part of the Chinese economy. These dramas are typically short, fast-paced, and often optimized for mobile viewing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://worldmetrics.org/china-short-drama-industry-statistics/">China Short Drama Industry Statistics | Verified 2026 Data</a></li>
-<li><a href="https://www.chinareport.com.cn/R3/5256.html">China’s Overseas Short Drama Industry Booms in 2025, AI and ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Duanju">Duanju - Wikipedia</a></li>
+<li><a href="https://shortdramaalliance.medium.com/short-drama-is-not-vertical-tv-lessons-from-chinas-13-8b-micro-drama-economy-64d4b740a591">Short Drama Is Not Vertical TV, Lessons From China’s $13.8B Micro-Drama Economy | by Short Drama Alliance | Feb, 2026 | Medium</a></li>
 
 </ul>
 </details>
@@ -213,86 +204,74 @@ rss · BBC 中文 (國際) · Jun 23, 02:42
 ---
 
 <a id="item-9"></a>
-## [UK Prime Minister Keir Starmer Resigns Less Than Two Years After Election Victory](https://www.bbc.com/zhongwen/articles/c1mypy1yep4o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [UK Prime Minister Keir Starmer Resigns Less Than Two Years After Landslide Victory](https://www.bbc.com/zhongwen/articles/c1mypy1yep4o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-UK Prime Minister Sir Keir Starmer has resigned from his post, less than two years after leading his party to a significant majority in the 2024 general election. This resignation is a significant political development for a G7 nation, potentially leading to a leadership contest and impacting the UK's domestic and international policies. Sir Keir Starmer's resignation followed a weekend of speculation regarding his political future, particularly after Andy Burnham's victory, and he defended his government's record in his resignation speech.
+UK Prime Minister Keir Starmer has resigned from his position less than two years after leading the Labour Party to a significant majority in the 2024 general election. This unexpected departure marks a swift end to his premiership following a period of declining popularity. This resignation is a major political development for the United Kingdom, a G7 nation, and will trigger a leadership contest within the Labour Party, potentially leading to significant shifts in national policy and international relations. It highlights the volatile nature of modern politics, even for leaders who achieve initial landslide victories. Sir Keir Starmer's resignation followed a massive decline in government popularity and growing discontent with his leadership, despite his initial landslide victory in July 2024. Factors contributing to his downfall included public dissatisfaction and calls for his resignation from within his own party, such as from Scottish Labour leader Anas Sarwar.
 
 rss · BBC 中文 (國際) · Jun 23, 00:04
 
-**Background**: In the United Kingdom's parliamentary system, the Prime Minister is the head of government, typically the leader of the party that wins the most seats in a general election. A "large majority" indicates significant public support and a strong mandate to govern, making a resignation less than two years after such a victory unusual.
+**Background**: Keir Starmer became the leader of the Labour Party in 2020 and led the party to a significant majority in the 2024 general election, ending years of Conservative rule. His premiership, however, faced challenges including a decline in public support and criticism over his government's direction and handling of various issues, including the UK's stance on the "Iran war."
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.bbc.com/news/articles/c0qyllvpkw8o">Why did Keir Starmer resign and what could happen next? - BBC</a></li>
-<li><a href="https://time.com/article/2026/06/22/uk-prime-minister-keir-starmer-resignation-reports-burnham-leadership-potential/">U.K. Prime Minister Keir Starmer Gives Reason For Resignation</a></li>
-<li><a href="https://www.bbc.com/news/articles/cdxd00lg599o">Keir Starmer announces resignation as prime minister and ...</a></li>
+<li><a href="https://www.independent.co.uk/news/uk/politics/starmer-resigns-timeline-elections-labour-leader-b3000989.html">Why did Starmer resign? The key moments of his chaotic two years as prime minister | The Independent</a></li>
+<li><a href="https://www.pbs.org/newshour/world/how-uks-keir-starmer-went-from-election-landslide-to-downfall">How UK's Keir Starmer went from election landslide to downfall | PBS News</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis">2026 Labour Party leadership crisis - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Politics`, `#UK`, `#Government`, `#International Affairs`, `#Resignation`
+**Tags**: `#Politics`, `#UK`, `#Government`, `#International Affairs`, `#Leadership`
 
 ---
 
 <a id="item-10"></a>
-## [New York Elections Show Eroding Support for Israel](https://www.nytimes.com/2026/06/24/us/politics/new-york-elections-israel-support.html) ⭐️ 9.0/10
+## [New York Election Results Show Eroding US Support for Israel](https://www.nytimes.com/2026/06/24/us/politics/new-york-elections-israel-support.html) ⭐️ 9.0/10
 
-Recent election results in New York have provided additional evidence of a noticeable decline in public support for Israel among voters. This development suggests a potential shift in public sentiment regarding the long-standing alliance. This trend is significant because a continued shift in public opinion could fundamentally alter the United States' long-standing and close alliance with Israel, impacting both domestic politics and international relations. Such a change could reshape U.S. foreign policy in the Middle East. The article highlights that these New York election results serve as further evidence of an ongoing trend rather than an isolated incident, suggesting a broader shift in public sentiment. The specific electoral outcomes contributing to this evidence are not detailed in the provided summary.
+Recent election results in New York are being interpreted as new evidence of a growing decline in public support for Israel within the United States. This trend suggests a potential shift in American public opinion regarding the long-standing alliance. This erosion of support is significant because it could fundamentally reshape the United States' long-standing alliance with Israel, impacting U.S. foreign policy and geopolitical dynamics in the Middle East. It reflects a broader shift in public sentiment that could have lasting implications for international relations. The article specifically highlights the New York election results as a tangible indicator of this broader trend, suggesting that the shift in public opinion is becoming increasingly evident in political outcomes. If this pattern continues, it could lead to significant alterations in the bilateral relationship.
 
 rss · 紐約時報 政治 · Jun 24, 23:46
 
-**Background**: The United States and Israel have maintained a robust strategic alliance for decades, characterized by significant military, economic, and diplomatic cooperation. This alliance has historically enjoyed broad bipartisan support within the U.S., making any erosion of public backing a notable development with potential long-term implications for foreign policy.
-
-**Tags**: `#US Politics`, `#International Relations`, `#Foreign Policy`, `#Public Opinion`, `#Israel`
+**Tags**: `#US Politics`, `#Foreign Policy`, `#Israel`, `#Elections`, `#Public Opinion`
 
 ---
 
 <a id="item-11"></a>
-## [Democratic Base Favors Leftist Candidates Amidst Leadership's Call for Moderation](https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html) ⭐️ 9.0/10
+## [Democratic Leaders Seek Moderation, Base Favors Progressive Stance](https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html) ⭐️ 9.0/10
 
-Leftist Democratic congressional candidates recently secured primary victories in New York, occurring at a time when some party leaders are advocating for a more centrist approach to broaden the Democratic Party's appeal. This divergence highlights a significant internal struggle within the Democratic Party between its progressive base and its centrist leadership, which could profoundly impact future policy directions and electoral strategies. The victories specifically involved leftist Democratic candidates in New York's congressional primaries, indicating a strong preference among a segment of the party's voters for more progressive policies.
+Recent primary victories by leftist Democratic congressional candidates in New York reveal a growing ideological split within the Democratic Party, contrasting with some leaders' calls for a more moderate political stance. This divergence is significant as it could influence the Democratic Party's future policy directions, electoral strategies, and overall national political landscape, potentially affecting its ability to appeal to a broad electorate. The victories occurred in New York, specifically involving leftist Democratic congressional candidates, highlighting a grassroots movement pushing the party further left despite leadership's desire for a centrist approach.
 
 rss · 紐約時報 政治 · Jun 24, 23:20
 
-**Tags**: `#US Politics`, `#Democratic Party`, `#Primary Elections`, `#Political Strategy`, `#Progressive Movement`
+**Tags**: `#US Politics`, `#Democratic Party`, `#Elections`, `#Political Strategy`, `#Progressive Politics`
 
 ---
 
 <a id="item-12"></a>
-## [Federal Appeals Panel Rejects Trump's Bid for State Voting Data](https://www.nytimes.com/2026/06/24/us/politics/trump-voter-rolls-data-ruling.html) ⭐️ 9.0/10
+## [Federal Appeals Panel Rejects Trump's DOJ Effort to Collect State Voting Data](https://www.nytimes.com/2026/06/24/us/politics/trump-voter-rolls-data-ruling.html) ⭐️ 9.0/10
 
-A three-judge federal appeals panel in Michigan rejected the Department of Justice's attempt to gather voting data from states to identify ineligible voters, marking a significant legal setback for the Trump administration. This ruling is a significant development for election integrity and federal-state relations, reinforcing states' authority over their voter rolls and limiting federal intervention in voter data collection. The appeals panel's decision represents the most significant legal challenge to the Department of Justice's broader push under the Trump administration to find evidence of voter fraud, an effort that critics argue aims to sow distrust and create voting barriers.
+A three-judge federal appeals panel in Michigan has issued a significant ruling, rejecting the Department of Justice's attempt under the former Trump administration to gather voting data from states to identify ineligible voters. This decision marks the most substantial setback to that particular initiative. This ruling has major implications for US election integrity, state autonomy over voter rolls, and the balance of power between federal and state governments regarding election administration. It underscores the judiciary's role in overseeing executive branch actions related to electoral processes. The decision came from a three-judge appeals panel in Michigan, specifically targeting the Department of Justice's efforts during the Trump administration to identify ineligible voters by collecting state voting data. This ruling is described as the most significant rejection of that particular initiative to date.
 
 rss · 紐約時報 政治 · Jun 24, 22:29
 
-**Background**: The Trump administration had previously issued a legal opinion asserting a federal role in vetting voter eligibility and justifying nationwide voter data collection. This effort was part of a broader push to investigate alleged voter fraud, a position that courts have frequently rejected in similar cases.
+**Background**: The Department of Justice (DOJ) is the federal executive department responsible for the enforcement of law and administration of justice in the United States. Under the Trump administration, the DOJ pursued initiatives aimed at reviewing voter rolls, often citing concerns about voter fraud, which led to efforts to collect detailed voting data from individual states. States typically manage their own voter registration and election processes, leading to potential conflicts with federal data collection attempts.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://cyberscoop.com/federal-voter-data-collection-doj-legal-memo/">DOJ releases legal rationale for nationwide voter data collection</a></li>
-<li><a href="https://www.nytimes.com/2026/06/24/us/politics/trump-voter-rolls-data-ruling.html">Federal Appeals Panel Rejects Trump ’s Effort to Gather Voting Data ...</a></li>
-<li><a href="https://www.scworld.com/brief/trump-administrations-voter-data-collection-efforts-face-legal-challenges">Trump administration ’s voter data collection efforts face legal...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#US Politics`, `#Election Integrity`, `#Legal Ruling`, `#Voter Data`, `#Federal Courts`
+**Tags**: `#US Politics`, `#Election Law`, `#Judiciary`, `#Voter Rolls`, `#Department of Justice`
 
 ---
 
 <a id="item-13"></a>
-## [Trump Clashes With Senate Republicans Over Iran War Powers](https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html) ⭐️ 9.0/10
+## [Trump Clashes with Senate Republicans Over Iran War Powers in Heated Meeting](https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html) ⭐️ 9.0/10
 
-President Trump had a lengthy and angry exchange with Senate Republicans, including Senator Bill Cassidy of Louisiana, during a closed-door meeting after they voted to check his war powers regarding Iran. This clash highlights significant internal divisions within the Republican Party and raises questions about the balance of power between the executive and legislative branches concerning foreign policy and military action, potentially impacting future US foreign policy decisions. The heated discussion specifically targeted Senator Bill Cassidy and other Republicans who had supported a resolution aimed at curbing the President's authority to initiate military action against Iran without congressional approval.
+President Trump had a lengthy and angry exchange with Senate Republicans, notably Senator Bill Cassidy, during a closed-door meeting regarding their votes to limit his war powers concerning Iran. This clash highlights significant internal divisions within the Republican Party regarding presidential war powers and foreign policy, potentially impacting governance and U.S. international relations concerning Iran. The heated exchange specifically involved Senator Bill Cassidy of Louisiana and other Republican senators who voted to assert congressional authority over the president's ability to commit military forces.
 
 rss · 紐約時報 政治 · Jun 24, 21:38
 
-**Background**: The War Powers Resolution of 1973 is a federal law intended to check the U.S. president's power to commit the United States to an armed conflict without the consent of the U.S. Congress. Congress passed this resolution in the wake of the Vietnam War to ensure that both chambers have a say in military engagements, requiring the president to notify Congress within 48 hours of committing armed forces to military action and forbidding armed forces from remaining for more than 60 days without congressional authorization or a declaration of war. In this context, the Senate had previously approved a war powers resolution aimed at blocking U.S. military action against Iran, marking a rare instance where both chambers of Congress approved such a measure to instruct a president to end military action.
+**Background**: The War Powers Resolution of 1973 is a federal law designed to limit the U.S. president's ability to commit the country to armed conflict without congressional approval. It mandates that the president notify Congress within 48 hours of deploying armed forces and restricts such deployments to 60 days unless Congress provides authorization or declares war. This resolution was enacted to ensure legislative branch involvement in military decisions, overriding a presidential veto.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://apnews.com/article/senate-iran-war-powers-resolution-trump-7462a9a561103f531d995aac91f9fc96">Senate is set to vote again on a war powers resolution to halt the Iran ...</a></li>
-<li><a href="https://www.bbc.com/news/articles/ce8j6g3v3r4o">US Senate passes war powers measure, rebuking Trump's war with Iran</a></li>
+<li><a href="https://en.wikipedia.org/wiki/War_Powers_Resolution">War Powers Resolution</a></li>
 
 </ul>
 </details>
@@ -302,154 +281,112 @@ rss · 紐約時報 政治 · Jun 24, 21:38
 ---
 
 <a id="item-14"></a>
-## [Micron Reports Record Q3 Earnings, Forecasts HBM Shortage Until 2028](https://news.cnyes.com/news/id/6511272) ⭐️ 9.0/10
+## [Micron Reports Record Earnings, HBM Shortage Expected Until 2028](https://news.cnyes.com/news/id/6511272) ⭐️ 9.0/10
 
-Micron reported record-breaking third-quarter earnings, with revenue increasing over three times and profit surging twelve-fold, largely driven by a 6.5-fold increase in its AI data center business. The company also upgraded its financial outlook, forecasting that High Bandwidth Memory (HBM) supply shortages will persist beyond 2027, with overall memory supply tightness only gradually improving by 2028. This forecast signals a critical bottleneck for the rapidly expanding AI industry and the broader technology sector, indicating that the demand for specialized memory components like HBM continues to outstrip supply. The prolonged shortage could impact the pace of AI development and deployment, affecting various industries reliant on advanced computing infrastructure. Micron's financial results significantly surpassed Wall Street's expectations, with the company's post-market stock price briefly surging over 16% following the announcement. The strong performance highlights the increasing importance of memory solutions for AI and data center applications.
+Micron reported record-breaking Q3 earnings, significantly surpassing Wall Street expectations, with its AI data center business revenue surging 6.5 times. The company's management also revised its financial outlook upwards and projected that High Bandwidth Memory (HBM) supply shortages will persist beyond 2027, with overall memory supply tightness only gradually improving by 2028. This news highlights the immense demand for high-performance memory, particularly HBM, driven by the booming AI industry, indicating a critical and prolonged bottleneck in the semiconductor supply chain. The extended shortage forecast underscores the strategic importance of HBM for AI development and could lead to sustained high prices and increased investment in memory production. Micron's revenue, profit, and gross margin all reached new highs, leading to a post-market stock price surge of over 16% following the announcement. The company's strong performance is largely attributed to the robust demand from the AI sector, which continues to drive innovation and investment in advanced memory solutions.
 
 rss · 鉅亨網 (財經) · Jun 24, 23:49
 
-**Background**: High Bandwidth Memory (HBM) is an advanced type of computer memory interface for 3D-stacked synchronous dynamic random-access memory (SDRAM) that provides significantly higher bandwidth and lower power consumption compared to traditional DRAM. It is crucial for high-performance computing applications, especially in AI accelerators and GPUs, where rapid data transfer between the processor and memory is essential for handling complex workloads.
+**Background**: High Bandwidth Memory (HBM) is a type of 3D-stacked memory architecture designed to provide significantly higher bandwidth and lower power consumption compared to traditional DRAM. It achieves this by vertically stacking multiple DRAM chips using through-silicon vias (TSVs), enabling massive data throughput crucial for modern accelerators like GPUs used in AI data centers. HBM is essential for feeding the thousands of GPU cores with the vast amounts of data required for complex AI computations, addressing a critical engineering bottleneck in high-performance computing.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://newsroom.lamresearch.com/high-bandwidth-memory-explained-semi-101">High Bandwidth Memory (HBM) Explained</a></li>
+<li><a href="https://blog.kistacklab.com/en/article/hbm-memory-explained/">HBM Explained : Why High Bandwidth Memory ... | Kistack Blog</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Technology`, `#Semiconductors`, `#AI`, `#Business`, `#Global Economy`
+**Tags**: `#Semiconductors`, `#AI`, `#Supply Chain`, `#Earnings`, `#Technology`
 
 ---
 
 <a id="item-15"></a>
-## [Nvidia CEO Prioritizes National Security, Warns Against Chip Smuggling](https://news.cnyes.com/news/id/6511244) ⭐️ 9.0/10
+## [NVIDIA CEO Jensen Huang Prioritizes National Security Over Business](https://news.cnyes.com/news/id/6511244) ⭐️ 9.0/10
 
-Nvidia CEO Jensen Huang announced to shareholders that the company will prioritize U.S. national security over commercial opportunities and warned that attempts to smuggle Nvidia chips to export-controlled countries like China would result in operational failures. This statement from a major AI chip manufacturer's CEO clarifies Nvidia's stance amid U.S.-China tech tensions, reinforcing the impact of export controls on global AI development and supply chains. It signals a firm commitment to U.S. policy, potentially affecting Nvidia's market strategy and the technological advancement of countries under restrictions. Huang specifically mentioned that systems built with smuggled chips would not function properly, implying technical safeguards or a lack of necessary support for unauthorized use. This warning underscores the technical and logistical challenges of circumventing export controls, beyond just legal repercussions.
+NVIDIA CEO Jensen Huang announced that the company will prioritize U.S. national security when business opportunities conflict with national interests, specifically warning that smuggled chips to export-controlled nations like China would be non-functional. This statement from a leading tech CEO underscores the increasing tension between global business and national security interests, potentially impacting the trajectory of AI development, international trade policies, and US-China geopolitical relations. Huang specifically warned that any attempt to build AI data centers using smuggled NVIDIA chips in export-controlled regions would be "a dead end" because the systems would not operate correctly.
 
 rss · 鉅亨網 (財經) · Jun 24, 23:30
 
-**Background**: The U.S. government has imposed extensive export controls on advanced computing and semiconductor technology, primarily targeting China, to limit its access to advanced AI chips and manufacturing capabilities. These controls aim to restrict China's ability to develop sophisticated AI applications and military technologies, creating a complex geopolitical landscape for companies like Nvidia.
+**Background**: The U.S. government has implemented strict export controls on advanced AI chips to China, aiming to curb China's technological advancements and address national security concerns. These controls have created a bottleneck for China's AI development efforts and have impacted companies like NVIDIA, which are caught between business opportunities and compliance with U.S. regulations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors">United States export controls on AI chips and semiconductors</a></li>
-<li><a href="https://en.wikipedia.org/wiki/United_States_New_Export_Controls_on_Advanced_Computing_and_Semiconductors_to_China">United States New Export Controls on Advanced Computing and Semiconductors to China - Wikipedia</a></li>
+<li><a href="https://www.bbc.com/news/articles/cedy6gl99eno">Nvidia, the chip giant caught between the US and China</a></li>
+<li><a href="https://www.bizmartai.co/ai-for-finance-investing/744/us-rules-chip-bottleneck-china-ai/">US Rules Create Chip Bottleneck for China 's AI Push - BizmartAI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Technology`, `#Geopolitics`, `#AI`, `#Business`, `#US-China Relations`
+**Tags**: `#Technology`, `#Geopolitics`, `#US-China Relations`, `#AI Chips`, `#Export Controls`
 
 ---
 
 <a id="item-16"></a>
-## [Strait of Hormuz Reopens, Brent Crude Falls to Pre-Conflict Lows](https://news.cnyes.com/news/id/6511134) ⭐️ 9.0/10
+## [Strait of Hormuz Reopens, Oil Prices Fall to Pre-Conflict Lows, Brent Down Over 4%](https://news.cnyes.com/news/id/6511134) ⭐️ 9.0/10
 
-An interim agreement between the US and Iran has facilitated the reopening of the Strait of Hormuz, leading to a significant increase in Middle Eastern crude oil supply and causing Brent crude prices to fall over 4% to pre-conflict levels. This shift marks a transition in market focus from geopolitical risks to fundamental supply and demand dynamics. The reopening of the Strait of Hormuz is crucial as it is a vital global oil transit chokepoint, directly impacting international oil prices and affecting economies and consumers worldwide. This development signals a stabilization of Middle Eastern energy supplies and could lead to reduced global energy costs. Brent crude oil prices have fallen by over 4%, reaching levels seen before the Iran conflict, as the market's primary concern has shifted from geopolitical instability to the pressures of increased supply and slowing demand. This indicates a significant recalibration of risk premiums previously embedded in oil prices.
+International oil prices, including Brent crude, have sharply fallen to pre-conflict levels as the Strait of Hormuz resumes normal shipping operations following a US-Iran interim agreement, leading to a rapid return of Middle Eastern oil supply to the market. This development is significant as it shifts the global oil market's focus from geopolitical risks to fundamental supply and demand dynamics, potentially leading to lower energy costs and impacting global economic stability. Brent crude oil prices have fallen over 4% to levels seen before the Iran conflict, with the market now primarily concerned with increased supply and slowing demand rather than geopolitical tensions. The interim agreement between the US and Iran reportedly includes a 60-day ceasefire extension and plans to formalize terms.
 
 rss · 鉅亨網 (財經) · Jun 24, 21:34
 
-**Background**: The Strait of Hormuz is a critical maritime chokepoint located between the Persian Gulf and the Gulf of Oman, through which a substantial portion of the world's seaborne oil passes daily. The recent "2026 Iran war," initiated by the United States and Israel, had previously led to disruptions or closure of this strait, causing significant global oil supply concerns and driving up prices. The interim US-Iran agreement mentioned in the news is a resolution to this conflict, facilitating the strait's reopening.
+**Background**: The Strait of Hormuz is a crucial maritime chokepoint connecting the Persian Gulf to the open ocean, through which a significant portion of the world's oil supply passes daily. Recent tensions, including US-Israel attacks on Iran and Iran's subsequent effective blockade of the strait, had previously disrupted shipping and heightened geopolitical risks, impacting global oil prices.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war">2026 Iran war - Wikipedia</a></li>
+<li><a href="https://thefactum.ai/articles/a79400e4-c068-409e-9939-df026d1bf8cd">US - Iran Interim Deal Reopens Strait of Hormuz ... — The Factum</a></li>
+<li><a href="https://www.bbc.com/news/articles/c78n6p09pzno">Iran war: What is the Strait of Hormuz and why does it matter?</a></li>
+<li><a href="https://www.aljazeera.com/news/2026/3/1/how-us-israel-attacks-on-iran-threaten-the-strait-of-hormuz-oil-markets">How US-Israel attacks on Iran threaten the Strait of Hormuz , oil ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Economy`, `#Energy`, `#Geopolitics`, `#Oil Prices`, `#Middle East`
+**Tags**: `#Energy`, `#Oil Prices`, `#Geopolitics`, `#Economy`, `#International Trade`
 
 ---
 
 <a id="item-17"></a>
-## [Alphabet Joins Dow Jones Industrial Average, Replacing Verizon](https://news.cnyes.com/news/id/6511221) ⭐️ 9.0/10
+## [Alphabet Joins Dow Jones Index, Replacing Verizon Amid AI Shift](https://news.cnyes.com/news/id/6511221) ⭐️ 9.0/10
 
-Alphabet, the parent company of Google, is officially joining the Dow Jones Industrial Average, replacing telecommunications giant Verizon as one of the 30 blue-chip stocks. This marks the most notable component adjustment for the index in nearly two years. This inclusion signifies a major shift in the U.S. economy's focus towards artificial intelligence, cloud computing, and digital services, reflecting the growing influence of technology giants. It allows a tech company with a market capitalization exceeding $4 trillion to join a century-old blue-chip club. Alphabet, with a market capitalization exceeding $4 trillion, is now officially part of the prestigious Dow Jones Industrial Average, a move that underscores the ongoing transformation of the American economic landscape. This change highlights the increasing importance of technology and digital services in the global economy.
+Alphabet, Google's parent company, is set to replace Verizon in the Dow Jones Industrial Average, marking the index's most significant component adjustment in nearly two years. This change reflects a broader economic shift in the U.S. towards artificial intelligence, cloud computing, and digital services, solidifying the position of a trillion-dollar tech giant within the prestigious blue-chip index. Alphabet, with a market capitalization exceeding $4 trillion, will officially join the century-old blue-chip club, highlighting the growing influence of major technology companies in the global economy.
 
 rss · 鉅亨網 (財經) · Jun 24, 20:37
 
-**Background**: The Dow Jones Industrial Average (DJIA) is one of the oldest and most widely recognized stock market indexes, tracking 30 significant publicly owned companies traded on the New York Stock Exchange and NASDAQ. A "blue-chip stock" refers to a nationally recognized, well-established, and financially sound company with a history of strong earnings and stable growth.
+**Background**: The Dow Jones Industrial Average is a stock market index that tracks 30 large, publicly-owned companies trading on the New York Stock Exchange and NASDAQ. It is one of the oldest and most commonly used indicators of the overall health of the U.S. stock market, with its component companies often referred to as "blue-chip stocks" due to their size, stability, and long-standing reputation.
 
-**Tags**: `#Economy`, `#Technology`, `#Stock Market`, `#Artificial Intelligence`, `#Business`
+**Tags**: `#Economy`, `#Technology`, `#Stock Market`, `#Alphabet (Google)`, `#Artificial Intelligence`
 
 ---
 
 <a id="item-18"></a>
-## [Lin-Manuel Miranda's 'Warriors' Musical to Debut on Broadway Next Spring](https://www.nytimes.com/2026/06/23/theater/warriors-broadway-lin-manuel-miranda.html) ⭐️ 9.0/10
+## [Ockenden Report Exposes 'Toxic' Maternity Care Failures at Nottingham NHS Trust](https://www.theguardian.com/society/live/2026/jun/24/ockenden-maternity-review-nottingham-university-hospitals-trust-nhs-latest-news-updates) ⭐️ 9.0/10
 
-Lin-Manuel Miranda is co-writing his first musical since "Hamilton," titled "Warriors," with Eisa Davis, and it is set to debut on Broadway next spring, specifically in March 2027 at the Lunt-Fontanne Theatre. This announcement is highly significant for the cultural sphere and Broadway, as it marks Lin-Manuel Miranda's first new musical since the globally impactful "Hamilton," promising to attract widespread public and industry attention. The musical is co-written with Eisa Davis, an acclaimed playwright and Pulitzer Prize finalist, and is based on the 1979 cult action film "The Warriors" and its 1965 novel counterpart; a concept album for the musical was already released in October 2024.
+The Ockenden report has revealed widespread failures and 'toxic' maternity care at Nottingham University Hospitals Trust, leading to hundreds of deaths and harm to mothers and babies. Affected families are now demanding a full public inquiry into the scandal. This report highlights a major public health scandal in the UK, exposing systemic failures within NHS maternity services that have devastating real-world impacts on families. It raises critical questions about healthcare standards, accountability, and patient safety, underscoring the urgent need for reforms to prevent future tragedies and restore public trust. The review found "significant or major concerns in care" in 21% of cases where mothers died, 26% of major obstetric hemorrhages, 36% of unplanned maternal intensive care admissions, 20% of stillbirths, and 50% of cases involving hypoxic brain injury in babies. These findings indicate that different or better care might have altered the outcomes in many of these tragic incidents.
 
-rss · 紐約時報 文化藝術 · Jun 23, 20:47
+rss · 衛報 社會 · Jun 24, 13:57
 
-**Background**: Lin-Manuel Miranda is a celebrated American composer, lyricist, and actor, best known for creating the Broadway hit "Hamilton," which revolutionized musical theater with its blend of hip-hop and historical narrative. "The Warriors" is a 1979 American action thriller film, based on Sol Yurick's 1965 novel, depicting a New York City gang's perilous journey home after being framed for a rival gang leader's murder. Eisa Davis is an award-winning American playwright, actress, and singer-songwriter, recognized for her diverse works and as a Pulitzer Prize finalist for her play "Bulrusher."
+**Background**: The Ockenden report refers to independent reviews of maternity services in the UK, initially focusing on the Shrewsbury and Telford Hospital NHS Trust, which uncovered neglect and harm to mothers and babies. These reviews have consistently highlighted systemic issues, including the unintended harm from imposing 'normal' birth targets. A public inquiry is an official investigation ordered by a government body to examine matters of "public concern," conducted by an independent body with powers to gather evidence and establish facts for the public record.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Eisa_Davis">Eisa Davis - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Warriors_(Lin-Manuel_Miranda_and_Eisa_Davis_album)">Warriors (Lin-Manuel Miranda and Eisa Davis album) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/The_Warriors_(film)">The Warriors ( film ) - Wikipedia</a></li>
+<li><a href="https://www.arccosts.co.uk/legal-news/ockenden-report-neglect-found-in-review-of-maternity-services/">Ockenden Report : Neglect Found in Review of Maternity Services</a></li>
+<li><a href="https://www.itv.com/news/central/2022-03-27/whats-the-ockenden-report-and-how-many-baby-deaths-did-it-investigate">What is the Ockenden report and how many baby... | ITV News Central</a></li>
+<li><a href="https://www.instituteforgovernment.org.uk/explainer/public-inquiries">Public inquiries | Institute for Government</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Culture`, `#Broadway`, `#Musical Theater`, `#Lin-Manuel Miranda`, `#Entertainment`
+**Tags**: `#Healthcare`, `#Public Health`, `#UK Politics`, `#Maternity Care`, `#NHS`
 
 ---
 
 <a id="item-19"></a>
-## [Nottingham NHS Maternity Failings Spark Public Inquiry Calls](https://www.theguardian.com/society/2026/jun/24/horrific-maternity-care-failings-at-nottingham-nhs-trust-prompt-calls-for-public-inquiry) ⭐️ 9.0/10
+## [Scientists Search for Unknown Animal Reservoir of Bundibugyo Ebola Virus](https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html) ⭐️ 9.0/10
 
-A three-year independent review has revealed "horrific" maternity care failings at Nottingham University Hospitals (NUH) NHS Trust, where 520 mothers and babies suffered "potentially avoidable" harm or death, prompting calls for a nationwide public inquiry into maternity care in England. This is a significant public health scandal in the UK, highlighting systemic failures within the NHS maternity care system that led to tragic and preventable outcomes for hundreds of families, and could lead to a broader overhaul of maternity services across England. The review found a "bullying and toxic culture" at NUH, where senior leaders ignored repeated warnings about serious problems, staff displayed a culture of not admitting women in labor, and both maternity units were consistently short-staffed. Disturbingly, one baby who died was inadvertently disposed of as clinical waste after postmortem, adding to parental distress.
-
-rss · 衛報 社會 · Jun 24, 19:18
-
-**Background**: Nottingham University Hospitals NHS Trust (NUH) is one of England's largest acute teaching trusts, providing acute and specialist services to millions in Nottingham and the surrounding areas. The independent review was led by senior midwife Donna Ockenden, who previously conducted a similar review into Shrewsbury and Telford Hospital Trust. A public inquiry is an official government-ordered review of events or actions, often with statutory powers to gather evidence, aimed at establishing facts and accountability for the public record.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Nottingham_University_Hospitals_NHS_Trust">Nottingham University Hospitals NHS Trust</a></li>
-<li><a href="https://www.ockendenmaternityreview.org.uk/">Ockenden Maternity Review - Ockenden Review</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Public_inquiry">Public inquiry - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Healthcare`, `#Public Health`, `#UK Politics`, `#Social Issues`, `#Maternity Care`
-
----
-
-<a id="item-20"></a>
-## [Ockenden Report Reveals 'Toxic' Maternity Care Failures at Nottingham Hospitals](https://www.theguardian.com/society/live/2026/jun/24/ockenden-maternity-review-nottingham-university-hospitals-trust-nhs-latest-news-updates) ⭐️ 9.0/10
-
-The Ockenden report has been released, detailing systemic failures and 'toxic' maternity care at Nottingham University Hospitals Trust, which led to hundreds of deaths and harms to mothers and babies. Following these findings, affected families are now demanding a public inquiry into the scandal. This report is highly significant as it exposes severe systemic issues within the NHS maternity services, potentially leading to widespread policy changes and increased accountability for healthcare providers. It profoundly impacts public trust in the healthcare system and highlights the urgent need for improved patient safety. The review found significant or major concerns in a substantial percentage of cases, including 21% of maternal deaths, 36% of unplanned maternal intensive care admissions, and 50% of cases where babies suffered hypoxic brain injury. These statistics indicate a pattern of preventable harm that could have been avoided with different or better care.
-
-rss · 衛報 社會 · Jun 24, 13:57
-
-**Background**: Donna Ockenden is a respected British midwife with over 35 years of experience, known for chairing independent reviews into maternity services, including a previous major inquiry at Shrewsbury and Telford Hospital NHS Trust. The Ockenden report is an independent review into maternity services at Nottingham University Hospitals (NUH) NHS Trust, initiated after hundreds of baby deaths and injuries. A public inquiry in the UK is an independent investigation set up by a government minister to examine matters of significant public concern, establish facts, determine accountability, and learn lessons to prevent future occurrences.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Donna_Ockenden">Donna Ockenden - Wikipedia</a></li>
-<li><a href="https://www.bbc.com/news/articles/cyr7em4323mo">The story behind the largest maternity review in the NHS - BBC</a></li>
-<li><a href="https://www.instituteforgovernment.org.uk/explainer/public-inquiries">Public inquiries - Institute for Government</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Public Health`, `#Healthcare Policy`, `#Social Issues`, `#UK Politics`, `#Maternity Care`
-
----
-
-<a id="item-21"></a>
-## [Scientists Still Seek Bundibugyo Ebola Virus Animal Reservoir](https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html) ⭐️ 9.0/10
-
-Scientists continue their efforts to identify the specific animal species that serves as the natural reservoir for the Bundibugyo Ebola virus, a strain responsible for recent human outbreaks including one in 2026. This ongoing search highlights the persistent challenge in understanding the virus's origin and preventing its transmission to humans. Pinpointing the animal reservoir is critical for developing effective strategies to predict, prevent, and control future Ebola outbreaks, thereby safeguarding global public health and reducing the devastating impact of this deadly disease. Understanding the source allows for targeted interventions to minimize spillover events from animals to humans. The Bundibugyo virus, first identified in Uganda in 2007, is a highly dangerous pathogen categorized as a WHO Risk Group 4 and has caused significant outbreaks in 2007, 2012, and 2026. Despite its severity, the primary animal host where it naturally persists remains unknown, hindering prevention efforts.
+Scientists are actively searching for the unidentified animal species that acts as the natural reservoir for the Bundibugyo Ebola virus, which periodically transmits to humans, despite its discovery in 2007. Identifying this animal reservoir is crucial for understanding the virus's origin, preventing future outbreaks, and developing targeted public health strategies to protect global populations from this severe viral hemorrhagic fever. The Bundibugyo virus (BDBV) is a species of ebolavirus closely related to Zaire ebolavirus, first discovered in Uganda in 2007, and has caused significant outbreaks in 2007, 2012, and 2026.
 
 rss · 紐約時報 健康 · Jun 24, 15:04
 
-**Background**: A natural reservoir is an animal population or environment where a pathogen, like a virus, can live and reproduce without causing disease in the host, but from which it can occasionally "spill over" and infect humans. For many zoonotic viruses, including Ebola, bats are frequently implicated as potential natural reservoirs due to their unique immune systems and ability to host multiple viruses. Identifying these reservoirs is crucial for understanding disease ecology and preventing future outbreaks.
+**Background**: A natural reservoir is the primary host of a pathogen in the natural environment, often an animal species, where the pathogen can live and multiply without causing disease in the host, but can then spill over to other species, including humans. Bats are frequently identified as natural reservoirs for various zoonotic viruses, including different strains of Ebola, Marburg, and SARS.
 
 <details><summary>References</summary>
 <ul>
@@ -459,92 +396,207 @@ rss · 紐約時報 健康 · Jun 24, 15:04
 </ul>
 </details>
 
-**Tags**: `#Ebola`, `#Public Health`, `#Virology`, `#Science`, `#Disease Prevention`
+**Tags**: `#Public Health`, `#Virology`, `#Infectious Disease`, `#Science`, `#Global Health`
+
+---
+
+<a id="item-20"></a>
+## [Milder Ebola Symptoms Pose New Challenge for Disease Containment](https://www.nytimes.com/2026/06/23/health/ebola-symptoms-death-rate.html) ⭐️ 9.0/10
+
+The current Ebola outbreak is exhibiting milder symptoms compared to previous outbreaks, which is a positive development for individual patients. While beneficial for patients, these milder symptoms significantly complicate public health efforts to detect and contain the disease, potentially leading to wider, undetected spread and impacting global health security. Public health officials are concerned that the reduced severity of symptoms will make it harder to identify infected individuals, hindering containment strategies and potentially prolonging the outbreak.
+
+rss · 紐約時報 健康 · Jun 23, 15:31
+
+**Background**: Ebola is a severe, often fatal illness caused by orthoebolaviruses, known for causing serious illness that can lead to death without treatment. Outbreaks typically involve rapid, severe symptom onset, making detection and isolation crucial for containment. The current outbreak's first known case was identified on April 24, suggesting undetected spread for weeks prior.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.cdc.gov/ebola/about/index.html">Ebola Disease Basics | Ebola | CDC</a></li>
+<li><a href="https://www.bbc.com/news/articles/cz72p75zg4qo">What is Ebola , how does it spread and why is DR Congo outbreak an...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Health`, `#Ebola`, `#Public Health`, `#Disease Outbreak`, `#Global Health`
+
+---
+
+<a id="item-21"></a>
+## [Generic Cystic Fibrosis Drug from Bangladesh Offers Global Lifeline](https://www.nytimes.com/2026/06/22/health/cystic-fibrosis-drug-triko-trikafta.html) ⭐️ 9.0/10
+
+A generic version of a breakthrough cystic fibrosis drug, manufactured in Bangladesh, is now available at a significantly lower price than the original American medication. This development provides a crucial lifeline to patients worldwide who previously could not afford the life-saving treatment. This generic drug significantly improves access to a vital treatment for cystic fibrosis, addressing critical issues of drug affordability and health equity on a global scale. It demonstrates how intellectual property flexibilities can impact public health outcomes for serious genetic conditions. The availability of this generic drug leverages a "loophole" related to international intellectual property agreements, allowing Bangladesh to produce the medication at a fraction of the cost. This enables patients in many countries to access a drug that was previously out of reach due to its high price.
+
+rss · 紐約時報 健康 · Jun 23, 22:24
+
+**Background**: The WTO Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement) includes public health flexibilities, allowing member states to tailor their national patent laws to address public health needs. Bangladesh's patent law, based on the 1911 Patent and Designs Act, has historically allowed for certain manufacturing conditions that facilitate generic drug production, particularly as a Least Developed Country (LDC) with extended transition periods for TRIPS compliance.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.southcentre.int/wp-content/uploads/2022/06/RP158_Twenty-Years-After-Doha.-An-Analysis-of-the-Use-of-the-TRIPS-Agreements-Public-Health-Flexibilities-in-India_EN.pdf">An Analysis of the Use of the TRIPS</a></li>
+<li><a href="https://www.researchgate.net/publication/372724201_Twenty_Years_After_Doha_An_Analysis_of_the_Use_of_the_TRIPS_Agreement's_Public_Health_Flexibilities_in_India">(PDF) Twenty Years After Doha: An Analysis of the Use of the TRIPS ...</a></li>
+<li><a href="https://dspace.bracu.ac.bd:8443/xmlui/bitstream/handle/10361/3220/13274025.pdf?sequence=1&isAllowed=y">Pharmaceutical Sector of Bangladesh</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Health`, `#Pharmaceuticals`, `#Global Health`, `#Cystic Fibrosis`, `#Drug Access`
 
 ---
 
 <a id="item-22"></a>
-## [Milder Ebola Symptoms Pose New Challenges for Disease Control](https://www.nytimes.com/2026/06/23/health/ebola-symptoms-death-rate.html) ⭐️ 9.0/10
+## [Taiwan Housing Market Sees Nine-Year Low in Buyer Activity Amid New Home Surge](https://finance.technews.tw/2026/06/25/taiwan-housing-market-more-houses-built-fewer-buyers-25-5-decline-nine-year-low/) ⭐️ 9.0/10
 
-The current Ebola outbreak is reportedly presenting with milder symptoms compared to previous outbreaks, which is a positive development for affected patients. While milder symptoms are beneficial for individual patients, public health officials are concerned this change could significantly complicate efforts to identify, track, and contain the disease's spread, potentially leading to a wider outbreak. The perceived mildness of symptoms, while improving patient outcomes, creates a paradox where the reduced severity makes it harder for health authorities to detect cases early and implement effective containment strategies.
+Taiwan's Ministry of Interior reported a significant downturn in the housing market, with buyer activity decreasing by 25.5% year-on-year to a nine-year low in 2025, despite a substantial increase in newly completed and registered properties. This sharp decline in buyer activity, coupled with a surge in new housing supply, signals potential oversupply and weakening demand, which could lead to price corrections, financial instability for developers, and broader economic concerns for Taiwan. The data, released by the Ministry of Interior on the 20th, highlights that the number of first-time building registrations (representing newly completed homes) has risen significantly, indicating a growing inventory of available properties.
 
-rss · 紐約時報 健康 · Jun 23, 15:31
+rss · 科技新報 TechNews · Jun 24, 23:40
 
-**Background**: Ebola is a severe and often fatal viral hemorrhagic fever known for its high mortality rate and rapid spread through direct contact with bodily fluids. Historically, its distinct and severe symptoms have aided public health efforts in quickly identifying and isolating infected individuals to prevent wider transmission.
+**Background**: The Ministry of Interior (內政部) in Taiwan is a cabinet-level government agency responsible for various domestic affairs, including land administration, housing policies, and the collection of real estate statistics. "建物所有權登記統計" (building ownership registration statistics) refers to the official records of newly registered property titles, which reflect the number of completed and legally recognized housing units.
 
-**Tags**: `#Health`, `#Ebola`, `#Public Health`, `#Infectious Disease`, `#Disease Control`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.moi.gov.tw/english/">Ministry of the Interior</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Taiwan`, `#Housing Market`, `#Economy`, `#Real Estate`, `#Economic Downturn`
 
 ---
 
 <a id="item-23"></a>
-## [John Carmack Reflects on Early id Software Mistakes, Overworking Employees](https://twitter.com/ID_AA_Carmack/status/2069799283369345247) ⭐️ 8.0/10
+## [Qualcomm Launches Dragonfly C1000 Data Center CPU, Partners Meta, Acquires Modular AI](https://finance.technews.tw/2026/06/25/dragonfly/) ⭐️ 9.0/10
 
-Legendary programmer John Carmack recently reflected on his early mistakes at id Software, specifically acknowledging that he pushed employees too hard and failed to recognize the need for more relaxed intensity as the company matured. This reflection sparked a discussion on Hacker News, delving into id Software's history and company culture. Carmack's candid admission offers valuable lessons on leadership and company culture, particularly for the tech and gaming industries, highlighting the long-term impact of intense startup environments on employee well-being and creative output. His insights are crucial for understanding the balance between innovation and sustainable team management. Carmack specifically noted his failure to appreciate that maturing companies require "more slack" and that maintaining "startup intensity constantly will wear them out," a sentiment echoed by community members as valuable wisdom for many companies. The discussion also touched upon the creative exodus from id Software after Doom 2 and the perceived shift in the company's "industry pushing" energy after Quake III Arena.
+Qualcomm has unveiled its new Dragonfly C1000 data center CPU, specifically designed for agent-based AI, and announced a partnership with Meta, which will deploy the chip across its facilities starting in 2028. Concurrently, Qualcomm has acquired AI startup Modular to bolster its capabilities in the data center market. This move marks Qualcomm's significant entry into the lucrative data center CPU market, directly challenging established players and signaling a major shift in the competitive landscape for AI infrastructure. The strategic partnership with Meta and the acquisition of Modular position Qualcomm to become a key provider of specialized AI computing solutions. The Dragonfly C1000 utilizes a custom Oryon core architecture, optimized for high core performance and frequencies exceeding 5 GHz, specifically targeting superior performance in scalable agentic AI workloads. Qualcomm intends to offer various C1000 variants for different applications, including general-purpose computing and AI head-node tasks.
 
-hackernews · shadowtree · Jun 24, 15:56 · [Discussion](https://news.ycombinator.com/item?id=48661825)
+rss · 科技新報 TechNews · Jun 24, 23:27
 
-**Background**: John Carmack is a highly influential American game programmer and co-founder of id Software, a company renowned for pioneering 3D first-person shooter (FPS) games like Doom and Quake. id Software's early success was largely attributed to its groundbreaking game engines and innovative technology, which often came at the cost of intense "crunch time" development cycles.
+**Background**: A data center CPU is a central processing unit specifically designed for servers within large-scale data centers, handling various computational tasks. Agent-based AI refers to autonomous systems or programs that can perform tasks on behalf of users, often requiring access to diverse data sources to complete their objectives. Modular AI is an infrastructure startup co-founded by former Apple and Google engineers, known for raising significant funding to develop software solutions aimed at challenging Nvidia's strong position in the AI computing market.
 
-**Discussion**: The community discussion largely agreed with Carmack's self-reflection, with some members providing additional context on the experiences of other id Software employees like Sandy Petersen and debating whether the groundbreaking success of Quake justified the company's internal struggles. There was also a sentiment that id Software's creative output declined after its early successes, shifting from artistic achievement to purely technical feats.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://wccftech.com/qualcomm-single-core-leadership-first-server-cpu-dragonfly-c1000-250-cores-5-ghz-2028/">Qualcomm Claims Single-Core Leadership for Its First Server CPU...</a></li>
+<li><a href="https://www.ibm.com/think/topics/ai-agents">What Are AI Agents ? | IBM</a></li>
+<li><a href="https://www.aol.com/articles/ai-startup-modular-raises-250-160943691.html">AI startup Modular raises $250 million, seeks to challenge Nvidia...</a></li>
 
-**Tags**: `#Gaming Industry`, `#Company Culture`, `#Leadership`, `#Software Development`, `#History of Tech`
+</ul>
+</details>
+
+**Tags**: `#Qualcomm`, `#AI`, `#Data Center`, `#CPU`, `#Mergers & Acquisitions`
 
 ---
 
 <a id="item-24"></a>
-## [Nub: A Bun-like All-in-One Toolkit for Node.js Enhances Developer Experience](https://github.com/nubjs/nub) ⭐️ 8.0/10
+## [OpenAI Unveils Custom AI Inference Chip 'Jalapeño' with Broadcom and TSMC](https://technews.tw/2026/06/24/openai-and-broadcom-unveil-llm-optimized-inference-chip/) ⭐️ 9.0/10
 
-Nub, a new all-in-one toolkit for Node.js, has been released by Zod's creator, Colin McDonnell, offering a Bun-like integrated developer experience with features such as an oxc-powered transpiler and polyfills. It runs on Node.js's native engine, augmented via a `--require` preload hook. This toolkit is significant for the JavaScript/Node.js ecosystem as it offers a streamlined, all-in-one approach akin to Bun, potentially enhancing developer experience and performance without replacing Node.js's core engine. It provides a compelling option for developers seeking integrated tooling while retaining the stability and ecosystem of Node.js. Nub operates by augmenting the standard `node` runtime with a `--require` preload hook, which integrates an oxc-powered transpiler as a Node-API add-on, registers a module resolution hook, and injects necessary polyfills for modern APIs. The creator, Colin McDonnell, is known for Zod and previously worked at Bun, lending significant credibility to the project.
+OpenAI officially unveiled its first custom AI inference chip, named "Jalapeño," on June 24, which was designed in collaboration with Broadcom and is slated for manufacturing by TSMC. This strategic move signifies OpenAI's push towards vertical integration in the AI industry, aiming to enhance performance, efficiency, and scalability of its AI systems while potentially reducing operational costs and intensifying competition in the AI hardware market. The "Jalapeño" chip is specifically optimized for Large Language Model (LLM) inference workloads, marking it as OpenAI's first intelligence processor and part of a planned multi-generation compute platform.
 
-hackernews · colinmcd · Jun 24, 14:14 · [Discussion](https://news.ycombinator.com/item?id=48660267)
+rss · 科技新報 TechNews · Jun 24, 15:34
 
-**Background**: Bun is a fast, all-in-one JavaScript runtime, package manager, and test runner that uses Safari's JavaScriptCore engine, contrasting with Node.js's V8 engine, and is known for its integrated tooling. A transpiler, like the oxc-powered one in Nub, converts modern JavaScript or TypeScript code into a format compatible with the target runtime, while polyfills provide implementations for newer web APIs in environments that lack native support. Node.js's `--require` preload hook allows developers to execute a module before the main application starts, enabling custom modifications or enhancements to the runtime environment.
+**Background**: AI inference chips are specialized hardware components, often Application-Specific Integrated Circuits (ASICs), designed for the high-speed calculations required to run trained AI models and generate outputs efficiently. Unlike training chips, which build the models, inference chips focus on deploying them. Vertical integration in the AI industry refers to a company controlling multiple stages of its product's supply chain, from hardware design to software and services, aiming for greater efficiency, cost control, and performance optimization.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Bun_(software)">Bun (software) - Wikipedia</a></li>
-<li><a href="https://oxc.rs/">The JavaScript Oxidation Compiler</a></li>
+<li><a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/">OpenAI and Broadcom unveil LLM-optimized inference chip | OpenAI</a></li>
+<li><a href="https://www.datacenterdynamics.com/en/news/openai-and-broadcom-unveil-jalapeño-intelligence-processor-for-llm-inference/">OpenAI and Broadcom unveil ' Jalapeño ' Intelligence Processor for...</a></li>
+<li><a href="https://www.linkedin.com/pulse/how-ai-inference-chip-works-one-simple-flow-2025-building-vbvzf">How AI Inference Chip Works — In One Simple Flow (2025)</a></li>
+<li><a href="https://www.linkedin.com/pulse/vertical-integration-ai-x-xai-join-forces-more-lwl9c">Vertical Integration In AI : X And xAI Join Forces, & More</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community expressed amusement over the name "Nub" and largely positive sentiment, highlighting the creator's strong background and the toolkit's appealing developer experience. Some technical questions arose regarding the necessity of a transpiler for TypeScript and the choice of `--require` for ESM support, while one user reported a successful and fast monorepo migration.
-
-**Tags**: `#Node.js`, `#JavaScript`, `#Developer Tools`, `#Web Development`, `#Open Source`
+**Tags**: `#AI Hardware`, `#OpenAI`, `#Semiconductors`, `#Technology`, `#Business Strategy`
 
 ---
 
 <a id="item-25"></a>
-## [Manhattan Borough President Allocates $50 Million to NYC Arts Groups](https://www.nytimes.com/2026/06/23/arts/design/nyc-arts-funding-manhattan-borough-president.html) ⭐️ 8.0/10
+## [John Carmack Reflects on Past Management Mistakes at id Software](https://twitter.com/ID_AA_Carmack/status/2069799283369345247) ⭐️ 8.0/10
 
-Manhattan Borough President Brad Hoylman-Sigal has dedicated the borough's entire $50 million discretionary budget to cultural projects. This decision aims to send a message to President Trump regarding the importance of arts funding. This significant investment in New York City's cultural sector highlights the crucial role of arts funding in a major cultural hub and could influence broader discussions on national arts policy. It also underscores the political dimension of local budget allocations, particularly when framed as a direct message to federal leadership. The $50 million allocation represents the entirety of the borough's discretionary budget, specifically targeting cultural projects. The explicit motivation behind this funding is political, intended as a direct statement to President Trump about the necessity of arts funding.
+John Carmack, co-founder of id Software and a legendary game developer, publicly reflected on his past management mistakes, specifically admitting he pushed employees too hard and failed to recognize the need for more flexibility as the company matured. This reflection from an iconic figure provides crucial lessons on leadership, company culture, and employee well-being, offering valuable insights for startups and growing tech companies on balancing intense innovation with sustainable work environments. Carmack specifically stated that he "pushed everyone too hard" and "didn’t appreciate how maturing companies need more slack," acknowledging that "running people at startup intensity constantly will wear them out." This admission has sparked a broader discussion about the trade-offs between creating groundbreaking games and fostering a healthy work-life balance.
 
-rss · 紐約時報 文化藝術 · Jun 23, 16:01
+hackernews · shadowtree · Jun 24, 15:56 · [Discussion](https://news.ycombinator.com/item?id=48661825)
 
-**Background**: A borough president in New York City is an elected official who serves as an advocate for their borough, overseeing local services and advising on citywide policy. Discretionary budgets are funds that local officials can allocate at their own discretion, often used for community projects or initiatives they deem important.
+**Background**: id Software is an American video game developer renowned for pioneering the first-person shooter (FPS) genre with iconic titles such as Doom and Quake. John Carmack, a co-founder and lead programmer, is celebrated for his groundbreaking technical innovations in game engines that significantly advanced 3D graphics and gameplay.
 
-**Tags**: `#Arts & Culture`, `#Local Politics`, `#New York City`, `#Funding`, `#Cultural Policy`
+**Discussion**: The community discussion highlights the personal impact of Carmack's intensity on former employees like Sandy Petersen, debates whether the creation of iconic games like Quake justified the demanding work environment, and observes a perceived decline in id Software's innovative energy after Quake III Arena and Doom 3. Many commenters agree that Carmack's wisdom about company maturity and employee burnout is relevant for many businesses today.
+
+**Tags**: `#Game Development`, `#Leadership`, `#Company Culture`, `#Tech History`, `#Management Lessons`
 
 ---
 
 <a id="item-26"></a>
-## [Lin-Manuel Miranda's "The Warriors" Musical Heads to Broadway](https://www.theguardian.com/stage/2026/jun/24/the-warriors-broadway-with-lin-manuel-miranda-musical) ⭐️ 8.0/10
+## [Sonia Boyce Exhibits Community-Connected Art in New York](https://www.nytimes.com/2026/06/24/arts/design/sonia-boyce-queens-museum-art.html) ⭐️ 8.0/10
 
-Lin-Manuel Miranda and Eisa Davis's critically acclaimed 2024 concept album, "Warriors," based on the 1979 cult film and 1965 novel "The Warriors," is set to be adapted into a Broadway musical next year. This is a significant cultural announcement, as a new Broadway musical by Lin-Manuel Miranda, a highly influential figure in contemporary theater, is a major event in the arts world, potentially attracting a broad audience and new theatrical interpretations of a cult classic. The musical will be co-directed by Jenny Koons and Andy Blankenbuehler, known for his choreography in "Hamilton," with the original story by Sol Yurick being inspired by Xenophon’s ancient epic "Anabasis."
+British artist Sonia Boyce is currently showcasing her community-connected art, which aims to foster play and solidarity, at prominent New York locations including the Queens Museum and Times Square. This exhibition is significant as it highlights the work of Sonia Boyce, a prominent contemporary artist known for her community-engaged practices, offering valuable insight into socially relevant artistic expressions for a broad audience. Boyce's art is characterized by its intimate connection to community, aiming to create moments for play and solidarity among participants and viewers. Her exhibitions span diverse public spaces, from traditional museums to iconic urban landmarks.
 
-rss · 衛報 文化 · Jun 24, 13:01
+rss · 紐約時報 文化藝術 · Jun 24, 09:01
 
-**Background**: Sol Yurick's 1965 novel "The Warriors" explores themes of urban life and youth gangs in New York City, drawing inspiration from Xenophon's "Anabasis," an ancient Greek historical narrative about a mercenary army's arduous retreat through hostile territory. The novel was later adapted into a popular 1979 action film, which depicted a Coney Island gang's perilous journey back home after being framed for a rival leader's murder.
+**Background**: Sonia Boyce is a distinguished British Afro-Caribbean artist and educator, recognized for her interdisciplinary approach encompassing film, drawing, photography, and installations. She is known for her community-engaged art, often exploring themes of identity, race, and gender through collaborative processes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/The_Warriors_(Yurick_novel)">The Warriors (Yurick novel) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Sol_Yurick">Sol Yurick - Wikipedia</a></li>
-<li><a href="https://grokipedia.com/page/anabasis_the_march_up_country_(book)">Anabasis: The March Up Country (book)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sonia_Boyce">Sonia Boyce - Wikipedia</a></li>
+<li><a href="https://www.timessquarenyc.org/artists/sonia-boyce">Sonia Boyce</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Broadway`, `#Musical Theater`, `#Lin-Manuel Miranda`, `#Culture`, `#Arts`
+**Tags**: `#Arts`, `#Culture`, `#Community Art`, `#Exhibitions`, `#New York`
+
+---
+
+<a id="item-27"></a>
+## [Clive Davis and Whitney Houston: A Story of Success and Tragedy](https://www.nytimes.com/2026/06/23/arts/music/clive-davis-whitney-houston.html) ⭐️ 8.0/10
+
+The article delves into the successful yet controversial and tragic professional relationship between record industry titan Clive Davis and global music phenomenon Whitney Houston, detailing their journey from her rise to global stardom and the controversies that arose. This analysis is significant as it sheds light on the dynamics of a pivotal partnership that shaped a music icon's career, offering insights into the music industry's triumphs and challenges. The article specifically highlights how Davis guided Houston from a young talent to a worldwide phenomenon, acknowledging the immense success alongside the inherent controversies and tragic elements of their story.
+
+rss · 紐約時報 文化藝術 · Jun 24, 16:30
+
+**Background**: Clive Davis is a legendary American record producer and music executive, known for discovering and nurturing numerous iconic artists throughout his career. Whitney Houston was an American singer and actress, widely regarded as one of the greatest vocalists of all time, whose career was marked by immense success but also personal struggles and a tragic early death.
+
+**Tags**: `#Music Industry`, `#Biography`, `#Culture`, `#Entertainment`
+
+---
+
+<a id="item-28"></a>
+## [Lin-Manuel Miranda's 'Warriors' Musical Set for Broadway Debut Next Spring](https://www.nytimes.com/2026/06/23/theater/warriors-broadway-lin-manuel-miranda.html) ⭐️ 8.0/10
+
+Lin-Manuel Miranda, known for "Hamilton," is co-writing a new musical titled "Warriors" with Eisa Davis, based on the classic film and novel, which is scheduled to premiere on Broadway next spring. This marks his first major musical project since the highly successful "Hamilton." This musical is highly anticipated as it represents Lin-Manuel Miranda's return to Broadway with a new major work, potentially setting new trends in contemporary theater and attracting significant public and critical attention. Its success could further solidify his influence in the arts and entertainment industry. The musical is co-written by Miranda and Eisa Davis, an accomplished American playwright and musician, and is based on Sol Yurick's 1965 novel and Walter Hill's 1979 film adaptation, both titled "The Warriors." A musical concept album based on the film was previously produced by Miranda and Davis in October 2024.
+
+rss · 紐約時報 文化藝術 · Jun 23, 20:47
+
+**Background**: Lin-Manuel Miranda is an acclaimed American composer, lyricist, playwright, and actor, best known for creating the Broadway musicals "In the Heights" and the groundbreaking "Hamilton," which revolutionized musical theater with its hip-hop-infused storytelling of American history. "The Warriors" is a 1979 American action thriller film, based on a 1965 novel, depicting a New York City gang's perilous journey back to their home turf after being framed for the murder of a rival gang leader. Eisa Davis is an accomplished American playwright, actress, and musician, known for her linguistically rich works and her connection to political activist Angela Davis.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/The_Warriors_(film)">The Warriors ( film ) - Wikipedia</a></li>
+<li><a href="https://www.ebsco.com/research-starters/biography/eisa-davis">Eisa Davis | Biography | Research Starters | EBSCO Research</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Culture`, `#Theater`, `#Broadway`, `#Lin-Manuel Miranda`, `#Musical`
+
+---
+
+<a id="item-29"></a>
+## [RubyLLM: A Unified Ruby Framework for Major AI Providers](https://rubyllm.com/) ⭐️ 7.0/10
+
+RubyLLM has emerged as a new Ruby framework that offers a unified interface for integrating with major AI providers like GPT, Claude, and Ollama, simplifying AI development for Ruby developers. This framework is significant because it lowers the barrier for Ruby developers to access and utilize powerful large language models (LLMs), fostering innovation and accelerating AI integration within the Ruby ecosystem. Developers praise RubyLLM for its usability and flexibility, though some challenges have been noted regarding caching for specific providers like xAI, native support for certain responses API features, and difficulties with observability and tracing. It relies on just three core dependencies: Faraday, Zeitwerk, and Marcel.
+
+hackernews · doener · Jun 24, 14:41 · [Discussion](https://news.ycombinator.com/item?id=48660711)
+
+**Background**: A Ruby framework is a set of pre-written code and tools that provide a foundation for building applications using the Ruby programming language. Major AI providers, such as OpenAI (GPT), Anthropic (Claude), and open-source models (Ollama), offer access to their large language models (LLMs) through Application Programming Interfaces (APIs). RubyLLM creates a unified interface, allowing developers to interact with these diverse AI services using a consistent set of commands and structures, rather than learning each provider's specific SDK.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://rubyllm.com/">RubyLLM | One beautiful Ruby framework for all major AI providers.</a></li>
+<li><a href="https://medium.com/@raviskit2012/rubyllm-the-ruby-gem-that-makes-ai-feel-right-at-home-a34a1d18def4">RubyLLM : The Ruby Gem That Makes AI Feel Right at Home | Medium</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community generally praises RubyLLM for its usability and flexibility, with some developers finding it surprisingly good and easy to use. However, common concerns include issues with caching for specific AI providers like xAI, difficulties with true trace observability, and initial limitations regarding native support for certain responses API features. One developer also questioned its advantage over directly using a provider's SDK for single-provider setups.
+
+**Tags**: `#AI`, `#Ruby`, `#Frameworks`, `#Software Development`, `#LLM`
 
 ---

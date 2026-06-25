@@ -5,205 +5,196 @@ date: 2026-06-25
 lang: zh
 ---
 
-> 從 340 則內容中篩選出 26 則重要資訊。
+> 從 380 則內容中篩選出 29 則重要資訊。
 
 ---
 
-1. [聯合國報告指控以色列在停火後對加薩兒童進行種族滅絕](#item-1) ⭐️ 10.0/10
-2. [諾丁漢 NHS 產科醜聞報告揭露逾 500 名母嬰受害](#item-2) ⭐️ 10.0/10
-3. [化療藥物短缺引發癌症患者配給擔憂](#item-3) ⭐️ 10.0/10
-4. [OpenAI 發表與博通合作開發的首款客製化 AI 推論晶片](#item-4) ⭐️ 9.0/10
-5. [中國 AI 短劇迅速取代真人演員，主導熱門內容](#item-5) ⭐️ 9.0/10
-6. [聯合國擬撤離霍爾木茲海峽萬名滯留船員；盧比歐警告伊朗勿收費](#item-6) ⭐️ 9.0/10
-7. [阿里巴巴控告美國國防部列其為「中國軍工企業」](#item-7) ⭐️ 9.0/10
-8. [中國短劇產業因 AI 應用面臨大規模失業潮](#item-8) ⭐️ 9.0/10
-9. [英國首相施紀賢在贏得大選後不到兩年被迫辭職](#item-9) ⭐️ 9.0/10
-10. [紐約選舉結果顯示對以色列的支持度下降](#item-10) ⭐️ 9.0/10
-11. [民主黨基層支持左翼候選人 領導層呼籲溫和路線](#item-11) ⭐️ 9.0/10
-12. [聯邦上訴小組駁回川普收集州選民資料的請求](#item-12) ⭐️ 9.0/10
-13. [川普因伊朗戰爭權力與參議院共和黨人爆發衝突](#item-13) ⭐️ 9.0/10
-14. [美光第三季財報創紀錄，預估 HBM 缺貨將持續至 2028 年](#item-14) ⭐️ 9.0/10
-15. [黃仁勳：輝達優先考量國家安全，警告走私晶片是死路](#item-15) ⭐️ 9.0/10
-16. [荷姆茲海峽復航，布蘭特原油跌至戰前低點](#item-16) ⭐️ 9.0/10
-17. [Alphabet 入列道瓊指數，取代 Verizon](#item-17) ⭐️ 9.0/10
-18. [林-曼努爾·米蘭達新作《戰士幫》音樂劇將於明年春天登上百老匯](#item-18) ⭐️ 9.0/10
-19. [諾丁漢 NHS 產科失職引發公開調查呼籲](#item-19) ⭐️ 9.0/10
-20. [奧肯登報告揭露諾丁漢醫院「毒性」產科照護失職](#item-20) ⭐️ 9.0/10
-21. [科學家仍在尋找邦迪布焦伊波拉病毒的動物宿主](#item-21) ⭐️ 9.0/10
-22. [伊波拉病毒症狀趨緩恐增疾病控制難度](#item-22) ⭐️ 9.0/10
-23. [John Carmack 反思 id Software 早期錯誤，包括過度壓榨員工](#item-23) ⭐️ 8.0/10
-24. [Nub：類似 Bun 的 Node.js 一體化工具包提升開發者體驗](#item-24) ⭐️ 8.0/10
-25. [曼哈頓區長撥款五千萬美元支持紐約市藝術團體](#item-25) ⭐️ 8.0/10
-26. [林-曼努爾·米蘭達的《戰士幫》音樂劇將登上百老匯](#item-26) ⭐️ 8.0/10
+1. [諾丁漢 NHS 產科醜聞致 520 起傷害/死亡，引發公眾調查呼籲](#item-1) ⭐️ 10.0/10
+2. [報告揭露諾丁漢 NHS 信託醫院逾 500 名母嬰受害](#item-2) ⭐️ 10.0/10
+3. [OpenAI 發表首款與博通合作開發的客製化 AI 推論晶片](#item-3) ⭐️ 9.0/10
+4. [中國 AI 短劇主導市場，真人演員迅速被淘汰](#item-4) ⭐️ 9.0/10
+5. [聯合國擬撤離荷莫茲海峽滯留船員；盧比奧警告伊朗勿收費](#item-5) ⭐️ 9.0/10
+6. [英國十年內第六位首相離任，政治動盪原因何在？](#item-6) ⭐️ 9.0/10
+7. [阿里巴巴狀告美國國防部駁斥「軍工企業」指控](#item-7) ⭐️ 9.0/10
+8. [AI 引發中國短劇產業失業潮](#item-8) ⭐️ 9.0/10
+9. [英國首相施紀賢在壓倒性勝選後不到兩年辭職](#item-9) ⭐️ 9.0/10
+10. [紐約選舉結果顯示美國對以色列支持度下降](#item-10) ⭐️ 9.0/10
+11. [民主黨領導層尋求溫和，基層選民傾向進步立場](#item-11) ⭐️ 9.0/10
+12. [聯邦上訴法院駁回川普司法部收集州投票數據的努力](#item-12) ⭐️ 9.0/10
+13. [川普因伊朗戰爭權限與共和黨參議員激烈衝突](#item-13) ⭐️ 9.0/10
+14. [美光財報創紀錄，HBM 短缺預計延續至 2028 年](#item-14) ⭐️ 9.0/10
+15. [輝達執行長黃仁勳：國家安全優先於商業利益](#item-15) ⭐️ 9.0/10
+16. [荷姆茲海峽恢復通航，原油價格跌至戰前低點，布蘭特原油挫逾 4%](#item-16) ⭐️ 9.0/10
+17. [Alphabet 入列道瓊指數取代 Verizon，反映 AI 時代經濟轉型](#item-17) ⭐️ 9.0/10
+18. [Ockenden 報告揭露諾丁漢國民保健署醫院「毒性」產科照護失誤](#item-18) ⭐️ 9.0/10
+19. [科學家尋找邦迪布焦伊波拉病毒的未知動物宿主](#item-19) ⭐️ 9.0/10
+20. [伊波拉病毒症狀趨緩，為疾病控制帶來新挑戰](#item-20) ⭐️ 9.0/10
+21. [孟加拉國學名藥為全球囊狀纖維化病患帶來生機](#item-21) ⭐️ 9.0/10
+22. [台灣房市買氣創九年新低，新屋完工量大增](#item-22) ⭐️ 9.0/10
+23. [高通推出 Dragonfly C1000 資料中心 CPU，與 Meta 合作並收購 AI 新創 Modular](#item-23) ⭐️ 9.0/10
+24. [OpenAI 攜手博通、台積電發表客製化 AI 推理晶片「Jalapeño」](#item-24) ⭐️ 9.0/10
+25. [約翰·卡馬克反思在 id Software 的早期管理錯誤](#item-25) ⭐️ 8.0/10
+26. [索尼婭·博伊斯在紐約展出社群連結藝術](#item-26) ⭐️ 8.0/10
+27. [克萊夫·戴維斯與惠妮·休斯頓：成功與悲劇交織的故事](#item-27) ⭐️ 8.0/10
+28. [林-曼努爾·米蘭達新作《戰士幫》音樂劇明年春季登陸百老匯](#item-28) ⭐️ 8.0/10
+29. [RubyLLM：一個整合主要 AI 供應商的 Ruby 框架](#item-29) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [聯合國報告指控以色列在停火後對加薩兒童進行種族滅絕](https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html) ⭐️ 10.0/10
+## [諾丁漢 NHS 產科醜聞致 520 起傷害/死亡，引發公眾調查呼籲](https://www.theguardian.com/society/2026/jun/24/horrific-maternity-care-failings-at-nottingham-nhs-trust-prompt-calls-for-public-inquiry) ⭐️ 10.0/10
 
-一份聯合國報告指控以色列在停火後對加薩兒童的殺戮構成種族滅絕，以色列駐聯合國代表團則強烈駁斥此指控為「誹謗性騙局」，並稱該調查委員會為「根本有缺陷的機制」。 這份來自聯合國調查委員會的報告具有巨大的國際重要性，可能透過增加對以色列的壓力，影響國際法、人權以及持續中的以巴衝突。 該委員會的調查結果特別強調停火後對兒童的殺戮，這是在其先前報告的基礎上提出的，該報告曾認定以色列在加薩犯下種族滅絕罪，且以色列官員煽動這些行為，同時也認定哈瑪斯犯下戰爭罪。
+一項為期三年的獨立審查揭露了諾丁漢大學醫院國民保健署（NHS）歷史上最大的分娩醜聞，其中 520 名母親和嬰兒因「霸凌和有毒文化」以及被忽視的警告而遭受「可能可避免的」傷害或死亡。這份嚴厲的報告引發了對英格蘭各地產科照護進行公開調查的廣泛呼籲。 這起醜聞凸顯了國民保健署（NHS）內部在病患安全和問責制方面的嚴重系統性失職，影響了數百個家庭，並侵蝕了公眾對關鍵醫療服務的信任。要求進行全國性公開調查的呼籲，強調了迫切需要解決產科照護中根深蒂固的問題，以防止未來在英國各地發生類似悲劇。 審查發現，444 名女性和 76 名新生兒遭受了「可能可避免的」後果，將這些失職歸因於「霸凌和有毒文化」、長期人手不足，以及高層領導一再忽視警告的模式。令人不安的是，一名在懷孕早期死亡的女嬰被實驗室人員「不慎作為醫療廢棄物處理」，加劇了其父母的悲痛。
 
-rss · 紐約時報 國際 · 6月24日 15:35
+rss · 衛報 社會 · 6月24日 19:18
 
-**背景**: 聯合國加薩問題調查委員會，其正式名稱為「關於包括東耶路撒冷在內的被佔領巴勒斯坦領土和以色列的獨立國際調查委員會」，一直在審查該地區違反國際法的行為。在此報告之前，該委員會已認定以色列安全部隊在加薩犯下危害人類罪和戰爭罪，且哈瑪斯及其他巴勒斯坦武裝團體於 2023 年 10 月 7 日犯下戰爭罪。
+**背景**: 國民保健署（NHS）是英國的公共資助醫療系統，為所有居民提供全面的醫療照護。在英國，公開調查是由政府部長召集的一項重大調查，旨在審查重大事故、災難或醜聞，以查明事實並提出改進建議。唐娜·奧肯登（Donna Ockenden）審查則是一項獨立調查，專門負責審查諾丁漢大學醫院國民保健署信託基金會（Nottingham University Hospitals NHS Trust）產科服務中令人嚴重關切的案件。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://www.theguardian.com/world/2026/jun/23/israel-deliberately-targeting-gaza-children-to-commit-genocide-un-inquiry-finds">Israel continues to commit genocide by targeting children in Gaza , UN ...</a></li>
-<li><a href="https://www.bbc.com/news/articles/c8641wv0n4go">Israel has committed genocide in Gaza , UN commission of inquiry says</a></li>
-<li><a href="https://trendsmena.com/geostrategy/un-investigators-say-israel-committing-genocide-in-gaza/">UN investigators : Israel committing genocide in Gaza to 'destroy the...</a></li>
+<li><a href="https://www.ockendenmaternityreview.org.uk/">Ockenden Maternity Review</a></li>
+<li><a href="https://www.gov.uk/government/publications/ockenden-review-into-maternity-services-at-nottingham-university-hospitals-nhs-trust-final-report">Ockenden review into maternity services at Nottingham University ...</a></li>
+<li><a href="https://www.milnerslaw.co.uk/how-does-a-public-inquiry-work/">How does a public inquiry work? - Milners</a></li>
 
 </ul>
 </details>
 
-**標籤**: `#International Affairs`, `#Human Rights`, `#Middle East Conflict`, `#Genocide`, `#United Nations`
+**標籤**: `#Healthcare`, `#NHS`, `#Maternity Care`, `#Public Health`, `#Patient Safety`
 
 ---
 
 <a id="item-2"></a>
-## [諾丁漢 NHS 產科醜聞報告揭露逾 500 名母嬰受害](https://www.theguardian.com/news/audio/2026/jun/24/mothers-babies-died-nottingham-maternity-scandal-ockenden-report-the-latest) ⭐️ 10.0/10
+## [報告揭露諾丁漢 NHS 信託醫院逾 500 名母嬰受害](https://www.theguardian.com/news/audio/2026/jun/24/mothers-babies-died-nottingham-maternity-scandal-ockenden-report-the-latest) ⭐️ 10.0/10
 
-由資深助產士唐娜·奧肯登（Donna Ockenden）領導的一份新報告揭露，諾丁漢大學醫院 NHS 信託基金會因護理不足、有毒文化、人手短缺及種族歧視，導致超過 500 名母親和嬰兒死亡或受害。這項審查是 NHS 史上規模最大的產科調查，匯集了 2,500 個家庭和 800 多名員工的意見。 這起醜聞凸顯了英國國家醫療服務體系（NHS）在病患安全和醫療治理方面的系統性失靈，引發了對問責制、員工培訓以及機構文化對弱勢病患影響的嚴峻質疑。它強調了全面改革的迫切性，以防止類似悲劇再次發生並重建公眾對產科服務的信任。 該審查發現，諾丁漢大學醫院 NHS 信託基金會對婦女的擔憂存在「輕視態度」，且「霸凌和有毒文化」持續多年，阻礙了改善護理的努力。這並非唐娜·奧肯登首次進行重大產科審查，她此前曾主持對什魯斯伯里和特爾福德醫院 NHS 信託基金會產科服務的獨立審查。
+由資深助產士 Donna Ockenden 主導的一份新報告揭露，諾丁漢大學醫院 NHS 信託基金會因照護不當、有毒文化和種族主義，導致超過 500 名母親和嬰兒死亡或受害。這項發現標誌著 NHS 史上最大的產科照護醜聞，凸顯了該機構內部的系統性失誤。 這項醜聞意義深遠，它不僅侵蝕了公眾對醫療體系的信任，更要求 NHS 內部緊急重新評估病患安全協議和問責制度。它強調了進行系統性改革的迫切性，以防止未來悲劇發生，並確保所有人都能獲得公平、高品質的產科照護。 該審查特別指出，對女性擔憂的輕視態度、嚴重的人員短缺，以及普遍存在的有毒文化（包括種族主義事件），都是造成廣泛傷害的關鍵因素。這些問題顯示出根深蒂固的組織性問題，而非孤立事件。
 
 rss · 衛報 社會 · 6月24日 16:35
 
-**背景**: 國家醫療服務體系（NHS）是英國公共資助的醫療保健系統，為所有居民提供全面的醫療服務。由於對諾丁漢大學醫院 NHS 信託基金會（NUH）產科服務品質和安全的嚴重擔憂，NHS 英格蘭於 2022 年 5 月成立了奧肯登產科審查，取代了先前的區域性審查。唐娜·奧肯登是一位資深助產士，以領導英國產科護理失誤的重大獨立審查而聞名。
+**背景**: 英國國民保健署（NHS）是英國的公共資助醫療系統，為所有合法居民提供全面的醫療保健服務。Donna Ockenden 是一位備受尊敬的英國助產士和獨立審查員，她曾主導多項針對產科服務失誤的調查，其中最著名的是對什魯斯伯里和特爾福德醫院 NHS 信託基金會的審查。她的專業知識對於揭露醫療信託機構內的系統性問題至關重要。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://www.mirror.co.uk/news/uk-news/ockenden-review-nottingham-nhs-live-37339477">Nottingham NHS scandal updates: Hundreds of mums and babies ...</a></li>
-<li><a href="https://www.theguardian.com/society/live/2026/jun/24/ockenden-maternity-review-nottingham-university-hospitals-trust-nhs-latest-news-updates">Ockenden report, as it happened: families call for public inquiry and say babies treated with ‘absence of dignity’ | NHS | The Guardian</a></li>
-<li><a href="https://www.ockendenmaternityreview.org.uk/">Ockenden Maternity Review - Ockenden Review</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Donna_Ockenden">Donna Ockenden</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nottingham_University_Hospitals_NHS_Trust">Nottingham University Hospitals NHS Trust</a></li>
 
 </ul>
 </details>
 
-**標籤**: `#Healthcare`, `#Public Health`, `#Maternity Care`, `#NHS`, `#Scandal`
+**標籤**: `#Public Health`, `#Healthcare Scandal`, `#NHS`, `#Maternity Care`, `#Social Issues`
 
 ---
 
 <a id="item-3"></a>
-## [化療藥物短缺引發癌症患者配給擔憂](https://www.nytimes.com/2026/06/24/health/chemotherapy-drug-shortage.html) ⭐️ 10.0/10
+## [OpenAI 發表首款與博通合作開發的客製化 AI 推論晶片](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) ⭐️ 9.0/10
 
-醫生目前正面臨通用型化療輸液的嚴重短缺和訂單無法滿足的問題，這些藥物對治療多種癌症至關重要，直接引發了癌症患者對治療配給的擔憂。 這種短缺極為重要，因為它直接影響提供標準癌症護理的能力，可能迫使醫生配給治療或使用效果較差的替代方案，從而危及患者的治療結果並引發重大的公共衛生擔憂。 受影響的藥物主要是較舊、已過專利期的通用型注射式癌症藥物，其中包括順鉑、卡鉑、多西他賽、甲氨蝶呤和長春花鹼等核心化療藥物，這些對許多癌症治療方案至關重要。
+OpenAI 正式發表其首款客製化 AI 推論晶片，代號為 Jalapeño，此晶片是與博通（Broadcom）合作開發，旨在提升效率並降低對外部硬體供應商的依賴。 此舉意義重大，使 OpenAI 能更有效地掌控其 AI 基礎設施，有望降低營運成本，提升 ChatGPT 等模型的效能，並減少對如 NVIDIA 等主要晶片製造商的依賴。 這款客製化 AI 推論晶片，代號為 Jalapeño，從設計到生產僅耗時九個月，據稱 OpenAI 運用自家模型加速了部分設計與優化流程，並由台積電（TSMC）負責製造。
 
-rss · 紐約時報 健康 · 6月24日 20:44
+hackernews · jamdesk · 6月24日 17:47 · [社群討論](https://news.ycombinator.com/item?id=48663324)
 
-**背景**: 通用型化療藥物短缺通常源於其低廉的價格和微薄的利潤，這使得製造商缺乏生產動力，特別是對於較舊、已過專利期的版本。美國食品藥物管理局（FDA）則透過監管彈性、長期預防策略和風險管理計畫指南等方式，來識別和緩解這些供應中斷問題。
+**背景**: AI 推論晶片是一種專門設計的處理器，旨在高效執行已訓練的 AI 模型，並在實際應用中對新輸入資料提供快速預測或決策。與專注於訓練 AI 模型的訓練晶片不同，推論晶片優先考慮實際部署的速度和每次查詢的成本，這使其對於聊天機器人和推薦系統等可擴展的 AI 服務至關重要。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://longwayhealth.com/chemotherapy-drug-shortage-impact-on-patient-care">Chemotherapy Drug Shortage Impact on | Longway Health</a></li>
-<li><a href="https://inpracticeoncology.com/insights/oncology-drug-shortages-causes-solutions/">Oncology Drug Shortages : Causes And Solutions</a></li>
-<li><a href="https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages">Drug Shortages | FDA</a></li>
+<li><a href="https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip">OpenAI just announced its first custom chip to help ChatGPT run better | CNN Business</a></li>
+<li><a href="https://www.axios.com/2026/06/24/openai-jalapeno-ai-chip-broadcom-nvidia">OpenAI fires up "Jalapeño," its first homegrown AI chip</a></li>
+<li><a href="https://naddod.medium.com/inference-chip-guide-the-foundation-of-scalable-ai-applications-d18f2c22b36c">Inference Chip Guide: The Foundation of Scalable AI Applications | by NADDOD | Medium</a></li>
 
 </ul>
 </details>
 
-**標籤**: `#Health`, `#Cancer`, `#Drug Shortage`, `#Public Health`, `#Healthcare Policy`
+**社群討論**: 社群成員對 OpenAI 聲稱其模型加速晶片設計的說法表示懷疑，並希望獲得更具體的細節。同時，也有人證實台積電（TSMC）是此晶片的製造商，社群中也討論了 Taalas 等其他晶片架構，並將其與 Google 長期發展的 TPU 進行比較。
+
+**標籤**: `#AI`, `#Hardware`, `#OpenAI`, `#Semiconductors`, `#Technology`
 
 ---
 
 <a id="item-4"></a>
-## [OpenAI 發表與博通合作開發的首款客製化 AI 推論晶片](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) ⭐️ 9.0/10
+## [中國 AI 短劇主導市場，真人演員迅速被淘汰](https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-OpenAI 與博通（Broadcom）合作，發表了其首款代號為「Jalapeño」的客製化 AI 推論晶片，此舉旨在優化效能並降低對外部硬體供應商的依賴。這款晶片從設計到生產僅用了九個月的時間。 這項發展意義重大，因為它讓 OpenAI 能更有效地掌控其硬體堆疊，有望為其大型語言模型帶來約 50% 的顯著成本節省和更高的效率，進而降低對外部 GPU 供應商的依賴。此舉可能重塑 AI 硬體格局，並促使其他主要 AI 業者採取類似的內部晶片策略。 Jalapeño 晶片專為大型語言模型（LLM）的推論工作負載設計，例如驅動 ChatGPT 和 OpenAI API 的應用，且早期實驗室樣本已達到目標頻率。儘管 OpenAI 負責晶片設計，但其製造商是台積電（TSMC），此細節已由社群討論釐清。
+在短短一年內，中國的短劇產業經歷了翻天覆地的變化，AI 生成的內容已佔據最熱門短劇的四成，且產量以幾何級數增長，導致真人演員迅速被淘汰。 此趨勢預示著娛樂產業的重大變革，展現了 AI 在創意領域迅速取代人力的能力，並為 AI 對全球就業和內容製作的影響樹立了先例。 AI 生成的內容目前佔最熱門短劇的四成，製作成本大幅降低至傳統方法的約三分之一，使得一個 AI 團隊能夠製作 20 至 30 部短劇。
 
-hackernews · jamdesk · 6月24日 17:47 · [社群討論](https://news.ycombinator.com/item?id=48663324)
+rss · BBC 中文 (國際) · 6月23日 23:25
 
-**背景**: AI 推論晶片是一種專門的處理器，旨在將經過訓練的 AI 模型（例如大型語言模型）應用於實際應用中。與用於訓練 AI 模型的訓練晶片不同，推論晶片專注於將所學知識應用於新數據，實現聊天機器人回應或個人化推薦等功能。這種專業化設計有助於提高部署 AI 服務的效率並降低營運成本。
+**背景**: 短劇是簡短、系列化的影片內容，通常為行動裝置觀看而設計，在中國獲得巨大成功並正向全球擴展。該產業原本就快速的製作週期和缺乏工會保護的特性，使其特別容易受到 AI 在成本削減和速度方面的優勢影響。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://naddod.medium.com/inference-chip-guide-the-foundation-of-scalable-ai-applications-d18f2c22b36c">Inference Chip Guide: The Foundation of Scalable AI Applications | by NADDOD | Medium</a></li>
-<li><a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/">OpenAI and Broadcom unveil LLM-optimized inference chip | OpenAI</a></li>
-<li><a href="https://digg.com/tech/60qj05iw">OpenAI announces Jalapeño , a custom LLM inference chip ...</a></li>
+<li><a href="https://hellochinatech.com/p/china-470-ai-dramas-a-day">China ’s AI Drama Boom Is Already Producing the Costs of...</a></li>
+<li><a href="https://vitrina.ai/blog/ai-generated-short-drama-production-companies/">Top AI -Generated Short Drama Production Companies</a></li>
 
 </ul>
 </details>
 
-**社群討論**: 社群對 OpenAI 聲稱使用自家模型加速晶片設計的說法表示懷疑，並希望獲得更多細節。討論中也澄清了晶片由台積電製造，並將 OpenAI 的做法與 Google 的 TPU 以及 Taalas 等其他「將模型燒錄到晶片中」的方法進行了比較。
-
-**標籤**: `#AI`, `#Hardware`, `#Semiconductors`, `#OpenAI`, `#Technology`
+**標籤**: `#AI`, `#Entertainment Industry`, `#China`, `#Labor Market`, `#Technology Impact`
 
 ---
 
 <a id="item-5"></a>
-## [中國 AI 短劇迅速取代真人演員，主導熱門內容](https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [聯合國擬撤離荷莫茲海峽滯留船員；盧比奧警告伊朗勿收費](https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-中國短劇產業在短短一年內發生劇烈轉變，AI 製作的內容已佔據最熱門短劇的四成，且產量呈幾何級數增長，導致真人演員被迅速淘汰。 這項發展標誌著 AI 對娛樂產業造成重大且快速的轉變，對就業市場，特別是演員，以及全球創意工作的未來產生深遠影響。在中國這樣龐大的市場中，AI 迅速取代人類人才，為其他產業樹立了先例。 AI 短劇的迅速崛起導致真人演員需求大幅下降，日薪從兩萬元跌至千元仍無戲可拍，超過六成劇組停工，估計約兩百萬個職位受到衝擊。儘管許多演員面臨失業，但也有人正抓住這個由 AI 驅動的娛樂產業轉型所帶來的新商機。
+聯合國國際海事組織（IMO）已宣布計畫撤離超過 1.1 萬名滯留於荷莫茲海峽的船員，同時美國參議員馬可·盧比奧也警告伊朗，不得對這些船員的釋放收取費用。 這項情勢對超過 1.1 萬名船員構成重大人道危機，並突顯荷莫茲海峽作為全球能源貿易關鍵咽喉點的地緣政治重要性。國際社會的介入以及對伊朗的警告，凸顯了區域緊張局勢升級和更廣泛經濟中斷的可能性。 據報導，滯留船員的具體人數超過 1.1 萬名，他們位於關鍵海上通道荷莫茲海峽一帶。盧比奧參議員對伊朗的警告，暗示了對伊朗方面可能就船員釋放提出要求或設置障礙的擔憂。
 
-rss · BBC 中文 (國際) · 6月23日 23:25
+rss · BBC 中文 (國際) · 6月24日 02:56
 
-**背景**: 中國短劇，或稱「短劇」，是一種專業製作的短篇影集，與使用者生成內容不同，通常在兩週內以緊湊的預算完成拍攝。這些短劇常採用免費增值模式，提供前幾集免費觀看，之後則需付費，並因其低成本、高產量的製作模式以及能夠規避傳統內容審查而迅速在中國發展。
+**背景**: 國際海事組織（IMO）是聯合國的一個專門機構，負責規範海上運輸，重點關注航運安全、保安以及防止海洋污染。荷莫茲海峽是一條戰略上至關重要的水道，連接波斯灣與公海，全球很大一部分石油供應都經由此處。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/zh-hant/短剧_(中国)">短劇 (中國) - 維基百科，自由的百科全書</a></li>
-<li><a href="https://www.thenewslens.com/article/262160">中國短劇為何爆發成長？揭秘幕後審核、資本投流與流水線生產 - TNL The News Lens 關鍵評論網</a></li>
+<li><a href="https://en.wikipedia.org/wiki/International_Maritime_Organization">International Maritime Organization - Wikipedia</a></li>
+<li><a href="https://www.imo.org/">International Maritime Organization</a></li>
 
 </ul>
 </details>
 
-**標籤**: `#AI`, `#Entertainment Industry`, `#China`, `#Job Displacement`, `#Technology Impact`
+**標籤**: `#International Affairs`, `#Humanitarian Crisis`, `#Geopolitics`, `#Maritime Security`, `#Middle East`
 
 ---
 
 <a id="item-6"></a>
-## [聯合國擬撤離霍爾木茲海峽萬名滯留船員；盧比歐警告伊朗勿收費](https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [英國十年內第六位首相離任，政治動盪原因何在？](https://www.bbc.com/zhongwen/articles/c33yrvd53ddo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-聯合國國際海事組織（IMO）已宣布一項計畫，將撤離目前滯留在霍爾木茲海峽的逾 1.1 萬名船員。此舉之際，美國參議員馬可·盧比歐（Marco Rubio）也警告伊朗，不得對這些船員的釋放收取任何費用。 這項情勢不僅對數千名海員構成嚴重的人道危機，也凸顯了影響全球關鍵航運咽喉點的嚴峻地緣政治緊張局勢。此問題的解決對於全球海事安全、貿易穩定以及國際關係至關重要，尤其是在美國與伊朗持續的衝突背景下。 國際海事組織的撤離行動將與伊朗、阿曼、其他區域沿海國家、美國以及更廣泛的海事產業密切合作進行，並已確保必要的安全保障。此事件進一步表明，船隻及其船員正日益成為複雜地緣政治爭端中的籌碼。
+施紀賢爵士成為過去十年來第六位離任的英國首相，促使 BBC 國際部記者沃森（Rob Watson）深入剖析英國政治動盪的深層原因。 英國作為七大工業國組織（G7）的重要成員，其領導層頻繁更迭顯示出嚴重的政治不穩定，這可能對國內政策、國際關係以及英國的經濟地位產生深遠影響。 記者沃森的文章旨在解釋導致首相頻繁更迭的各項因素，為讀者提供對英國整體政治格局的深入見解。
 
-rss · BBC 中文 (國際) · 6月24日 02:56
+rss · BBC 中文 (國際) · 6月23日 12:29
 
-**背景**: 霍爾木茲海峽是連接波斯灣與開放海域的戰略要地，全球大部分石油供應都經由該海峽運輸。此區域一直是地緣政治緊張的熱點，特別是美國與伊朗之間，經常導致船隻扣押和航運中斷等海事事件。這些衝突中，船隻和海員常被用作更廣泛國際爭端中的籌碼。
-
-<details><summary>參考連結</summary>
-<ul>
-<li><a href="https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-accounces-evacuation-plan-in-strait-of-hormuz.aspx">IMO announces evacuation plan in the Strait of Hormuz</a></li>
-<li><a href="https://news.un.org/en/story/2026/04/1167383">Chokepoints and conflict: How the Hormuz crisis is exposing ...</a></li>
-
-</ul>
-</details>
-
-**標籤**: `#International Affairs`, `#Humanitarian Crisis`, `#Maritime Security`, `#Geopolitics`, `#Middle East`
+**標籤**: `#UK Politics`, `#Political Instability`, `#International Affairs`, `#Government`, `#Leadership`
 
 ---
 
 <a id="item-7"></a>
-## [阿里巴巴控告美國國防部列其為「中國軍工企業」](https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [阿里巴巴狀告美國國防部駁斥「軍工企業」指控](https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-阿里巴巴已向加州法院提起訴訟，反駁美國國防部將其列入支持中國人民解放軍企業名單的決定，稱此舉「毫無根據」。 這起訴訟凸顯了美中之間不斷升級的地緣政治緊張局勢，並可能對全球主要中國科技公司的營運環境和投資前景產生重大影響。 這家電子商務巨頭明確反駁美國國防部的分類，堅稱將其列入該名單的依據完全是毫無根據的。
+阿里巴巴已向加州法院提起訴訟，控告美國國防部將其列入據稱支持中國人民解放軍的企業名單，並駁斥此指控「毫無根據」。 這家中國科技巨頭對美國政府提出的法律挑戰，凸顯了美中地緣政治緊張局勢的升級，並可能為企業如何回應此類指定樹立先例，進而影響國際商業和投資。 阿里巴巴在提交給加州法院的訴訟文件中明確駁斥美國國防部的指控「毫無根據」，旨在將其從這份具爭議的名單中移除。
 
 rss · BBC 中文 (國際) · 6月24日 03:31
 
-**背景**: 美國國防部根據《2021 財年國防授權法》第 1260H 條的規定，維護一份「中國軍工企業」名單。該名單旨在識別在美國境內直接或間接營運並被認為支持中國軍方的公司，以告知投資者並限制某些交易。
+**背景**: 美國國防部維護一份「中國軍事公司」名單，其中列出了在美國營運或支持中國人民解放軍的實體。這份名單已多次擴大，納入騰訊和寧德時代（CATL）等多家知名中國企業，並可能對供應鏈和美國政府合約產生附帶影響。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://www.war.gov/News/Releases/Release/Article/4023145/dod-releases-list-of-chinese-military-companies-in-accordance-with-section-1260/">DOD Releases List of Chinese Military Companies in Accordance with ...</a></li>
-<li><a href="https://www.federalregister.gov/documents/2026/06/10/2026-11571/notice-of-availability-of-designation-of-chinese-military-companies">Notice of Availability of Designation of Chinese Military Companies</a></li>
+<li><a href="https://www.crowell.com/en/insights/client-alerts/new-year-updated-list-the-us-department-of-defense-updates-its-list-of-chinese-military-companies-with-ancillary-supply-chain-and-usg-contracting-impacts">New Year, Updated List: The U.S. Department of Defense Updates Its List of Chinese Military Companies with Ancillary Supply Chain and USG Contracting Impacts | Crowell & Moring LLP</a></li>
+<li><a href="https://www.morganlewis.com/pubs/2025/01/dods-expanding-list-of-chinese-military-companies">DOD’s Expanding List of Chinese Military Companies</a></li>
 
 </ul>
 </details>
 
-**標籤**: `#Geopolitics`, `#US-China Relations`, `#Business`, `#Lawsuit`, `#Technology`
+**標籤**: `#Geopolitics`, `#US-China Relations`, `#Business Law`, `#Technology`, `#International Affairs`
 
 ---
 
 <a id="item-8"></a>
-## [中國短劇產業因 AI 應用面臨大規模失業潮](https://www.bbc.com/zhongwen/articles/cvgdqjvzv9go/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [AI 引發中國短劇產業失業潮](https://www.bbc.com/zhongwen/articles/cvgdqjvzv9go/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-數以萬計的中國短劇產業演員、導演及製作人員正經歷快速的失業潮，部分從業者甚至在入行賺取豐厚收入後的一兩個月內便面臨下崗，主因是人工智慧工具日益取代了製作環節。 此情況突顯了人工智慧對特定產業就業的即時且廣泛影響，展示了技術進步如何迅速顛覆傳統勞動市場並影響大量勞工的生計。這為全球人工智慧應用所帶來的更廣泛經濟和社會影響提供了一個重要的案例研究。 許多產業專業人士從高收入迅速轉為失業，正如 BBC 報導的個人經歷所詳述，這凸顯了人工智慧融入內容創作的速度和規模。此一顛覆發生在一個龐大的產業中，該產業在 2023 年擁有 6.5 億中國用戶，每天平均在行動平台上花費 45 分鐘。
+AI 技術迅速整合至中國短劇產業，導致數以萬計的演員、導演和製作人員面臨失業潮，這些人過去曾在此產業中獲得豐厚收入。 此發展意義重大，它突顯了 AI 對大型產業就業的迅速且實質性衝擊，影響數萬名從業者，並預示著全球範圍內 AI 導致失業的普遍趨勢。 多位產業從業者向 BBC 中文講述他們的故事，指出從收入豐厚到失業下崗，僅僅只有一兩個月的時間差，顯示 AI 導入速度之快。
 
 rss · BBC 中文 (國際) · 6月23日 02:42
 
-**背景**: 中國短劇產業經歷了爆炸性成長，在 2023 年吸引了 6.5 億用戶，這些用戶每天在行動平台上花費大量時間，尤其是在平日晚上。這個產業涉及製作短篇、通常是系列化的影片內容，傳統上依賴大量的演員、導演和製作人員。該產業在海外擴張方面也取得了強勁成長，人工智慧在其中扮演了一定的角色。
+**背景**: 中國短劇產業，又稱「短劇」或「豎屏劇」，是娛樂產業中快速成長的領域，每年估計產出 12 萬部短篇豎屏劇。截至 2025 年，這個市場價值約 138 億美元，並創造了超過 60 萬個工作機會，成為中國經濟的重要組成部分。這些短劇通常節奏快速，並針對手機觀看進行優化。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://worldmetrics.org/china-short-drama-industry-statistics/">China Short Drama Industry Statistics | Verified 2026 Data</a></li>
-<li><a href="https://www.chinareport.com.cn/R3/5256.html">China’s Overseas Short Drama Industry Booms in 2025, AI and ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Duanju">Duanju - Wikipedia</a></li>
+<li><a href="https://shortdramaalliance.medium.com/short-drama-is-not-vertical-tv-lessons-from-chinas-13-8b-micro-drama-economy-64d4b740a591">Short Drama Is Not Vertical TV, Lessons From China’s $13.8B Micro-Drama Economy | by Short Drama Alliance | Feb, 2026 | Medium</a></li>
 
 </ul>
 </details>
@@ -213,86 +204,74 @@ rss · BBC 中文 (國際) · 6月23日 02:42
 ---
 
 <a id="item-9"></a>
-## [英國首相施紀賢在贏得大選後不到兩年被迫辭職](https://www.bbc.com/zhongwen/articles/c1mypy1yep4o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [英國首相施紀賢在壓倒性勝選後不到兩年辭職](https://www.bbc.com/zhongwen/articles/c1mypy1yep4o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-英國首相施紀賢爵士已辭去職務，距離他在 2024 年大選中帶領其政黨贏得巨大多數優勢不到兩年。 這位 G7 國家首相的辭職是一項重大的政治發展，可能導致領導權之爭，並影響英國的國內外政策。 施紀賢爵士的辭職是在週末關於他政治前途的猜測之後發生的，特別是在安迪·伯納姆（Andy Burnham）獲勝之後，他在辭職演說中為其政府的政績進行了辯護。
+英國首相施紀賢爵士在帶領工黨於 2024 年大選中贏得巨大多數優勢後不到兩年，已辭去首相職務。這次出人意料的離職，標誌著他在人氣下滑後，其首相任期迅速告終。 這項辭職是七大工業國組織（G7）成員國英國的一項重大政治發展，將引發工黨內部領導權之爭，可能導致國家政策和國際關係的重大轉變。它凸顯了現代政治的變幻莫測，即使是最初取得壓倒性勝利的領導人也可能面臨此境。 施紀賢爵士的辭職發生在他於 2024 年 7 月取得壓倒性勝利後，政府人氣大幅下滑，以及對其領導的不滿日益增加。導致他下台的因素包括公眾不滿，以及來自黨內人士（例如蘇格蘭工黨領袖 Anas Sarwar）要求他辭職的呼聲。
 
 rss · BBC 中文 (國際) · 6月23日 00:04
 
-**背景**: 在英國的議會制度中，首相是政府首腦，通常是由在全國大選中贏得最多席位的政黨領袖擔任。「巨大多數優勢」表示獲得了顯著的公眾支持和強大的執政授權，因此在贏得此類勝利後不到兩年辭職是不尋常的。
+**背景**: 施紀賢於 2020 年成為工黨領袖，並在 2024 年大選中帶領該黨贏得巨大多數席位，結束了多年的保守黨執政。然而，他的首相任期面臨挑戰，包括公眾支持率下降，以及對其政府方向和處理各種問題（包括英國在「伊朗戰爭」中的立場）的批評。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://www.bbc.com/news/articles/c0qyllvpkw8o">Why did Keir Starmer resign and what could happen next? - BBC</a></li>
-<li><a href="https://time.com/article/2026/06/22/uk-prime-minister-keir-starmer-resignation-reports-burnham-leadership-potential/">U.K. Prime Minister Keir Starmer Gives Reason For Resignation</a></li>
-<li><a href="https://www.bbc.com/news/articles/cdxd00lg599o">Keir Starmer announces resignation as prime minister and ...</a></li>
+<li><a href="https://www.independent.co.uk/news/uk/politics/starmer-resigns-timeline-elections-labour-leader-b3000989.html">Why did Starmer resign? The key moments of his chaotic two years as prime minister | The Independent</a></li>
+<li><a href="https://www.pbs.org/newshour/world/how-uks-keir-starmer-went-from-election-landslide-to-downfall">How UK's Keir Starmer went from election landslide to downfall | PBS News</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis">2026 Labour Party leadership crisis - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**標籤**: `#Politics`, `#UK`, `#Government`, `#International Affairs`, `#Resignation`
+**標籤**: `#Politics`, `#UK`, `#Government`, `#International Affairs`, `#Leadership`
 
 ---
 
 <a id="item-10"></a>
-## [紐約選舉結果顯示對以色列的支持度下降](https://www.nytimes.com/2026/06/24/us/politics/new-york-elections-israel-support.html) ⭐️ 9.0/10
+## [紐約選舉結果顯示美國對以色列支持度下降](https://www.nytimes.com/2026/06/24/us/politics/new-york-elections-israel-support.html) ⭐️ 9.0/10
 
-紐約最近的選舉結果進一步證明了選民對以色列的公眾支持度顯著下降。這一發展暗示著公眾對長期聯盟關係的看法可能正在轉變。 這一趨勢意義重大，因為公眾輿論的持續轉變可能從根本上改變美國與以色列之間長期而密切的聯盟關係，進而影響國內政治和國際關係。這種變化可能會重塑美國在中東的外交政策。 這篇文章強調，這些紐約選舉結果是持續趨勢的進一步證據，而非孤立事件，暗示著公眾情緒正在發生更廣泛的轉變。文章中並未詳細說明導致這一證據的具體選舉結果。
+紐約最近的選舉結果被解讀為美國國內公眾對以色列支持度持續下降的新證據。這一趨勢暗示著美國民眾對長期盟友關係的看法可能正在轉變。 這種支持度的侵蝕意義重大，因為它可能從根本上重塑美國與以色列的長期聯盟，影響美國的外交政策和中東地區的地緣政治動態。這反映出公眾情緒的廣泛轉變，可能對國際關係產生持久影響。 該文章特別指出紐約的選舉結果是這一廣泛趨勢的具體指標，表明公眾輿論的轉變在政治結果中日益明顯。如果這種模式持續下去，可能會導致雙邊關係發生重大變化。
 
 rss · 紐約時報 政治 · 6月24日 23:46
 
-**背景**: 美國和以色列數十年來一直保持著堅固的戰略聯盟，其特點是重要的軍事、經濟和外交合作。這個聯盟在歷史上一直得到美國兩黨的廣泛支持，因此任何公眾支持的侵蝕都是一個值得關注的發展，可能對外交政策產生長遠影響。
-
-**標籤**: `#US Politics`, `#International Relations`, `#Foreign Policy`, `#Public Opinion`, `#Israel`
+**標籤**: `#US Politics`, `#Foreign Policy`, `#Israel`, `#Elections`, `#Public Opinion`
 
 ---
 
 <a id="item-11"></a>
-## [民主黨基層支持左翼候選人 領導層呼籲溫和路線](https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html) ⭐️ 9.0/10
+## [民主黨領導層尋求溫和，基層選民傾向進步立場](https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html) ⭐️ 9.0/10
 
-近期在紐約，左翼民主黨國會候選人贏得了初選，這與部分黨內領導人呼籲採取更溫和路線以擴大民主黨吸引力的主張形成對比。 這種分歧凸顯了民主黨內部在進步派基層與中間派領導層之間存在著嚴重的路線鬥爭，這可能對未來的政策方向和選舉策略產生深遠影響。 這些勝利特別發生在紐約的民主黨國會初選中，顯示黨內部分選民對更進步的政策有著強烈的偏好。
+紐約州近期左翼民主黨國會候選人的初選勝利，顯示民主黨內部意識形態分歧日益擴大，與部分領導層呼籲採取更溫和政治立場的意見相左。 這種分歧至關重要，因為它可能影響民主黨未來的政策方向、選舉策略以及整體國家政治格局，並可能影響其吸引廣大選民的能力。 這些勝利發生在紐約州，涉及左翼民主黨國會候選人，凸顯了儘管領導層希望採取中間路線，基層運動仍將該黨推向更左翼的趨勢。
 
 rss · 紐約時報 政治 · 6月24日 23:20
 
-**標籤**: `#US Politics`, `#Democratic Party`, `#Primary Elections`, `#Political Strategy`, `#Progressive Movement`
+**標籤**: `#US Politics`, `#Democratic Party`, `#Elections`, `#Political Strategy`, `#Progressive Politics`
 
 ---
 
 <a id="item-12"></a>
-## [聯邦上訴小組駁回川普收集州選民資料的請求](https://www.nytimes.com/2026/06/24/us/politics/trump-voter-rolls-data-ruling.html) ⭐️ 9.0/10
+## [聯邦上訴法院駁回川普司法部收集州投票數據的努力](https://www.nytimes.com/2026/06/24/us/politics/trump-voter-rolls-data-ruling.html) ⭐️ 9.0/10
 
-密西根州的一個三名法官組成的聯邦上訴小組駁回了司法部從各州收集選民資料以識別不合格選民的努力，這對川普政府來說是一次重大的法律挫敗。 這項裁決對選舉公正性及聯邦與州的關係具有重要意義，它強化了各州對其選民名冊的管轄權，並限制了聯邦政府在選民資料收集方面的干預。 上訴小組的這項裁決，代表了對川普政府司法部廣泛推動尋找選民舞弊證據的行動，迄今為止最重大的法律挑戰，批評者認為此舉旨在散播不信任並設置新的投票障礙。
+密西根州的一個三名法官組成的聯邦上訴法院小組發布了一項重要裁決，駁回了前川普政府司法部試圖從各州收集投票數據以找出不合格選民的努力。這項裁決是該特定倡議迄今為止最重大的挫敗。 這項裁決對美國選舉的公正性、各州對選民名冊的自主權，以及聯邦政府與州政府在選舉管理方面的權力平衡具有重大影響。它強調了司法機構在監督行政部門與選舉程序相關行動中的作用。 這項裁決來自密西根州的一個三名法官組成的上訴小組，特別針對川普政府時期司法部透過收集州投票數據來識別不合格選民的努力。這項裁決被描述為迄今為止對該特定倡議最重大的駁回。
 
 rss · 紐約時報 政治 · 6月24日 22:29
 
-**背景**: 川普政府此前曾發布一份法律意見書，主張聯邦政府在審查選民資格方面扮演角色，並為全國性的選民資料收集辯護。這項努力是為了調查所謂的選民舞弊，但法院在相關訴訟中多次駁回了這種立場。
+**背景**: 美國司法部（DOJ）是負責在美國執行法律和管理司法的聯邦行政部門。在川普政府時期，司法部推動了旨在審查選民名冊的倡議，經常引用對選民舞弊的擔憂，這導致了從各州收集詳細投票數據的努力。各州通常管理自己的選民登記和選舉程序，這可能導致與聯邦數據收集嘗試產生潛在衝突。
 
-<details><summary>參考連結</summary>
-<ul>
-<li><a href="https://cyberscoop.com/federal-voter-data-collection-doj-legal-memo/">DOJ releases legal rationale for nationwide voter data collection</a></li>
-<li><a href="https://www.nytimes.com/2026/06/24/us/politics/trump-voter-rolls-data-ruling.html">Federal Appeals Panel Rejects Trump ’s Effort to Gather Voting Data ...</a></li>
-<li><a href="https://www.scworld.com/brief/trump-administrations-voter-data-collection-efforts-face-legal-challenges">Trump administration ’s voter data collection efforts face legal...</a></li>
-
-</ul>
-</details>
-
-**標籤**: `#US Politics`, `#Election Integrity`, `#Legal Ruling`, `#Voter Data`, `#Federal Courts`
+**標籤**: `#US Politics`, `#Election Law`, `#Judiciary`, `#Voter Rolls`, `#Department of Justice`
 
 ---
 
 <a id="item-13"></a>
-## [川普因伊朗戰爭權力與參議院共和黨人爆發衝突](https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html) ⭐️ 9.0/10
+## [川普因伊朗戰爭權限與共和黨參議員激烈衝突](https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html) ⭐️ 9.0/10
 
-川普總統在一場閉門會議中，與參議院共和黨人，包括路易斯安那州參議員比爾·卡西迪，發生了長時間且激烈的爭論，此前這些共和黨人投票限制了他在伊朗問題上的戰爭權力。 這次衝突凸顯了共和黨內部的嚴重分歧，並引發了關於行政和立法部門在外交政策和軍事行動方面權力平衡的疑問，可能影響美國未來的外交政策決策。 這次激烈的討論特別針對了參議員比爾·卡西迪以及其他支持旨在限制總統未經國會批准對伊朗採取軍事行動權力的共和黨人。
+川普總統在一場閉門會議中，就參議員們限制其對伊朗動武權力的投票，與包括路易斯安那州參議員比爾·卡西迪在內的共和黨參議員們進行了長時間且激烈的爭執。 此次衝突凸顯了共和黨內部在總統戰爭權力與外交政策上的嚴重分歧，可能影響美國的治理以及與伊朗相關的國際關係。 這次激烈的爭執特別涉及路易斯安那州參議員比爾·卡西迪，以及其他投票支持國會對總統動武權力行使制衡的共和黨參議員。
 
 rss · 紐約時報 政治 · 6月24日 21:38
 
-**背景**: 1973 年的《戰爭權力決議案》是一項聯邦法律，旨在限制美國總統在未經國會同意下將美國捲入武裝衝突的權力。國會在越南戰爭後通過此決議，以確保國會兩院在軍事行動中擁有發言權，要求總統在派遣武裝部隊參與軍事行動後 48 小時內通知國會，並禁止武裝部隊在沒有國會授權或宣戰的情況下停留超過 60 天。在此背景下，參議院此前已批准一項旨在阻止美國對伊朗採取軍事行動的戰爭權力決議，這標誌著國會兩院批准此類措施以指示總統結束軍事行動的罕見案例。
+**背景**: 1973 年的《戰爭權力決議案》是一項聯邦法律，旨在限制美國總統未經國會批准即將國家捲入武裝衝突的權力。該法案規定總統必須在部署武裝部隊後的 48 小時內通知國會，並限制此類部署在沒有國會授權或宣戰的情況下不得超過 60 天。這項決議案的頒布是為了確保立法部門參與軍事決策，並推翻了當時總統的否決。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://apnews.com/article/senate-iran-war-powers-resolution-trump-7462a9a561103f531d995aac91f9fc96">Senate is set to vote again on a war powers resolution to halt the Iran ...</a></li>
-<li><a href="https://www.bbc.com/news/articles/ce8j6g3v3r4o">US Senate passes war powers measure, rebuking Trump's war with Iran</a></li>
+<li><a href="https://en.wikipedia.org/wiki/War_Powers_Resolution">War Powers Resolution</a></li>
 
 </ul>
 </details>
@@ -302,154 +281,112 @@ rss · 紐約時報 政治 · 6月24日 21:38
 ---
 
 <a id="item-14"></a>
-## [美光第三季財報創紀錄，預估 HBM 缺貨將持續至 2028 年](https://news.cnyes.com/news/id/6511272) ⭐️ 9.0/10
+## [美光財報創紀錄，HBM 短缺預計延續至 2028 年](https://news.cnyes.com/news/id/6511272) ⭐️ 9.0/10
 
-美光公布了創紀錄的第三季財報，營收成長逾三倍，獲利暴增十二倍，主要受惠於其 AI 資料中心業務成長了 6.5 倍。該公司同時上修了財測，並預估高頻寬記憶體 (HBM) 的供應短缺將延續至 2027 年以後，而整體記憶體供應緊張情況最快要到 2028 年才會逐步改善。 這項預測顯示，對於快速擴張的 AI 產業和更廣泛的科技領域來說，這是一個關鍵的瓶頸，表明對 HBM 等特殊記憶體元件的需求持續超過供應。長期短缺可能會影響 AI 開發和部署的速度，進而衝擊依賴先進運算基礎設施的各行各業。 美光的財報表現遠超華爾街預期，消息公布後，其盤後股價一度飆漲逾 16%。這強勁的表現突顯了記憶體解決方案在 AI 和資料中心應用中日益增長的重要性。
+美光公布了創紀錄的第三季財報，遠超華爾街預期，其中 AI 資料中心業務營收暴增 6.5 倍。該公司管理層同步上修財測，並預計高頻寬記憶體（HBM）供應短缺將延續至 2027 年後，整體記憶體供應緊張最快要到 2028 年才會逐步改善。 這則新聞凸顯了蓬勃發展的 AI 產業對高效能記憶體，特別是 HBM 的巨大需求，並指出半導體供應鏈中一個關鍵且長期存在的瓶頸。HBM 長期短缺的預測，強調了其對 AI 發展的戰略重要性，並可能導致記憶體價格持續高漲以及生產投資的增加。 美光的營收、獲利和毛利率全面刷新紀錄，財報公布後盤後股價一度上漲逾 16%。該公司強勁的表現主要歸因於 AI 領域的旺盛需求，這持續推動著先進記憶體解決方案的創新和投資。
 
 rss · 鉅亨網 (財經) · 6月24日 23:49
 
-**背景**: 高頻寬記憶體 (HBM) 是一種先進的電腦記憶體介面，用於 3D 堆疊同步動態隨機存取記憶體 (SDRAM)，與傳統 DRAM 相比，它能提供顯著更高的頻寬和更低的功耗。HBM 對於高效能運算應用至關重要，特別是在 AI 加速器和 GPU 中，因為處理器和記憶體之間快速的資料傳輸對於處理複雜的工作負載至關重要。
+**背景**: 高頻寬記憶體（HBM）是一種 3D 堆疊記憶體架構，旨在提供比傳統 DRAM 顯著更高的頻寬和更低的功耗。它透過使用矽穿孔（TSV）垂直堆疊多個 DRAM 晶片來實現此目標，從而為 AI 資料中心中使用的 GPU 等現代加速器提供大量資料吞吐量。HBM 對於為數千個 GPU 核心提供複雜 AI 運算所需的大量資料至關重要，解決了高效能運算中的關鍵工程瓶頸。
 
 <details><summary>參考連結</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://newsroom.lamresearch.com/high-bandwidth-memory-explained-semi-101">High Bandwidth Memory (HBM) Explained</a></li>
+<li><a href="https://blog.kistacklab.com/en/article/hbm-memory-explained/">HBM Explained : Why High Bandwidth Memory ... | Kistack Blog</a></li>
 
 </ul>
 </details>
 
-**標籤**: `#Technology`, `#Semiconductors`, `#AI`, `#Business`, `#Global Economy`
+**標籤**: `#Semiconductors`, `#AI`, `#Supply Chain`, `#Earnings`, `#Technology`
 
 ---
 
 <a id="item-15"></a>
-## [黃仁勳：輝達優先考量國家安全，警告走私晶片是死路](https://news.cnyes.com/news/id/6511244) ⭐️ 9.0/10
+## [輝達執行長黃仁勳：國家安全優先於商業利益](https://news.cnyes.com/news/id/6511244) ⭐️ 9.0/10
 
-輝達執行長黃仁勳向股東表示，若商業機會與美國國家安全發生衝突，公司將優先考量國家利益；他並警告，任何試圖將輝達晶片走私至受出口管制國家（如中國）的行為，將導致系統無法正常運作。 這項聲明來自主要 AI 晶片製造商的執行長，明確了輝達在中美科技緊張局勢下的立場，強化了出口管制對全球 AI 發展和供應鏈的影響。這表明輝達堅定支持美國政策，可能影響其市場策略以及受限制國家的技術發展。 黃仁勳特別提到，使用走私晶片建置的系統將無法正常運作，這暗示了輝達可能設有技術保障或不提供未經授權使用的必要支援。此警告強調了規避出口管制不僅面臨法律問題，還存在技術和後勤方面的挑戰。
+輝達執行長黃仁勳表示，當商業機會與美國國家安全發生衝突時，公司將優先考量國家利益，並警告企圖將輝達晶片走私至受出口管制的國家（如中國）將導致系統無法正常運作。 這位頂尖科技執行長的聲明突顯了全球商業與國家安全利益之間日益加劇的緊張關係，可能影響人工智慧的發展軌跡、國際貿易政策以及美中地緣政治關係。 黃仁勳明確警告，任何企圖在受出口管制地區使用走私的輝達晶片來建立人工智慧資料中心的行為，都將是「一條死路」，因為這些系統將無法正常運作。
 
 rss · 鉅亨網 (財經) · 6月24日 23:30
 
-**背景**: 美國政府已對先進運算和半導體技術實施廣泛的出口管制，主要目標是中國，以限制其獲取先進 AI 晶片和製造能力。這些管制旨在限制中國發展複雜 AI 應用和軍事技術的能力，為輝達等公司創造了複雜的地緣政治環境。
+**背景**: 美國政府已對出口至中國的先進人工智慧晶片實施嚴格管制，旨在限制中國的技術發展並解決國家安全疑慮。這些出口管制措施已對中國的人工智慧發展造成瓶頸，並影響了輝達等公司，使其在商業機會與遵守美國法規之間面臨兩難。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors">United States export controls on AI chips and semiconductors</a></li>
-<li><a href="https://en.wikipedia.org/wiki/United_States_New_Export_Controls_on_Advanced_Computing_and_Semiconductors_to_China">United States New Export Controls on Advanced Computing and Semiconductors to China - Wikipedia</a></li>
+<li><a href="https://www.bbc.com/news/articles/cedy6gl99eno">Nvidia, the chip giant caught between the US and China</a></li>
+<li><a href="https://www.bizmartai.co/ai-for-finance-investing/744/us-rules-chip-bottleneck-china-ai/">US Rules Create Chip Bottleneck for China 's AI Push - BizmartAI</a></li>
 
 </ul>
 </details>
 
-**標籤**: `#Technology`, `#Geopolitics`, `#AI`, `#Business`, `#US-China Relations`
+**標籤**: `#Technology`, `#Geopolitics`, `#US-China Relations`, `#AI Chips`, `#Export Controls`
 
 ---
 
 <a id="item-16"></a>
-## [荷姆茲海峽復航，布蘭特原油跌至戰前低點](https://news.cnyes.com/news/id/6511134) ⭐️ 9.0/10
+## [荷姆茲海峽恢復通航，原油價格跌至戰前低點，布蘭特原油挫逾 4%](https://news.cnyes.com/news/id/6511134) ⭐️ 9.0/10
 
-美國與伊朗達成臨時協議，促使荷姆茲海峽航運逐步恢復正常，導致中東原油供應快速回流市場，布蘭特原油價格重挫逾 4%至伊朗戰事爆發前水準。市場焦點也因此從地緣政治風險轉向供給增加與需求放緩的壓力。 荷姆茲海峽的重新開放至關重要，因為它是全球石油運輸的關鍵咽喉點，直接影響國際油價並波及全球經濟與消費者。此一發展預示著中東能源供應趨於穩定，並可能導致全球能源成本下降。 布蘭特原油價格重挫逾 4%，跌至伊朗戰事爆發前的水準，顯示市場關注焦點已從地緣政治不穩定性轉向供給增加與需求放緩的壓力。這代表先前納入油價中的地緣政治風險溢價已大幅重新調整。
+隨著美國與伊朗達成臨時協議，荷姆茲海峽的航運逐步恢復正常，導致中東原油供應迅速回流市場，國際油價，包括布蘭特原油，已大幅跌至衝突爆發前的水準。 此發展意義重大，因為它將全球石油市場的焦點從地緣政治風險轉移到基本的供需動態，可能導致能源成本降低並影響全球經濟穩定。 布蘭特原油價格已下跌超過 4%，回到伊朗衝突爆發前的水平，市場焦點已從地緣政治緊張轉向供應增加和需求放緩的壓力。據報導，美國與伊朗的臨時協議包括延長停火 60 天，並計劃在瑞士正式確定條款。
 
 rss · 鉅亨網 (財經) · 6月24日 21:34
 
-**背景**: 荷姆茲海峽是位於波斯灣與阿曼灣之間的一個關鍵海上咽喉點，全球每日海運石油供應的很大一部分都經由這裡通過。近期由美國和以色列發起的「2026 年伊朗戰爭」，曾導致該海峽的航運中斷或關閉，引發全球石油供應的嚴重擔憂並推高油價。新聞中提及的美伊臨時協議，正是為解決這場衝突並促使海峽重新開放。
+**背景**: 荷姆茲海峽是連接波斯灣與開放海洋的關鍵海上咽喉點，全球大部分石油供應每天都經由該海峽運輸。近期緊張局勢，包括美國和以色列對伊朗的襲擊以及伊朗隨後對該海峽的有效封鎖，此前曾擾亂航運並加劇地緣政治風險，進而影響全球油價。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war">2026 Iran war - Wikipedia</a></li>
+<li><a href="https://thefactum.ai/articles/a79400e4-c068-409e-9939-df026d1bf8cd">US - Iran Interim Deal Reopens Strait of Hormuz ... — The Factum</a></li>
+<li><a href="https://www.bbc.com/news/articles/c78n6p09pzno">Iran war: What is the Strait of Hormuz and why does it matter?</a></li>
+<li><a href="https://www.aljazeera.com/news/2026/3/1/how-us-israel-attacks-on-iran-threaten-the-strait-of-hormuz-oil-markets">How US-Israel attacks on Iran threaten the Strait of Hormuz , oil ...</a></li>
 
 </ul>
 </details>
 
-**標籤**: `#Economy`, `#Energy`, `#Geopolitics`, `#Oil Prices`, `#Middle East`
+**標籤**: `#Energy`, `#Oil Prices`, `#Geopolitics`, `#Economy`, `#International Trade`
 
 ---
 
 <a id="item-17"></a>
-## [Alphabet 入列道瓊指數，取代 Verizon](https://news.cnyes.com/news/id/6511221) ⭐️ 9.0/10
+## [Alphabet 入列道瓊指數取代 Verizon，反映 AI 時代經濟轉型](https://news.cnyes.com/news/id/6511221) ⭐️ 9.0/10
 
-Google 的母公司 Alphabet 正式入列道瓊工業指數，取代電信巨頭 Verizon 成為 30 檔藍籌股之一。這是該指數近兩年來最受矚目的成分股調整。 此舉象徵美國經濟重心持續向人工智慧、雲端運算與數位服務傾斜，反映科技巨頭日益增長的影響力。這也讓這家市值逾 4 兆美元的科技巨頭正式躋身百年藍籌股俱樂部。 市值逾 4 兆美元的 Alphabet 現已正式成為聲譽卓著的道瓊工業指數成分股，此舉突顯了美國經濟格局正在持續轉型。這項變動凸顯了科技和數位服務在全球經濟中日益增長的重要性。
+Alphabet（Google 的母公司）將取代 Verizon 成為道瓊工業指數的成分股之一，這是該指數近兩年來最受矚目的成分股調整。 這項變動反映了美國經濟重心持續向人工智慧、雲端運算與數位服務傾斜，並鞏固了這家市值逾兆美元的科技巨頭在聲譽卓著的藍籌股指數中的地位。 市值超過 4 兆美元的 Alphabet 將正式躋身百年藍籌股俱樂部，凸顯了主要科技公司在全球經濟中日益增長的影響力。
 
 rss · 鉅亨網 (財經) · 6月24日 20:37
 
-**背景**: 道瓊工業指數（DJIA）是歷史最悠久、最廣為人知的股票市場指數之一，追蹤在紐約證券交易所和 NASDAQ 上市的 30 家重要公開上市公司。「藍籌股」則是指一家全國知名、歷史悠久、財務穩健，且擁有良好獲利和穩定成長紀錄的公司股票。
+**背景**: 道瓊工業指數是一個追蹤在紐約證券交易所和 NASDAQ 上市的 30 家大型公開交易公司的股票市場指數。它是衡量美國股市整體健康狀況最古老且最常用的指標之一，其成分股公司因其規模、穩定性和長期聲譽，常被稱為「藍籌股」。
 
-**標籤**: `#Economy`, `#Technology`, `#Stock Market`, `#Artificial Intelligence`, `#Business`
+**標籤**: `#Economy`, `#Technology`, `#Stock Market`, `#Alphabet (Google)`, `#Artificial Intelligence`
 
 ---
 
 <a id="item-18"></a>
-## [林-曼努爾·米蘭達新作《戰士幫》音樂劇將於明年春天登上百老匯](https://www.nytimes.com/2026/06/23/theater/warriors-broadway-lin-manuel-miranda.html) ⭐️ 9.0/10
+## [Ockenden 報告揭露諾丁漢國民保健署醫院「毒性」產科照護失誤](https://www.theguardian.com/society/live/2026/jun/24/ockenden-maternity-review-nottingham-university-hospitals-trust-nhs-latest-news-updates) ⭐️ 9.0/10
 
-林-曼努爾·米蘭達與艾莎·戴維斯共同創作了他自《漢密爾頓》以來的第一部音樂劇《戰士幫》，該劇預計將於明年春天，即 2027 年 3 月在隆特-方丹劇院登上百老匯。 這項宣布對文化界和百老匯來說意義重大，因為這是林-曼努爾·米蘭達自全球轟動的《漢密爾頓》以來首部新音樂劇，預計將吸引廣泛的公眾和業界關注。 這部音樂劇由屢獲殊榮的劇作家兼普立茲獎決選入圍者艾莎·戴維斯共同創作，改編自 1979 年的邪典動作電影《戰士幫》及其 1965 年的同名小說；該音樂劇的概念專輯已於 2024 年 10 月發行。
+Ockenden 報告揭露諾丁漢大學醫院信託基金會存在廣泛失誤和「毒性」產科照護問題，導致數百名母親和嬰兒死亡或受傷。受影響的家庭目前正要求對此醜聞進行全面公開調查。 這份報告揭示了英國一項重大的公共衛生醜聞，暴露了國民保健署（NHS）產科服務中系統性的失誤，對家庭造成毀滅性的實際影響。它引發了對醫療標準、問責制和病人安全的嚴峻質疑，強調了改革的迫切性，以防止未來悲劇並重建公眾信任。 該審查發現，在母親死亡的案例中有 21%存在「顯著或重大照護問題」，在主要產科出血案例中有 26%，在母親非預期入住加護病房的案例中有 36%，在胎死腹中的案例中有 20%，以及在嬰兒缺氧性腦損傷的案例中有 50%。這些發現表明，若有不同或更好的照護，許多這些悲劇的結果可能會有所改變。
 
-rss · 紐約時報 文化藝術 · 6月23日 20:47
+rss · 衛報 社會 · 6月24日 13:57
 
-**背景**: 林-曼努爾·米蘭達是一位著名的美國作曲家、作詞家和演員，以創作百老匯熱門音樂劇《漢密爾頓》而聞名，該劇以其嘻哈與歷史敘事的融合革新了音樂劇。 《戰士幫》是一部 1979 年的美國動作驚悚片，改編自索爾·尤里克 1965 年的小說，講述了紐約市一個幫派在被誣陷殺害敵對幫派領袖後，艱難返家的故事。 艾莎·戴維斯是一位屢獲殊榮的美國劇作家、演員和歌手，以其多樣化的作品和憑藉其劇作《Bulrusher》入圍普立茲獎決選而聞名。
+**背景**: Ockenden 報告指的是英國對產科服務的獨立審查，最初重點關注什魯斯伯里和特爾福德國民保健署醫院信託基金會，該審查揭露了對母親和嬰兒的疏忽和傷害。這些審查一貫強調系統性問題，包括實施「自然分娩」目標所造成的意外傷害。公開調查是由政府機構下令進行的官方調查，旨在審查「公眾關注」的事項，由獨立機構執行，並擁有權力收集證據並為公共記錄確立事實。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Eisa_Davis">Eisa Davis - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Warriors_(Lin-Manuel_Miranda_and_Eisa_Davis_album)">Warriors (Lin-Manuel Miranda and Eisa Davis album) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/The_Warriors_(film)">The Warriors ( film ) - Wikipedia</a></li>
+<li><a href="https://www.arccosts.co.uk/legal-news/ockenden-report-neglect-found-in-review-of-maternity-services/">Ockenden Report : Neglect Found in Review of Maternity Services</a></li>
+<li><a href="https://www.itv.com/news/central/2022-03-27/whats-the-ockenden-report-and-how-many-baby-deaths-did-it-investigate">What is the Ockenden report and how many baby... | ITV News Central</a></li>
+<li><a href="https://www.instituteforgovernment.org.uk/explainer/public-inquiries">Public inquiries | Institute for Government</a></li>
 
 </ul>
 </details>
 
-**標籤**: `#Culture`, `#Broadway`, `#Musical Theater`, `#Lin-Manuel Miranda`, `#Entertainment`
+**標籤**: `#Healthcare`, `#Public Health`, `#UK Politics`, `#Maternity Care`, `#NHS`
 
 ---
 
 <a id="item-19"></a>
-## [諾丁漢 NHS 產科失職引發公開調查呼籲](https://www.theguardian.com/society/2026/jun/24/horrific-maternity-care-failings-at-nottingham-nhs-trust-prompt-calls-for-public-inquiry) ⭐️ 9.0/10
+## [科學家尋找邦迪布焦伊波拉病毒的未知動物宿主](https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html) ⭐️ 9.0/10
 
-一項為期三年的獨立審查揭露了諾丁漢大學醫院國民保健署信託基金（NUH NHS Trust）「駭人聽聞」的產科護理失職，導致 520 名母親和嬰兒遭受「潛在可避免」的傷害或死亡，進而引發了對英格蘭全國產科護理進行公開調查的呼籲。 這在英國是一項重大的公共衛生醜聞，凸顯了國民保健署（NHS）產科護理系統內部的系統性失職，導致數百個家庭遭受悲劇且可預防的後果，並可能促使英格蘭全國的產科服務進行更廣泛的改革。 該審查發現諾丁漢大學醫院存在「霸凌和有毒文化」，高級主管多次忽視嚴重問題的警告，工作人員表現出不收治臨產婦女的文化，且兩個產科單位長期人手不足。令人不安的是，一名死亡嬰兒在屍檢後被誤作醫療廢物處理，加劇了父母的痛苦。
-
-rss · 衛報 社會 · 6月24日 19:18
-
-**背景**: 諾丁漢大學醫院國民保健署信託基金（NUH）是英格蘭最大的急症教學信託基金之一，為諾丁漢及周邊地區數百萬人提供急症和專科服務。這項獨立審查由資深助產士唐娜·奧肯登（Donna Ockenden）領導，她曾對什魯斯伯里和特爾福德醫院信託基金進行過類似審查。公開調查是由政府機構下令對事件或行動進行的官方審查，通常具有法定權力來收集證據，旨在為公眾記錄確立事實和追究責任。
-
-<details><summary>參考連結</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Nottingham_University_Hospitals_NHS_Trust">Nottingham University Hospitals NHS Trust</a></li>
-<li><a href="https://www.ockendenmaternityreview.org.uk/">Ockenden Maternity Review - Ockenden Review</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Public_inquiry">Public inquiry - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**標籤**: `#Healthcare`, `#Public Health`, `#UK Politics`, `#Social Issues`, `#Maternity Care`
-
----
-
-<a id="item-20"></a>
-## [奧肯登報告揭露諾丁漢醫院「毒性」產科照護失職](https://www.theguardian.com/society/live/2026/jun/24/ockenden-maternity-review-nottingham-university-hospitals-trust-nhs-latest-news-updates) ⭐️ 9.0/10
-
-奧肯登報告已發布，詳述諾丁漢大學醫院信託基金會產科照護的系統性失職和「毒性」文化，導致數百名母親和嬰兒死亡或受傷。鑑於這些調查結果，受影響的家庭現正要求對此醜聞進行公開調查。 這份報告極為重要，因為它揭露了英國國民保健署（NHS）產科服務中嚴重的系統性問題，可能導致廣泛的政策變革並加強醫療服務提供者的問責制。它嚴重影響了公眾對醫療系統的信任，並突顯了迫切需要改善病患安全的現況。 該審查發現，在相當高比例的案例中存在重大或主要問題，包括 21%的產婦死亡、36%的產婦意外入住加護病房，以及 50%的嬰兒遭受缺氧性腦損傷案例。這些統計數據表明，若有不同或更好的照護，這些可預防的傷害本可避免。
-
-rss · 衛報 社會 · 6月24日 13:57
-
-**背景**: 唐娜·奧肯登（Donna Ockenden）是一位備受尊敬的英國助產士，擁有超過 35 年的經驗，以主持產科服務獨立審查而聞名，包括先前對什魯斯伯里和特爾福德醫院 NHS 信託基金會進行的重大調查。奧肯登報告是對諾丁漢大學醫院（NUH）NHS 信託基金會產科服務的獨立審查，是在數百名嬰兒死亡和受傷後啟動的。在英國，公開調查是由政府部長設立的獨立調查，旨在審查引起重大公眾關注的事項，查明事實、確定責任，並從中吸取教訓以防止未來再次發生。
-
-<details><summary>參考連結</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Donna_Ockenden">Donna Ockenden - Wikipedia</a></li>
-<li><a href="https://www.bbc.com/news/articles/cyr7em4323mo">The story behind the largest maternity review in the NHS - BBC</a></li>
-<li><a href="https://www.instituteforgovernment.org.uk/explainer/public-inquiries">Public inquiries - Institute for Government</a></li>
-
-</ul>
-</details>
-
-**標籤**: `#Public Health`, `#Healthcare Policy`, `#Social Issues`, `#UK Politics`, `#Maternity Care`
-
----
-
-<a id="item-21"></a>
-## [科學家仍在尋找邦迪布焦伊波拉病毒的動物宿主](https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html) ⭐️ 9.0/10
-
-科學家們持續努力，試圖找出作為邦迪布焦伊波拉病毒天然宿主的特定動物物種，該病毒株已導致包括 2026 年在內的多次人類疫情爆發。這項持續的搜尋突顯了理解病毒起源並預防其傳播給人類的持續挑戰。 確定動物宿主對於制定有效策略來預測、預防和控制未來的伊波拉疫情至關重要，從而保護全球公共衛生並減少這種致命疾病的破壞性影響。了解病毒來源有助於採取有針對性的干預措施，以最大程度地減少動物傳播給人類的溢出事件。 邦迪布焦病毒於 2007 年在烏干達首次被發現，是一種被世界衛生組織列為第四級風險的高度危險病原體，並在 2007 年、2012 年和 2026 年造成了嚴重的疫情。儘管其嚴重性，該病毒自然存在的主要動物宿主仍然未知，阻礙了預防工作。
+科學家們正在積極尋找一種未知的動物物種，該物種是邦迪布焦伊波拉病毒的自然宿主，儘管該病毒於 2007 年被發現，但仍會定期傳播給人類。 識別這種動物宿主對於了解病毒來源、預防未來疫情爆發以及制定有針對性的公共衛生策略至關重要，以保護全球人口免受這種嚴重病毒性出血熱的威脅。 邦迪布焦病毒（BDBV）是一種與薩伊伊波拉病毒密切相關的伊波拉病毒，於 2007 年在烏干達首次被發現，並在 2007 年、2012 年和 2026 年引發了嚴重的疫情爆發。
 
 rss · 紐約時報 健康 · 6月24日 15:04
 
-**背景**: 天然宿主是指病原體（如病毒）可以在其中生存和繁殖，而不會對宿主造成疾病，但偶爾會「溢出」並感染人類的動物族群或環境。對於許多人畜共通病毒，包括伊波拉病毒，蝙蝠因其獨特的免疫系統和能夠攜帶多種病毒的能力，經常被認為是潛在的天然宿主。識別這些宿主對於理解疾病生態學和預防未來疫情至關重要。
+**背景**: 自然宿主是指病原體在自然環境中的主要宿主，通常是一種動物物種，病原體可以在其中生存和繁殖而不會對宿主造成疾病，但隨後可能溢出到其他物種，包括人類。蝙蝠經常被認定為多種人畜共通病毒的自然宿主，包括不同株的伊波拉病毒、馬堡病毒和 SARS。
 
 <details><summary>參考連結</summary>
 <ul>
@@ -459,92 +396,207 @@ rss · 紐約時報 健康 · 6月24日 15:04
 </ul>
 </details>
 
-**標籤**: `#Ebola`, `#Public Health`, `#Virology`, `#Science`, `#Disease Prevention`
+**標籤**: `#Public Health`, `#Virology`, `#Infectious Disease`, `#Science`, `#Global Health`
+
+---
+
+<a id="item-20"></a>
+## [伊波拉病毒症狀趨緩，為疾病控制帶來新挑戰](https://www.nytimes.com/2026/06/23/health/ebola-symptoms-death-rate.html) ⭐️ 9.0/10
+
+當前伊波拉病毒疫情的症狀與過去的疫情相比趨於緩和，這對個別患者來說是個正面的發展。 儘管這對患者有利，但這些較輕微的症狀卻嚴重阻礙了公共衛生部門偵測和控制疾病的努力，可能導致病毒在未被察覺的情況下更廣泛傳播，進而影響全球健康安全。 公共衛生官員擔心，症狀嚴重程度的降低將使識別感染者變得更加困難，從而阻礙遏制策略並可能延長疫情。
+
+rss · 紐約時報 健康 · 6月23日 15:31
+
+**背景**: 伊波拉病毒是一種由正伊波拉病毒（orthoebolaviruses）引起、通常致命的嚴重疾病，若不經治療可能導致死亡。過去的疫情通常以快速、嚴重的症狀發作為特徵，這使得偵測和隔離對於遏制疫情至關重要。當前疫情的首例已知病例於 4 月 24 日確診，這表明病毒可能已在未被察覺的情況下傳播了數週。
+
+<details><summary>參考連結</summary>
+<ul>
+<li><a href="https://www.cdc.gov/ebola/about/index.html">Ebola Disease Basics | Ebola | CDC</a></li>
+<li><a href="https://www.bbc.com/news/articles/cz72p75zg4qo">What is Ebola , how does it spread and why is DR Congo outbreak an...</a></li>
+
+</ul>
+</details>
+
+**標籤**: `#Health`, `#Ebola`, `#Public Health`, `#Disease Outbreak`, `#Global Health`
+
+---
+
+<a id="item-21"></a>
+## [孟加拉國學名藥為全球囊狀纖維化病患帶來生機](https://www.nytimes.com/2026/06/22/health/cystic-fibrosis-drug-triko-trikafta.html) ⭐️ 9.0/10
+
+孟加拉國生產的一款突破性囊狀纖維化學名藥，現以遠低於美國原廠藥的價格上市，為全球許多過去無法負擔此救命療法的病患帶來了關鍵生機。 這款學名藥大幅提升了囊狀纖維化這種重要疾病治療的可近性，在全球範圍內解決了藥物可負擔性與健康公平性的關鍵問題。它也顯示了智慧財產權彈性如何影響嚴重遺傳疾病的公共衛生結果。 這款學名藥的上市利用了與國際智慧財產權協議相關的「漏洞」，使孟加拉國能以極低的成本生產該藥物。這讓許多國家中過去因高價而無法獲得此藥的病患得以取得治療。
+
+rss · 紐約時報 健康 · 6月23日 22:24
+
+**背景**: 世界貿易組織（WTO）的《與貿易有關的智慧財產權協定》（TRIPS 協定）包含公共衛生彈性條款，允許成員國調整其國家專利法以應對公共衛生需求。孟加拉國的專利法基於 1911 年的《專利與設計法案》，歷史上允許某些有利於學名藥生產的製造條件，特別是作為一個最不發達國家（LDC），它享有更長的 TRIPS 合規過渡期。
+
+<details><summary>參考連結</summary>
+<ul>
+<li><a href="https://www.southcentre.int/wp-content/uploads/2022/06/RP158_Twenty-Years-After-Doha.-An-Analysis-of-the-Use-of-the-TRIPS-Agreements-Public-Health-Flexibilities-in-India_EN.pdf">An Analysis of the Use of the TRIPS</a></li>
+<li><a href="https://www.researchgate.net/publication/372724201_Twenty_Years_After_Doha_An_Analysis_of_the_Use_of_the_TRIPS_Agreement's_Public_Health_Flexibilities_in_India">(PDF) Twenty Years After Doha: An Analysis of the Use of the TRIPS ...</a></li>
+<li><a href="https://dspace.bracu.ac.bd:8443/xmlui/bitstream/handle/10361/3220/13274025.pdf?sequence=1&isAllowed=y">Pharmaceutical Sector of Bangladesh</a></li>
+
+</ul>
+</details>
+
+**標籤**: `#Health`, `#Pharmaceuticals`, `#Global Health`, `#Cystic Fibrosis`, `#Drug Access`
 
 ---
 
 <a id="item-22"></a>
-## [伊波拉病毒症狀趨緩恐增疾病控制難度](https://www.nytimes.com/2026/06/23/health/ebola-symptoms-death-rate.html) ⭐️ 9.0/10
+## [台灣房市買氣創九年新低，新屋完工量大增](https://finance.technews.tw/2026/06/25/taiwan-housing-market-more-houses-built-fewer-buyers-25-5-decline-nine-year-low/) ⭐️ 9.0/10
 
-據報導，當前伊波拉病毒疫情的症狀可能比以往的疫情更為輕微，這對受感染的病患而言是個好消息。 儘管症狀較輕對個別病患有利，但公共衛生官員擔心這種變化可能會嚴重阻礙疾病的識別、追蹤和控制工作，進而可能導致疫情擴大。 儘管症狀的輕微化改善了病患的預後，卻也產生了一個矛盾，即症狀嚴重性降低反而讓衛生當局更難及早發現病例並實施有效的圍堵策略。
+台灣內政部公布，2025 年全台房市買氣年減 25.5%，創下近九年新低，儘管近年建案大量完工交屋，建物第一次登記棟數大幅增加。 買氣急劇下滑與新屋供給量大增同時發生，預示著潛在的供過於求和需求疲軟，這可能導致房價修正、建商面臨財務不穩定，並對台灣整體經濟造成廣泛影響。 內政部於 20 日公布的數據顯示，建物第一次登記棟數（代表新完工房屋）顯著增加，這表明市場上可供選擇的房產庫存正在增長。
 
-rss · 紐約時報 健康 · 6月23日 15:31
+rss · 科技新報 TechNews · 6月24日 23:40
 
-**背景**: 伊波拉病毒是一種嚴重且通常致命的病毒性出血熱，以其高死亡率和透過體液直接接觸快速傳播而聞名。從歷史上看，其獨特且嚴重的症狀有助於公共衛生部門迅速識別和隔離受感染者，以防止疫情進一步擴散。
+**背景**: 台灣的內政部是一個部會級政府機關，負責處理多項國內事務，包括地政、住宅政策以及房地產統計資料的收集。「建物所有權登記統計」是指新登記的產權官方紀錄，反映了已完工並合法認證的房屋單位數量。
 
-**標籤**: `#Health`, `#Ebola`, `#Public Health`, `#Infectious Disease`, `#Disease Control`
+<details><summary>參考連結</summary>
+<ul>
+<li><a href="https://www.moi.gov.tw/english/">Ministry of the Interior</a></li>
+
+</ul>
+</details>
+
+**標籤**: `#Taiwan`, `#Housing Market`, `#Economy`, `#Real Estate`, `#Economic Downturn`
 
 ---
 
 <a id="item-23"></a>
-## [John Carmack 反思 id Software 早期錯誤，包括過度壓榨員工](https://twitter.com/ID_AA_Carmack/status/2069799283369345247) ⭐️ 8.0/10
+## [高通推出 Dragonfly C1000 資料中心 CPU，與 Meta 合作並收購 AI 新創 Modular](https://finance.technews.tw/2026/06/25/dragonfly/) ⭐️ 9.0/10
 
-傳奇程式設計師 John Carmack 近期反思了他在 id Software 早期犯下的錯誤，特別承認他過度壓榨員工，且未能意識到公司成熟後需要更寬鬆的工作強度。這番反思在 Hacker News 上引發了一場討論，深入探討了 id Software 的歷史和公司文化。 Carmack 坦率的承認為領導力與公司文化提供了寶貴的教訓，特別是對科技和遊戲產業而言，凸顯了高強度新創環境對員工福祉和創意產出的長期影響。他的見解對於理解創新與永續團隊管理之間的平衡至關重要。 Carmack 特別指出他未能理解成熟的公司需要「更多彈性」，且持續保持「新創公司般的強度會讓員工筋疲力盡」，社群成員也將此視為許多公司的寶貴智慧。討論中也提及了 Doom 2 之後 id Software 的創意人才流失，以及 Quake III Arena 之後公司「推動產業」的能量似乎有所轉變。
+高通發表了專為代理型 AI 設計的全新 Dragonfly C1000 資料中心 CPU，並宣布與 Meta 建立合作夥伴關係，Meta 將從 2028 年起在其設施中部署此晶片。同時，高通也收購了 AI 新創公司 Modular，以強化其在資料中心市場的實力。 此舉標誌著高通正式進軍利潤豐厚的資料中心 CPU 市場，直接挑戰現有業者，並預示著 AI 基礎設施競爭格局的重大轉變。與 Meta 的戰略合作以及對 Modular 的收購，使高通有望成為專業 AI 運算解決方案的關鍵供應商。 Dragonfly C1000 採用客製化的 Oryon 核心架構，針對高核心效能和超過 5 GHz 的頻率進行優化，特別旨在為大規模部署的代理型 AI 工作負載提供卓越效能。高通計劃推出多種 C1000 變體，以應對通用運算和 AI 頭節點等不同應用。
 
-hackernews · shadowtree · 6月24日 15:56 · [社群討論](https://news.ycombinator.com/item?id=48661825)
+rss · 科技新報 TechNews · 6月24日 23:27
 
-**背景**: John Carmack 是一位極具影響力的美國遊戲程式設計師，也是 id Software 的共同創辦人，該公司以開創性的 3D 第一人稱射擊（FPS）遊戲如《毀滅戰士》（Doom）和《雷神之鎚》（Quake）而聞名。id Software 早期的成功主要歸功於其突破性的遊戲引擎和創新技術，而這往往是以高強度的「加班衝刺」開發週期為代價。
+**背景**: 資料中心 CPU 是專為大型資料中心內的伺服器設計的中央處理器，負責處理各種運算任務。代理型 AI 指的是能夠自主代表使用者執行任務的系統或程式，通常需要存取多樣化的資料來源才能完成其目標。Modular AI 是一家由前蘋果和 Google 工程師共同創立的基礎設施新創公司，以籌集大量資金開發旨在挑戰 Nvidia 在 AI 運算市場強勢地位的軟體解決方案而聞名。
 
-**社群討論**: 社群討論普遍認同 Carmack 的自我反思，部分成員提供了 id Software 其他員工（如 Sandy Petersen）經歷的額外背景資訊，並討論了《雷神之鎚》的開創性成功是否足以證明公司內部掙扎的合理性。同時也有觀點認為，id Software 在早期成功後，其創意產出有所下降，從藝術成就轉向純粹的技術突破。
+<details><summary>參考連結</summary>
+<ul>
+<li><a href="https://wccftech.com/qualcomm-single-core-leadership-first-server-cpu-dragonfly-c1000-250-cores-5-ghz-2028/">Qualcomm Claims Single-Core Leadership for Its First Server CPU...</a></li>
+<li><a href="https://www.ibm.com/think/topics/ai-agents">What Are AI Agents ? | IBM</a></li>
+<li><a href="https://www.aol.com/articles/ai-startup-modular-raises-250-160943691.html">AI startup Modular raises $250 million, seeks to challenge Nvidia...</a></li>
 
-**標籤**: `#Gaming Industry`, `#Company Culture`, `#Leadership`, `#Software Development`, `#History of Tech`
+</ul>
+</details>
+
+**標籤**: `#Qualcomm`, `#AI`, `#Data Center`, `#CPU`, `#Mergers & Acquisitions`
 
 ---
 
 <a id="item-24"></a>
-## [Nub：類似 Bun 的 Node.js 一體化工具包提升開發者體驗](https://github.com/nubjs/nub) ⭐️ 8.0/10
+## [OpenAI 攜手博通、台積電發表客製化 AI 推理晶片「Jalapeño」](https://technews.tw/2026/06/24/openai-and-broadcom-unveil-llm-optimized-inference-chip/) ⭐️ 9.0/10
 
-由 Zod 的作者 Colin McDonnell 所開發的全新 Node.js 一體化工具包 Nub 已發布，它透過 `--require` 預載入掛鉤增強 Node.js 原生引擎，提供類似 Bun 的整合式開發者體驗，並具備由 oxc 驅動的轉譯器和 polyfill 等功能。 這個工具包對 JavaScript/Node.js 生態系統意義重大，它提供類似 Bun 的流線型一體化方法，有望在不替換 Node.js 核心引擎的情況下提升開發者體驗和性能。對於尋求整合工具同時保留 Node.js 穩定性和生態系統的開發者來說，它提供了一個引人注目的選擇。 Nub 透過 `--require` 預載入掛鉤來增強標準的 `node` 執行時，該掛鉤整合了由 oxc 驅動的轉譯器作為 Node-API 附加元件，並註冊模組解析掛鉤，同時為 `Worker` 和 `Temporal` 等現代 API 注入所需的 polyfill。其創作者 Colin McDonnell 以開發 Zod 和曾任職於 Bun 而聞名，為此專案增添了顯著的信譽。
+OpenAI 於 6 月 24 日正式公開其首款客製化 AI 推理晶片，命名為「Jalapeño」，此晶片是與博通共同設計，並將由台積電負責生產。 此舉象徵著 OpenAI 在 AI 產業中朝向垂直整合的策略轉變，旨在提升其 AI 系統的效能、效率和擴展性，同時可能降低營運成本並加劇 AI 硬體市場的競爭。 「Jalapeño」晶片專為大型語言模型（LLM）的推理工作負載進行最佳化，是 OpenAI 的首款智慧處理器，也是其規劃中多代運算平台的一部分。
 
-hackernews · colinmcd · 6月24日 14:14 · [社群討論](https://news.ycombinator.com/item?id=48660267)
+rss · 科技新報 TechNews · 6月24日 15:34
 
-**背景**: Bun 是一個快速、一體化的 JavaScript 執行時、套件管理器和測試運行器，它使用 Safari 的 JavaScriptCore 引擎，與 Node.js 的 V8 引擎形成對比，並以其整合工具鏈而聞名。轉譯器（例如 Nub 中由 oxc 驅動的轉譯器）將現代 JavaScript 或 TypeScript 程式碼轉換為與目標執行時相容的格式，而 polyfill 則在缺乏原生支援的環境中提供新版 Web API 的實作。Node.js 的 `--require` 預載入掛鉤允許開發者在主應用程式啟動前執行一個模組，從而對執行時環境進行自訂修改或增強。
+**背景**: AI 推理晶片是專門的硬體元件，通常是特殊應用積體電路（ASIC），旨在高效執行已訓練的 AI 模型並產生輸出所需的高速運算。與用於建立模型的訓練晶片不同，推理晶片專注於模型的部署。AI 產業中的垂直整合是指一家公司控制其產品供應鏈的多個階段，從硬體設計到軟體和服務，旨在提高效率、控制成本並優化效能。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Bun_(software)">Bun (software) - Wikipedia</a></li>
-<li><a href="https://oxc.rs/">The JavaScript Oxidation Compiler</a></li>
+<li><a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/">OpenAI and Broadcom unveil LLM-optimized inference chip | OpenAI</a></li>
+<li><a href="https://www.datacenterdynamics.com/en/news/openai-and-broadcom-unveil-jalapeño-intelligence-processor-for-llm-inference/">OpenAI and Broadcom unveil ' Jalapeño ' Intelligence Processor for...</a></li>
+<li><a href="https://www.linkedin.com/pulse/how-ai-inference-chip-works-one-simple-flow-2025-building-vbvzf">How AI Inference Chip Works — In One Simple Flow (2025)</a></li>
+<li><a href="https://www.linkedin.com/pulse/vertical-integration-ai-x-xai-join-forces-more-lwl9c">Vertical Integration In AI : X And xAI Join Forces, & More</a></li>
 
 </ul>
 </details>
 
-**社群討論**: 社群對「Nub」這個名稱表示有趣，並普遍持正面態度，強調了創作者的強大背景和該工具包吸引人的開發者體驗。一些技術問題浮出水面，例如 TypeScript 是否需要轉譯器以及為何選擇 `--require` 而非 `--import` 來支援 ESM，同時有用戶報告成功且快速地將其單一儲存庫遷移到 Nub。
-
-**標籤**: `#Node.js`, `#JavaScript`, `#Developer Tools`, `#Web Development`, `#Open Source`
+**標籤**: `#AI Hardware`, `#OpenAI`, `#Semiconductors`, `#Technology`, `#Business Strategy`
 
 ---
 
 <a id="item-25"></a>
-## [曼哈頓區長撥款五千萬美元支持紐約市藝術團體](https://www.nytimes.com/2026/06/23/arts/design/nyc-arts-funding-manhattan-borough-president.html) ⭐️ 8.0/10
+## [約翰·卡馬克反思在 id Software 的早期管理錯誤](https://twitter.com/ID_AA_Carmack/status/2069799283369345247) ⭐️ 8.0/10
 
-曼哈頓區長布萊德·霍伊爾曼-西格爾已將該區五千萬美元的全部酌情預算撥給文化項目。此舉旨在向川普總統傳達藝術資助重要性的訊息。 這項對紐約市文化領域的重大投資，突顯了藝術資助在主要文化中心的重要作用，並可能影響全國藝術政策的更廣泛討論。它也強調了地方預算分配的政治層面，特別是當其被視為向聯邦領導層傳達直接訊息時。 這五千萬美元的撥款代表了該區全部的酌情預算，專門用於文化項目。這項資助背後的明確動機是政治性的，旨在向川普總統直接表達藝術資助的必要性。
+id Software 的共同創辦人兼傳奇遊戲開發者約翰·卡馬克公開反思了他過去的管理錯誤，特別承認他過度要求員工，並且未能意識到公司成熟後需要更多彈性。 這位標誌性人物的反思為領導力、公司文化和員工福祉提供了重要的教訓，為新創公司和成長中的科技公司在激烈創新與可持續工作環境之間取得平衡提供了寶貴見解。 卡馬克明確表示他「對每個人都要求過高」，並且「沒有意識到成熟的公司需要更多彈性」，承認「持續以新創公司的強度要求員工會讓他們筋疲力盡」。這項承認引發了關於創造突破性遊戲與培養健康工作生活平衡之間權衡的廣泛討論。
 
-rss · 紐約時報 文化藝術 · 6月23日 16:01
+hackernews · shadowtree · 6月24日 15:56 · [社群討論](https://news.ycombinator.com/item?id=48661825)
 
-**背景**: 紐約市的區長是民選官員，負責為其所在行政區發聲，監督地方服務並就全市政策提供建議。酌情預算指的是地方官員可以自行決定分配的資金，通常用於他們認為重要的社區項目或倡議。
+**背景**: id Software 是一家美國電子遊戲開發商，以其開創第一人稱射擊（FPS）遊戲類型而聞名，代表作包括《毀滅戰士》（Doom）和《雷神之鎚》（Quake）。約翰·卡馬克作為共同創辦人兼首席程式設計師，因其在遊戲引擎方面的突破性技術創新而備受讚譽，這些創新顯著推動了 3D 圖形和遊戲玩法。
 
-**標籤**: `#Arts & Culture`, `#Local Politics`, `#New York City`, `#Funding`, `#Cultural Policy`
+**社群討論**: 社群討論強調了卡馬克的高強度工作對前員工（如 Sandy Petersen）的個人影響，並討論了《雷神之鎚》等標誌性遊戲的誕生是否證明了嚴苛工作環境的合理性，同時也觀察到在《雷神之鎚 III 競技場》和《毀滅戰士 3》之後，id Software 的創新活力似乎有所下降。許多評論者同意，卡馬克關於公司成熟度和員工倦怠的見解對當今許多企業都具有啟發意義。
+
+**標籤**: `#Game Development`, `#Leadership`, `#Company Culture`, `#Tech History`, `#Management Lessons`
 
 ---
 
 <a id="item-26"></a>
-## [林-曼努爾·米蘭達的《戰士幫》音樂劇將登上百老匯](https://www.theguardian.com/stage/2026/jun/24/the-warriors-broadway-with-lin-manuel-miranda-musical) ⭐️ 8.0/10
+## [索尼婭·博伊斯在紐約展出社群連結藝術](https://www.nytimes.com/2026/06/24/arts/design/sonia-boyce-queens-museum-art.html) ⭐️ 8.0/10
 
-林-曼努爾·米蘭達（Lin-Manuel Miranda）和艾莎·戴維斯（Eisa Davis）於 2024 年發行的概念專輯《戰士幫》（Warriors），改編自 1979 年的邪典電影和 1965 年的小說《戰士幫》，預計明年將改編成百老匯音樂劇。 這是一項重要的文化公告，因為由當代劇場極具影響力的人物林-曼努爾·米蘭達製作的新百老匯音樂劇，是藝術界的一大盛事，有望吸引廣大觀眾，並為這部邪典經典帶來全新的劇場詮釋。 這部音樂劇將由珍妮·庫恩斯（Jenny Koons）和以《漢密爾頓》（Hamilton）編舞聞名的安迪·布蘭肯布勒（Andy Blankenbuehler）共同執導，而索爾·尤里克（Sol Yurick）的原著故事靈感來自色諾芬（Xenophon）的古希臘史詩《長征記》（Anabasis）。
+英國藝術家索尼婭·博伊斯目前正在紐約的皇后區博物館和時代廣場等知名地點展出她與社群緊密連結的藝術作品，旨在促進玩樂與團結。 此次展覽意義重大，它突顯了索尼婭·博伊斯這位以社群參與式藝術聞名的當代傑出藝術家作品，為廣大觀眾提供了對社會相關藝術表達的寶貴見解。 博伊斯的藝術作品以其與社群的緊密連結為特點，旨在為參與者和觀眾創造玩樂與團結的時刻。她的展覽橫跨多樣的公共空間，從傳統博物館到標誌性的城市地標。
 
-rss · 衛報 文化 · 6月24日 13:01
+rss · 紐約時報 文化藝術 · 6月24日 09:01
 
-**背景**: 索爾·尤里克（Sol Yurick）於 1965 年出版的小說《戰士幫》探討了紐約市的都市生活和青少年幫派主題，其靈感來自色諾芬（Xenophon）的《長征記》（Anabasis），這是一部關於一支僱傭兵軍隊艱難穿越敵對領土撤退的古希臘歷史敘事。該小說後來被改編成 1979 年廣受歡迎的動作電影，講述了一個康尼島幫派在被誣陷殺害敵對幫派領袖後，冒險返回家園的旅程。
+**背景**: 索尼婭·博伊斯是一位傑出的英國非裔加勒比藝術家和教育家，以其跨領域的藝術手法而聞名，作品涵蓋電影、繪畫、攝影和裝置藝術。她以社群參與式藝術著稱，經常透過協作過程探索身份、種族和性別等主題。
 
 <details><summary>參考連結</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/The_Warriors_(Yurick_novel)">The Warriors (Yurick novel) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Sol_Yurick">Sol Yurick - Wikipedia</a></li>
-<li><a href="https://grokipedia.com/page/anabasis_the_march_up_country_(book)">Anabasis: The March Up Country (book)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sonia_Boyce">Sonia Boyce - Wikipedia</a></li>
+<li><a href="https://www.timessquarenyc.org/artists/sonia-boyce">Sonia Boyce</a></li>
 
 </ul>
 </details>
 
-**標籤**: `#Broadway`, `#Musical Theater`, `#Lin-Manuel Miranda`, `#Culture`, `#Arts`
+**標籤**: `#Arts`, `#Culture`, `#Community Art`, `#Exhibitions`, `#New York`
+
+---
+
+<a id="item-27"></a>
+## [克萊夫·戴維斯與惠妮·休斯頓：成功與悲劇交織的故事](https://www.nytimes.com/2026/06/23/arts/music/clive-davis-whitney-houston.html) ⭐️ 8.0/10
+
+這篇文章深入探討了唱片業巨擘克萊夫·戴維斯與全球音樂現象惠妮·休斯頓之間成功卻充滿爭議與悲劇的專業關係，詳述了她從新星崛起為全球巨星的歷程以及隨之而來的爭議。 這項分析意義重大，它揭示了塑造一位音樂偶像職業生涯的關鍵夥伴關係的動態，為讀者提供了對音樂產業成功與挑戰的深入見解。 這篇文章特別強調了戴維斯如何引導休斯頓從一位年輕人才成為全球現象，同時也承認了他們故事中巨大的成功以及固有的爭議和悲劇元素。
+
+rss · 紐約時報 文化藝術 · 6月24日 16:30
+
+**背景**: 克萊夫·戴維斯是美國傳奇唱片製作人及音樂高層，以在其職業生涯中發掘並培養了眾多標誌性藝人而聞名。惠妮·休斯頓是美國歌手兼演員，被廣泛認為是有史以來最偉大的聲樂家之一，她的職業生涯取得了巨大成功，但也伴隨著個人掙扎和悲劇性的英年早逝。
+
+**標籤**: `#Music Industry`, `#Biography`, `#Culture`, `#Entertainment`
+
+---
+
+<a id="item-28"></a>
+## [林-曼努爾·米蘭達新作《戰士幫》音樂劇明年春季登陸百老匯](https://www.nytimes.com/2026/06/23/theater/warriors-broadway-lin-manuel-miranda.html) ⭐️ 8.0/10
+
+以《漢密爾頓》聞名的林-曼努爾·米蘭達，正與艾莎·戴維斯共同創作一部名為《戰士幫》的新音樂劇，該劇改編自經典電影和小說，預計將於明年春季在百老匯首演。這將是自《漢密爾頓》以來，他首個重要的音樂劇項目。 這部音樂劇備受期待，因為它標誌著林-曼努爾·米蘭達帶著一部新的重要作品重返百老匯，可能為當代戲劇樹立新趨勢，並吸引廣泛的公眾和評論界關注。它的成功可能進一步鞏固他在藝術和娛樂產業的影響力。 這部音樂劇由米蘭達與美國知名劇作家兼音樂家艾莎·戴維斯共同創作，改編自索爾·尤里克 1965 年的小說及華特·希爾 1979 年的同名電影《戰士幫》。米蘭達和戴維斯此前已於 2024 年 10 月根據該電影製作了一張音樂概念專輯。
+
+rss · 紐約時報 文化藝術 · 6月23日 20:47
+
+**背景**: 林-曼努爾·米蘭達是一位備受讚譽的美國作曲家、作詞家、劇作家和演員，最著名的是創作了百老匯音樂劇《身在高地》以及開創性的《漢密爾頓》，後者以嘻哈風格講述美國歷史，徹底改變了音樂劇的面貌。《戰士幫》是一部 1979 年的美國動作驚悚電影，改編自 1965 年的小說，描繪紐約市的一個幫派在被誣陷殺害敵對幫派領袖後，艱難地返回自己地盤的旅程。艾莎·戴維斯是一位傑出的美國劇作家、演員和音樂家，以其語言豐富的作品以及與政治活動家安吉拉·戴維斯的親屬關係而聞名。
+
+<details><summary>參考連結</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/The_Warriors_(film)">The Warriors ( film ) - Wikipedia</a></li>
+<li><a href="https://www.ebsco.com/research-starters/biography/eisa-davis">Eisa Davis | Biography | Research Starters | EBSCO Research</a></li>
+
+</ul>
+</details>
+
+**標籤**: `#Culture`, `#Theater`, `#Broadway`, `#Lin-Manuel Miranda`, `#Musical`
+
+---
+
+<a id="item-29"></a>
+## [RubyLLM：一個整合主要 AI 供應商的 Ruby 框架](https://rubyllm.com/) ⭐️ 7.0/10
+
+RubyLLM 作為一個新的 Ruby 框架推出，它為 Ruby 開發者提供了一個統一的介面，以簡化與 GPT、Claude 和 Ollama 等主要 AI 供應商的整合。 這個框架意義重大，因為它降低了 Ruby 開發者存取和利用強大大型語言模型 (LLM) 的門檻，促進了創新並加速了 AI 在 Ruby 生態系統中的整合。 開發者讚揚 RubyLLM 的易用性和靈活性，儘管對於像 xAI 這樣特定供應商的快取、某些回應 API 功能的原生支援，以及可觀察性和追蹤方面的困難，仍存在一些挑戰。它僅依賴三個核心依賴項：Faraday、Zeitwerk 和 Marcel。
+
+hackernews · doener · 6月24日 14:41 · [社群討論](https://news.ycombinator.com/item?id=48660711)
+
+**背景**: Ruby 框架是一套預先編寫的程式碼和工具，為使用 Ruby 程式語言建構應用程式提供了基礎。主要的 AI 供應商，例如 OpenAI (GPT)、Anthropic (Claude) 和開源模型 (Ollama)，透過應用程式介面 (API) 提供其大型語言模型 (LLM) 的存取權限。RubyLLM 建立了一個統一的介面，讓開發者可以使用一套一致的指令和結構與這些不同的 AI 服務互動，而無需學習每個供應商特定的 SDK。
+
+<details><summary>參考連結</summary>
+<ul>
+<li><a href="https://rubyllm.com/">RubyLLM | One beautiful Ruby framework for all major AI providers.</a></li>
+<li><a href="https://medium.com/@raviskit2012/rubyllm-the-ruby-gem-that-makes-ai-feel-right-at-home-a34a1d18def4">RubyLLM : The Ruby Gem That Makes AI Feel Right at Home | Medium</a></li>
+
+</ul>
+</details>
+
+**社群討論**: 社群普遍讚揚 RubyLLM 的易用性和靈活性，一些開發者認為它出奇地好用且容易上手。然而，常見的擔憂包括針對像 xAI 這樣特定 AI 供應商的快取問題、真正的追蹤可觀察性方面的困難，以及最初對於某些回應 API 功能原生支援的限制。一位開發者也質疑在單一供應商設定下，它相較於直接使用供應商的 SDK 是否具有優勢。
+
+**標籤**: `#AI`, `#Ruby`, `#Frameworks`, `#Software Development`, `#LLM`
 
 ---
