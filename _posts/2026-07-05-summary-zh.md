@@ -5,117 +5,129 @@ date: 2026-07-05
 lang: zh
 ---
 
-> 從 260 則內容中篩選出 9 則重要資訊。
+> 從 213 則內容中篩選出 10 則重要資訊。
 
 ---
 
-1. [Here’s the latest.](#item-1) ⭐️ 10.0/10
-2. [Leaking YouTube creators' private videos](#item-2) ⭐️ 9.0/10
-3. [Potential session/cache leakage between workspace instances or consumer accounts](#item-3) ⭐️ 9.0/10
-4. [Astrophysicists Puzzle over Webb’s New Universe](#item-4) ⭐️ 9.0/10
-5. [香港銅鑼灣書店店長林榮基病逝 從港至台以書店反抗](#item-5) ⭐️ 9.0/10
-6. [Australia Tried to Push Back on China. China Pushed Harder.](#item-6) ⭐️ 9.0/10
-7. [Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia](#item-7) ⭐️ 9.0/10
-8. [China Defends Widely Criticized ‘Ethnic Unity’ Law](#item-8) ⭐️ 9.0/10
-9. [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](#item-9) ⭐️ 9.0/10
+1. [What We Saw at Ayatollah Khamenei’s Funeral](#item-1) ⭐️ 10.0/10
+2. [Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral](#item-2) ⭐️ 9.0/10
+3. [At Site Where Iran’s Slain Leader Lies, Some See a Symbol of His Failures](#item-3) ⭐️ 9.0/10
+4. [Years of Warnings About Public Housing Preceded Venezuela’s Earthquakes](#item-4) ⭐️ 9.0/10
+5. [Far From Kyiv and Moscow, Soldiers Stalk Ruins and Evade Drones on the Front](#item-5) ⭐️ 9.0/10
+6. [Israel’s Government Threatens to Ignore a Top Court Ruling](#item-6) ⭐️ 9.0/10
+7. [NHS to rate English trusts on tackling violence and racism towards staff](#item-7) ⭐️ 9.0/10
+8. [Organic Maps](#item-8) ⭐️ 8.0/10
+9. [It's not about physical vs. digital games, it's about ownership](#item-9) ⭐️ 8.0/10
+10. [Reparaible and open source paper printer](#item-10) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Here’s the latest.](https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/heres-the-latest) ⭐️ 10.0/10
+## [What We Saw at Ayatollah Khamenei’s Funeral](https://www.nytimes.com/video/world/middleeast/100000011011151/what-we-saw-at-ayatollah-khameneis-funeral.html) ⭐️ 10.0/10
 
-This content is a live news update from The New York Times covering the funeral of Ayatollah Khamenei, the Supreme Leader of Iran, a major geopolitical event.
+A New York Times correspondent reports from the funeral ceremonies for Ayatollah Ali Khamenei, Iran's former supreme leader, who the article states was killed by U.S. and Israeli air strikes.
 
-rss · 紐約時報 國際 · 7月4日 13:56
+rss · 紐約時報 國際 · 7月5日 20:21
 
-**標籤**: `#Geopolitics`, `#Iran`, `#Middle East`, `#International Affairs`, `#Politics`
+**標籤**: `#Geopolitics`, `#Iran`, `#Middle East`, `#International Affairs`, `#Conflict`
 
 ---
 
 <a id="item-2"></a>
-## [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube) ⭐️ 9.0/10
+## [Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral](https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html) ⭐️ 9.0/10
 
-A security vulnerability on YouTube allows attackers to leak creators' private videos by exploiting AI prompt injection in YouTube Studio's comment moderation feature, a flaw YouTube reportedly does not classify as a bug.
+The Iranian government is using Ayatollah Ali Khamenei’s funeral in Tehran to project strength and stability amidst national uncertainty, particularly in the context of an ongoing war.
 
-hackernews · javxfps · 7月4日 16:45 · [社群討論](https://news.ycombinator.com/item?id=48786781)
+rss · 紐約時報 國際 · 7月5日 17:45
 
-**標籤**: `#Cybersecurity`, `#YouTube`, `#Privacy`, `#AI`, `#Content Creation`
+**標籤**: `#Iran`, `#Geopolitics`, `#Politics`, `#Middle East`, `#Leadership Transition`
 
 ---
 
 <a id="item-3"></a>
-## [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066) ⭐️ 9.0/10
+## [At Site Where Iran’s Slain Leader Lies, Some See a Symbol of His Failures](https://www.nytimes.com/2026/07/05/world/middleeast/iran-grand-mosalla-khamenei.html) ⭐️ 9.0/10
 
-A GitHub issue reports a potential session or cache leakage in Claude AI, where one user's workspace might have displayed another's data, prompting an investigation by the Claude team and drawing comments from users who claim to have experienced similar "swapped responses" with other major LLMs.
+Critics view the unfinished Grand Mosalla complex, where Ayatollah Ali Khamenei is being mourned, as a symbol of the unfulfilled promises and failures of his nearly 40-year rule in Iran.
 
-hackernews · chatmasta · 7月4日 14:03 · [社群討論](https://news.ycombinator.com/item?id=48785485)
+rss · 紐約時報 國際 · 7月5日 16:02
 
-**標籤**: `#Artificial Intelligence`, `#Cybersecurity`, `#Data Privacy`, `#Large Language Models`, `#Software Bugs`
+**標籤**: `#Iran`, `#Politics`, `#Ayatollah Ali Khamenei`, `#Legacy`, `#Middle East`
 
 ---
 
 <a id="item-4"></a>
-## [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/) ⭐️ 9.0/10
+## [Years of Warnings About Public Housing Preceded Venezuela’s Earthquakes](https://www.nytimes.com/2026/07/05/world/americas/venezuela-earthquake-la-guaira-building-collapse-government.html) ⭐️ 9.0/10
 
-Astrophysicists are grappling with perplexing observations from the James Webb Space Telescope, particularly 'little red dots,' which are challenging existing cosmological models and suggesting the existence of previously unknown celestial phenomena, such as 'black hole stars' in the early universe.
+For years, residents, construction experts, and seismologists had issued warnings about the extreme vulnerability of Venezuela's public housing to natural disasters, a concern now tragically underscored by recent earthquakes.
 
-hackernews · jnord · 7月4日 09:08 · [社群討論](https://news.ycombinator.com/item?id=48783948)
+rss · 紐約時報 國際 · 7月5日 09:02
 
-**標籤**: `#Astrophysics`, `#James Webb Space Telescope`, `#Cosmology`, `#Scientific Discovery`, `#Space Exploration`
+**標籤**: `#Natural Disasters`, `#Venezuela`, `#Public Safety`, `#Infrastructure`, `#Government Accountability`
 
 ---
 
 <a id="item-5"></a>
-## [香港銅鑼灣書店店長林榮基病逝 從港至台以書店反抗](https://www.bbc.com/zhongwen/articles/cvgle2xd2wro/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [Far From Kyiv and Moscow, Soldiers Stalk Ruins and Evade Drones on the Front](https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html) ⭐️ 9.0/10
 
-Lam Wing-kee, the manager of Hong Kong's Causeway Bay Books who was arrested by Beijing for selling banned books and later moved to Taiwan to continue his resistance, has died in Taipei at 70.
+Ukraine's military has denied Russia's claim of capturing a city in the eastern Donetsk region, stating its troops are holding out against Russian forces.
 
-rss · BBC 中文 (國際) · 7月3日 12:11
+rss · 紐約時報 國際 · 7月5日 09:17
 
-**標籤**: `#Hong Kong`, `#China`, `#Freedom of Speech`, `#Human Rights`, `#Politics`
+**標籤**: `#Ukraine War`, `#Geopolitics`, `#Military Conflict`, `#Donetsk`, `#International Relations`
 
 ---
 
 <a id="item-6"></a>
-## [Australia Tried to Push Back on China. China Pushed Harder.](https://www.nytimes.com/2026/07/04/world/asia/australia-china-politics.html) ⭐️ 9.0/10
+## [Israel’s Government Threatens to Ignore a Top Court Ruling](https://www.nytimes.com/2026/07/05/world/middleeast/israel-court-netanyahu-clash.html) ⭐️ 9.0/10
 
-Despite recent improvements, relations between Australia and China are again strained, with China's ambassador issuing a warning against a "Cold War mentality" in response to Australia's actions.
+Israel's cabinet escalated its conflict with the judiciary by threatening to ignore a top court ruling, though a senior official later retracted the statement.
 
-rss · 紐約時報 國際 · 7月4日 04:01
+rss · 紐約時報 國際 · 7月5日 22:44
 
-**標籤**: `#Geopolitics`, `#International Relations`, `#China`, `#Australia`, `#Diplomacy`
+**標籤**: `#Israel`, `#Politics`, `#Judiciary`, `#Government`, `#Rule of Law`
 
 ---
 
 <a id="item-7"></a>
-## [Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia](https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html) ⭐️ 9.0/10
+## [NHS to rate English trusts on tackling violence and racism towards staff](https://www.theguardian.com/society/2026/jul/06/nhs-trusts-england-ratings-staff-wellbeing-violence-racism) ⭐️ 9.0/10
 
-Long lines for gas in Russia are disrupting daily life and challenging the government's narrative of stability amidst wartime conditions, leading citizens to question the current state of affairs.
+The NHS in England will implement a new system from July to rate and rank acute, ambulance, and mental health trusts in published league tables based on their performance in tackling violence, racism, and sexual misconduct towards their 1.5 million staff.
 
-rss · 紐約時報 國際 · 7月3日 10:47
+rss · 衛報 社會 · 7月5日 23:01
 
-**標籤**: `#Russia`, `#Wartime Economy`, `#Social Impact`, `#Energy Shortages`, `#Geopolitics`
+**標籤**: `#Healthcare Policy`, `#NHS`, `#Workplace Safety`, `#Social Justice`, `#Public Health`
 
 ---
 
 <a id="item-8"></a>
-## [China Defends Widely Criticized ‘Ethnic Unity’ Law](https://www.nytimes.com/2026/07/03/world/asia/china-ethnic-unity-tibetan-uyghurs.html) ⭐️ 9.0/10
+## [Organic Maps](https://organicmaps.app/) ⭐️ 8.0/10
 
-China is defending its 'ethnic unity' law, which rights groups and Western officials criticize as a threat to minorities like Tibetans and Uyghurs, while Beijing claims it aims to protect them.
+Organic Maps, an open-source navigation app, is at the center of a community debate due to allegations of non-FLOSS components, questionable governance, and a significant fork called CoMaps, prompting users to discuss its integrity and alternatives.
 
-rss · 紐約時報 國際 · 7月3日 08:18
+hackernews · tosh · 7月5日 14:14 · [社群討論](https://news.ycombinator.com/item?id=48794446)
 
-**標籤**: `#China`, `#Human Rights`, `#Ethnic Minorities`, `#International Relations`, `#Politics`
+**標籤**: `#Open Source`, `#Mobile Apps`, `#Mapping`, `#Software Ethics`, `#Community Governance`
 
 ---
 
 <a id="item-9"></a>
-## [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html) ⭐️ 9.0/10
+## [It's not about physical vs. digital games, it's about ownership](https://popcar.bearblog.dev/its-about-ownership/) ⭐️ 8.0/10
 
-U.S. officials reportedly believed Israel was plotting to assassinate Iranian negotiators, including the foreign minister and parliament speaker, fearing such actions would derail peace talks.
+The article argues that the fundamental issue in modern gaming is not the physical versus digital format, but the lack of true ownership over digital purchases, contrasting it with traditional ownership rights and highlighting how evolving business models often restrict these rights.
 
-rss · 紐約時報 國際 · 7月3日 18:10
+hackernews · popcar2 · 7月5日 14:56 · [社群討論](https://news.ycombinator.com/item?id=48794750)
 
-**標籤**: `#Geopolitics`, `#International Relations`, `#Middle East`, `#Diplomacy`, `#National Security`
+**標籤**: `#Gaming`, `#Digital Rights`, `#Consumer Rights`, `#Ownership`, `#Business Models`
+
+---
+
+<a id="item-10"></a>
+## [Reparaible and open source paper printer](https://www.opentools.studio/) ⭐️ 7.0/10
+
+A pre-crowdfunding project aims to develop an open-source, repairable paper printer to combat vendor lock-in and promote sustainability, sparking community debate about the technical feasibility and market demand for such a device.
+
+hackernews · bouh · 7月5日 21:03 · [社群討論](https://news.ycombinator.com/item?id=48797916)
+
+**標籤**: `#Technology`, `#Open Source`, `#Right-to-Repair`, `#Consumer Electronics`, `#Sustainability`
 
 ---
