@@ -5,131 +5,105 @@ date: 2026-07-11
 lang: zh
 ---
 
-> 從 388 則內容中篩選出 10 則重要資訊。
+> 從 267 則內容中篩選出 8 則重要資訊。
 
 ---
 
-1. [蘋果控告 OpenAI 及前員工竊取商業機密](#item-1) ⭐️ 9.0/10
-2. [New York City to to ban deceptive subscription practices](#item-2) ⭐️ 9.0/10
-3. [颱風巴威逼近台灣本島 絕大多數縣市停班停課](#item-3) ⭐️ 9.0/10
-4. [福建泉州晉江鞋廠大火致 28 人遇難，習近平指「嚴肅追責」](#item-4) ⭐️ 9.0/10
-5. [哈梅內伊下葬之際，美伊互相發動攻擊](#item-5) ⭐️ 9.0/10
-6. [廣西洪災：多次預警之後，洪水為何仍令人措手不及？](#item-6) ⭐️ 9.0/10
-7. [澳門國安法首案起訴 歐錦新顛覆罪面臨 25 年徒刑](#item-7) ⭐️ 9.0/10
-8. [一文讀懂貝安德拜相之路：英國工黨如何選舉新黨魁](#item-8) ⭐️ 9.0/10
-9. [QuadRF can spot drones and see WiFi through my wall](#item-9) ⭐️ 8.0/10
-10. [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture (pdf)](#item-10) ⭐️ 8.0/10
+1. [巴威颱風逼近中國，浙江數十萬人緊急撤離](#item-1) ⭐️ 9.0/10
+2. [伊朗在外交會談與復仇誓言中發射警告彈，區域緊張局勢升級](#item-2) ⭐️ 9.0/10
+3. [A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.](#item-3) ⭐️ 9.0/10
+4. [廣西水災：「大躍進」時期建的水庫為何擋不了極端洪水？](#item-4) ⭐️ 8.0/10
+5. [新加坡夫婦收養了印尼男嬰，卻發現孩子疑遭人口販運](#item-5) ⭐️ 8.0/10
+6. [After Venezuela Earthquakes, a Youth Baseball League Counts the Dead](#item-6) ⭐️ 8.0/10
+7. [Show HN: Ant – A JavaScript runtime and ecosystem](#item-7) ⭐️ 7.0/10
+8. [Prefer strict tables in SQLite](#item-8) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [蘋果控告 OpenAI 及前員工竊取商業機密](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) ⭐️ 9.0/10
+## [巴威颱風逼近中國，浙江數十萬人緊急撤離](https://www.bbc.com/zhongwen/articles/c4gy1xleelgo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-蘋果公司已對 OpenAI 提起訴訟，指控這家人工智慧公司及其數名前蘋果員工竊取硬體相關的商業機密，並指示新進員工隱瞞離職並帶走機密資訊。 這場訴訟代表了蘋果和 OpenAI 這兩家最具影響力的科技公司之間一場重大的法律戰，可能影響 OpenAI 的業務營運、未來的首次公開募股計畫，並為快速發展的人工智慧產業中的智慧財產權保護樹立先例。 訴訟中包含嚴厲指控，稱 OpenAI 指示從蘋果跳槽的新員工隱瞞其在 OpenAI 的職位，並將蘋果的機密資訊透過電子郵件發送給自己，其中特別提到一位 Tan 先生。此外，蘋果聲稱 OpenAI 在與蘋果供應商接洽時，使用了其機密的硬體資訊。
+巴威颱風正逼近中國，導致浙江東部數十萬人緊急疏散，其中擁有約 1,000 萬人口的溫州市位於其預計路徑上，這是一週內第二個威脅中國的颱風。 此事件意義重大，因為涉及大規模疏散行動以及對溫州這樣大城市的潛在影響，突顯了公共安全上的嚴峻挑戰，以及在人口稠密地區管理自然災害的困難。 溫州市擁有約 1,000 萬人口，位於風暴路徑附近，因此浙江東部數十萬人被疏散，以確保民眾安全。
 
-hackernews · stock_toaster · 7月10日 20:47 · [社群討論](https://news.ycombinator.com/item?id=48865019)
+rss · BBC 中文 (國際) · 7月11日 15:01
 
-**社群討論**: 社群對 OpenAI 表達強烈譴責，認為這些指控「證據確鑿」，並認為鑑於蘋果的資源，此案看起來「勝券在握」。許多人認為這場訴訟將嚴重影響 OpenAI，特別是其潛在的首次公開募股和處理智慧財產權的聲譽，有些人甚至推測這反映了 OpenAI 急於進入硬體市場的渴望。
-
-**標籤**: `#Technology`, `#Lawsuit`, `#Artificial Intelligence`, `#Business`, `#Corporate Espionage`
+**標籤**: `#Natural Disaster`, `#China`, `#Typhoon`, `#Evacuation`, `#Public Safety`
 
 ---
 
 <a id="item-2"></a>
-## [New York City to to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban) ⭐️ 9.0/10
+## [伊朗在外交會談與復仇誓言中發射警告彈，區域緊張局勢升級](https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html) ⭐️ 9.0/10
 
-New York City is implementing new regulations to ban deceptive subscription practices and undisclosed 'junk fees,' aiming to protect consumers from difficult cancellations and hidden charges.
+伊朗外交部長與阿曼外交部長會晤數小時後，伊朗宣布向一艘「未經批准航線」的船隻發射警告彈，此舉正值莫傑塔巴·哈梅內伊誓言復仇之際。 此事件標誌著區域緊張局勢的顯著升級，將高層外交努力與在關鍵國際航道上的直接侵略行為結合，引發對潛在更廣泛衝突的擔憂。 這次警告彈事件發生在伊朗最高外交官員於阿曼進行會談期間，並且是在莫傑塔巴·哈梅內伊誓言復仇之後，顯示出複雜且不穩定的地緣政治環境。
 
-hackernews · 衛報 商業 · 7月10日 18:26 · [社群討論](https://news.ycombinator.com/item?id=48863464)
+rss · 紐約時報 國際 · 7月11日 23:29
 
-**標籤**: `#Consumer Protection`, `#New York City`, `#Legislation`, `#Business Practices`, `#Economy`
+**標籤**: `#Geopolitics`, `#Middle East`, `#Maritime Security`, `#Iran`, `#Diplomacy`
 
 ---
 
 <a id="item-3"></a>
-## [颱風巴威逼近台灣本島 絕大多數縣市停班停課](https://bbc.in/4ww4np5?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.](https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html) ⭐️ 9.0/10
 
-Super Typhoon Bawi is approaching Taiwan, leading to widespread work and school suspensions across most counties and cities, after impacting Western Pacific islands and is expected to make landfall in mainland China.
+A wildfire in Southern Spain, considered one of the deadliest in the country's history, has killed 12 people and left over 20 missing, with victims including Belgian and British nationals.
 
-rss · BBC 中文 (國際) · 7月10日 00:00
+rss · 紐約時報 國際 · 7月11日 14:46
 
-**標籤**: `#Natural Disaster`, `#Typhoon`, `#Taiwan`, `#Weather`, `#East Asia`
+**標籤**: `#Wildfire`, `#Natural Disaster`, `#Spain`, `#Fatalities`, `#International`
 
 ---
 
 <a id="item-4"></a>
-## [福建泉州晉江鞋廠大火致 28 人遇難，習近平指「嚴肅追責」](https://www.bbc.com/zhongwen/articles/cdr47vzk81no/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [廣西水災：「大躍進」時期建的水庫為何擋不了極端洪水？](https://www.bbc.com/zhongwen/articles/ce8kxgwjer4o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
 
-A shoe factory fire in Jinjiang, Fujian, China, killed 28 people, leading to an official investigation and a call for serious accountability from President Xi Jinping.
+A 66-year-old reservoir in Guangxi, China, built during the 'Great Leap Forward,' failed during heavy rains, prompting a national discussion about the safety of China's aging water infrastructure.
 
-rss · BBC 中文 (國際) · 7月10日 04:51
+rss · BBC 中文 (國際) · 7月10日 04:35
 
-**標籤**: `#China`, `#Industrial Accident`, `#Disaster`, `#Public Safety`, `#Government Response`
+**標籤**: `#China`, `#Infrastructure`, `#Natural Disasters`, `#Public Safety`
 
 ---
 
 <a id="item-5"></a>
-## [哈梅內伊下葬之際，美伊互相發動攻擊](https://www.bbc.com/zhongwen/articles/ckg8x8z317po/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [新加坡夫婦收養了印尼男嬰，卻發現孩子疑遭人口販運](https://www.bbc.com/zhongwen/articles/c892jgqnke3o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
 
-Amidst the burial of Khamenei, the US Central Command announced strikes on 90 Iranian targets, while Iran's Health Ministry reported 14 deaths since Tuesday.
+A Singaporean couple's adoption of an Indonesian baby has exposed potential child trafficking and prompted scrutiny of adoption systems in both Indonesia and Singapore.
 
-rss · BBC 中文 (國際) · 7月10日 04:46
+rss · BBC 中文 (國際) · 7月10日 08:52
 
-**標籤**: `#Geopolitics`, `#US-Iran Relations`, `#Military Conflict`, `#Middle East`
+**標籤**: `#Child Trafficking`, `#International Affairs`, `#Social Issues`, `#Adoption`, `#Human Rights`
 
 ---
 
 <a id="item-6"></a>
-## [廣西洪災：多次預警之後，洪水為何仍令人措手不及？](https://www.bbc.com/zhongwen/articles/c33yk63215yo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [After Venezuela Earthquakes, a Youth Baseball League Counts the Dead](https://www.nytimes.com/2026/07/10/world/americas/venezuela-earthquake-death-baseball-los-criollitos.html) ⭐️ 8.0/10
 
-Despite multiple warnings, severe floods in China's major food-producing region of Guangxi continue to catch residents off guard, prompting questions about underlying causes and preparedness.
+A major earthquake in Venezuela has devastated the nation's youth baseball league, leaving many children dead, injured, or orphaned.
 
-rss · BBC 中文 (國際) · 7月9日 14:07
+rss · 紐約時報 國際 · 7月10日 09:01
 
-**標籤**: `#Natural Disasters`, `#China`, `#Food Security`, `#Disaster Preparedness`, `#Climate Change`
+**標籤**: `#Venezuela`, `#Natural Disaster`, `#Humanitarian Crisis`, `#Society`, `#Earthquake`
 
 ---
 
 <a id="item-7"></a>
-## [澳門國安法首案起訴 歐錦新顛覆罪面臨 25 年徒刑](https://www.bbc.com/zhongwen/articles/cp8l0jk3ygmo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org/) ⭐️ 7.0/10
 
-Former pro-democracy legislator Au Kam San has been charged with "subversion of state power" under Macau's National Security Law, marking the first prosecution under the law and potentially facing 25 years in prison.
+Ant is a new JavaScript runtime and ecosystem, presented as a comprehensive platform with its own engine, package manager, and desktop app framework, sparking community discussion about its ambitious scope and origins.
 
-rss · BBC 中文 (國際) · 7月9日 13:30
+hackernews · theMackabu · 7月11日 20:07 · [社群討論](https://news.ycombinator.com/item?id=48875377)
 
-**標籤**: `#Macau`, `#National Security Law`, `#Human Rights`, `#Politics`, `#China`
+**標籤**: `#JavaScript`, `#Runtime`, `#Ecosystem`, `#Development Tools`, `#Web Development`
 
 ---
 
 <a id="item-8"></a>
-## [一文讀懂貝安德拜相之路：英國工黨如何選舉新黨魁](https://www.bbc.com/zhongwen/articles/cjrgxjpdz7xo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [Prefer strict tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) ⭐️ 6.0/10
 
-Labour MPs in the UK House of Commons have begun the process of nominating a new party leader to replace Sir Keir Starmer, who resigned last month, with the article serving as an explainer on how this election will proceed.
+The article and community discussion advocate for using `STRICT` tables in SQLite to enforce data types, debating the merits of SQLite's default flexible typing versus strict enforcement and whether strict typing should be the default.
 
-rss · BBC 中文 (國際) · 7月9日 18:08
+hackernews · ingve · 7月11日 17:33 · [社群討論](https://news.ycombinator.com/item?id=48873940)
 
-**標籤**: `#UK Politics`, `#Labour Party`, `#Leadership Election`, `#International Affairs`, `#Government`
-
----
-
-<a id="item-9"></a>
-## [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) ⭐️ 8.0/10
-
-A new open-source device called QuadRF utilizes radio frequency to detect drones and visualize WiFi signals through walls, demonstrating advanced sensing capabilities.
-
-hackernews · speckx · 7月10日 15:59 · [社群討論](https://news.ycombinator.com/item?id=48861717)
-
-**標籤**: `#Radio Frequency (RF)`, `#Drones`, `#Privacy`, `#Technology`, `#Security`
-
----
-
-<a id="item-10"></a>
-## [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture (pdf)](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) ⭐️ 8.0/10
-
-A new AI model, GPT-5.6 Sol Ultra, reportedly generated a proof for the complex Cycle Double Cover Conjecture, showcasing advanced AI reasoning capabilities, though community discussion highlights the extensive prompt engineering involved and the specialized nature of the mathematical problem.
-
-hackernews · scrlk · 7月10日 18:29 · [社群討論](https://news.ycombinator.com/item?id=48863490)
-
-**標籤**: `#Artificial Intelligence`, `#Mathematics`, `#AI Capabilities`, `#Problem Solving`, `#Machine Learning`
+**標籤**: `#SQLite`, `#Databases`, `#Software Development`, `#Data Integrity`, `#Best Practices`
 
 ---
