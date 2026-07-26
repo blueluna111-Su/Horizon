@@ -5,117 +5,105 @@ date: 2026-07-26
 lang: en
 ---
 
-> From 277 items, 9 important content pieces were selected
+> From 187 items, 8 important content pieces were selected
 
 ---
 
-1. [Open-weight AI is having its Kubernetes moment](#item-1) ⭐️ 9.0/10
-2. [中國兩學者破解百年難題，首奪全球數學最高榮譽](#item-2) ⭐️ 9.0/10
-3. [曼德海峽：胡塞武裝的威脅會否觸發紅海航運危機？](#item-3) ⭐️ 9.0/10
-4. [美中AI科技戰：白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術](#item-4) ⭐️ 9.0/10
-5. [What to Know About the Wildfires Raging in Western Europe](#item-5) ⭐️ 9.0/10
-6. [What’s Left of the U.S.-Iran Cease-Fire Agreement](#item-6) ⭐️ 9.0/10
-7. [Who Are the People Protesting in India?](#item-7) ⭐️ 9.0/10
-8. [So many British people have it better than they think – it’s up to Burnham to make them see that | Polly Toynbee](#item-8) ⭐️ 8.0/10
-9. [Did They Ghost You?](#item-9) ⭐️ 6.0/10
+1. [今年最強颱風「紅霞」登陸中國廣東  逾71萬人疏散](#item-1) ⭐️ 9.0/10
+2. [Berlin Pride Event Attacker Killed in Police Shootout, Officials Say](#item-2) ⭐️ 9.0/10
+3. [20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola](#item-3) ⭐️ 9.0/10
+4. [E.U. Divided Over Barring Imports From Israeli Settlements](#item-4) ⭐️ 9.0/10
+5. [India’s Education Minister Steps Down in Victory for Cockroach Party Protesters](#item-5) ⭐️ 9.0/10
+6. [Here’s the latest.](#item-6) ⭐️ 9.0/10
+7. [Decker, a platform that builds on the legacy of Hypercard and classic macOS](#item-7) ⭐️ 7.0/10
+8. [Design is compromise](#item-8) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) ⭐️ 9.0/10
+## [今年最強颱風「紅霞」登陸中國廣東  逾71萬人疏散](https://www.bbc.com/zhongwen/articles/cqx748q7zrwo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
 
-The article suggests that open-weight AI models are at a pivotal juncture, poised to revolutionize the AI industry in a manner similar to how Kubernetes transformed cloud infrastructure.
+The strongest typhoon of the year, "Hongxia," has made landfall in Guangdong, China, prompting the evacuation of over 710,000 people and threatening multiple provinces with severe weather and secondary disasters.
 
-hackernews · tknaup · Jul 25, 14:49 · [Discussion](https://news.ycombinator.com/item?id=49048034)
+rss · BBC 中文 (國際) · Jul 26, 08:35
 
-**Tags**: `#AI`, `#Open Source`, `#Industry Trends`, `#Business Strategy`, `#Geopolitics`
+**Tags**: `#Natural Disaster`, `#Typhoon`, `#China`, `#Weather`, `#Evacuation`
 
 ---
 
 <a id="item-2"></a>
-## [中國兩學者破解百年難題，首奪全球數學最高榮譽](https://www.bbc.com/zhongwen/articles/c86npjqxpx9o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [Berlin Pride Event Attacker Killed in Police Shootout, Officials Say](https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html) ⭐️ 9.0/10
 
-Two Chinese scholars have won the prestigious Fields Medal, marking the first time a Chinese citizen has received the top mathematics honor, with one of the recipients being only the third woman ever to achieve this recognition.
+The suspect in a likely Islamist terrorist attack at a Berlin Pride event has been killed in a police shootout following a large-scale manhunt, according to officials.
 
-rss · BBC 中文 (國際) · Jul 25, 00:42
+rss · 紐約時報 國際 · Jul 26, 22:00
 
-**Tags**: `#Mathematics`, `#Science`, `#Awards`, `#China`, `#Gender Equality`
+**Tags**: `#World Affairs`, `#Terrorism`, `#LGBTQ+`, `#Germany`, `#Law Enforcement`
 
 ---
 
 <a id="item-3"></a>
-## [曼德海峽：胡塞武裝的威脅會否觸發紅海航運危機？](https://www.bbc.com/zhongwen/articles/c4g63djrgy8o/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola](https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html) ⭐️ 9.0/10
 
-The article discusses the potential for Houthi threats to block the Bab-el-Mandeb Strait, a vital maritime route for 12% of global seaborne oil trade, to trigger a Red Sea shipping crisis and further disrupt global commerce.
+The Bundibugyo Ebola virus, first identified in Uganda, has re-emerged in eastern Congo, disrupting life along a busy border.
 
-rss · BBC 中文 (國際) · Jul 24, 00:03
+rss · 紐約時報 國際 · Jul 26, 15:47
 
-**Tags**: `#Geopolitics`, `#Global Trade`, `#Energy Security`, `#Middle East`, `#Shipping Crisis`
+**Tags**: `#Public Health`, `#Ebola`, `#Africa`, `#Infectious Disease`, `#World Affairs`
 
 ---
 
 <a id="item-4"></a>
-## [美中AI科技戰：白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術](https://www.bbc.com/zhongwen/articles/c62vqpqdqjwo/trad?at_medium=RSS&at_campaign=rss) ⭐️ 9.0/10
+## [E.U. Divided Over Barring Imports From Israeli Settlements](https://www.nytimes.com/2026/07/26/world/middleeast/eu-debate-about-import-ban-reveals-deep-divides-over-israel.html) ⭐️ 9.0/10
 
-The White House has accused Chinese AI company Moonshot AI of stealing technology from Anthropic's Fable AI model through "distillation" to develop its K3 model, escalating the US-China tech rivalry.
+The European Union is deeply divided over whether to impose restrictions on imports from Israeli settlements in occupied territories, reflecting broader disagreements on how to approach Israel.
 
-rss · BBC 中文 (國際) · Jul 24, 04:16
+rss · 紐約時報 國際 · Jul 26, 16:16
 
-**Tags**: `#US-China Relations`, `#AI Technology`, `#Intellectual Property`, `#Tech War`, `#Geopolitics`
+**Tags**: `#International Affairs`, `#European Union`, `#Israel`, `#Geopolitics`, `#Trade Policy`
 
 ---
 
 <a id="item-5"></a>
-## [What to Know About the Wildfires Raging in Western Europe](https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html) ⭐️ 9.0/10
+## [India’s Education Minister Steps Down in Victory for Cockroach Party Protesters](https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html) ⭐️ 9.0/10
 
-Massive wildfires are raging across France and Spain, forcing tens of thousands of residents and vacationers to evacuate.
+India's education minister has resigned following weeks of protests by the Cockroach Janta Party, marking a victory for the movement amidst lingering anger among young people.
 
-rss · 紐約時報 國際 · Jul 25, 21:47
+rss · 紐約時報 國際 · Jul 25, 17:07
 
-**Tags**: `#Wildfires`, `#Natural Disasters`, `#Europe`, `#Public Safety`, `#Climate Change`
+**Tags**: `#Politics`, `#India`, `#Protests`, `#Education`, `#Social Issues`
 
 ---
 
 <a id="item-6"></a>
-## [What’s Left of the U.S.-Iran Cease-Fire Agreement](https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html) ⭐️ 9.0/10
+## [Here’s the latest.](https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions/heres-the-latest) ⭐️ 9.0/10
 
-A report indicates that nearly all 14 points of the U.S.-Iran cease-fire agreement have been violated, signaling a significant breakdown in diplomatic efforts.
+Major wildfires are currently affecting France and Spain, leading to widespread evacuations.
 
-rss · 紐約時報 國際 · Jul 25, 14:46
+rss · 紐約時報 國際 · Jul 26, 19:13
 
-**Tags**: `#Geopolitics`, `#International Relations`, `#Middle East`, `#US Foreign Policy`, `#Iran`
+**Tags**: `#Wildfires`, `#Europe`, `#Natural Disasters`, `#Public Safety`, `#Climate Change`
 
 ---
 
 <a id="item-7"></a>
-## [Who Are the People Protesting in India?](https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html) ⭐️ 9.0/10
+## [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) ⭐️ 7.0/10
 
-The article profiles young Indian demonstrators, revealing the deep-seated anger, frustration, and desires that fueled their protests and ultimately led to the education minister's removal.
+Decker is a platform that aims to revive the user-friendly, accessible application development paradigm of Apple's classic HyperCard, empowering non-programmers to create diverse software.
 
-rss · 紐約時報 國際 · Jul 25, 13:53
+hackernews · tosh · Jul 26, 18:23 · [Discussion](https://news.ycombinator.com/item?id=49060856)
 
-**Tags**: `#India`, `#Protests`, `#Politics`, `#Society`, `#Education`
+**Tags**: `#Software Development`, `#Computing History`, `#User Empowerment`, `#Low-Code`, `#Human-Computer Interaction`
 
 ---
 
 <a id="item-8"></a>
-## [So many British people have it better than they think – it’s up to Burnham to make them see that | Polly Toynbee](https://www.theguardian.com/commentisfree/2026/jul/24/british-people-andy-burnham-goodwill-gestures) ⭐️ 8.0/10
+## [Design is compromise](https://stephango.com/design-is-compromise) ⭐️ 7.0/10
 
-A commentary piece argues that British voters are increasingly cynical and pessimistic, feeling let down despite potentially better circumstances, and suggests that political leaders like Andy Burnham face the challenge of restoring public trust and optimism.
+The article posits that design inherently involves compromise, a concept further explored and debated in the comments regarding its definition, necessity, and role in effective problem-solving and product development.
 
-rss · 衛報 政治 · Jul 24, 10:00
+hackernews · ankitg12 · Jul 26, 15:51 · [Discussion](https://news.ycombinator.com/item?id=49059367)
 
-**Tags**: `#UK Politics`, `#Public Opinion`, `#Social Trends`, `#Political Commentary`, `#Pessimism`
-
----
-
-<a id="item-9"></a>
-## [Did They Ghost You?](https://didtheyghostyou.com/) ⭐️ 6.0/10
-
-A website collects and shares experiences of job applicants being ghosted by recruiters, sparking community discussion with personal anecdotes about this common professional frustration.
-
-hackernews · mooreds · Jul 25, 20:18 · [Discussion](https://news.ycombinator.com/item?id=49051120)
-
-**Tags**: `#Job Market`, `#Recruitment`, `#Workplace Culture`, `#Human Resources`, `#Social Issues`
+**Tags**: `#Design Philosophy`, `#Product Development`, `#Decision Making`, `#Trade-offs`, `#Software Engineering`
 
 ---
